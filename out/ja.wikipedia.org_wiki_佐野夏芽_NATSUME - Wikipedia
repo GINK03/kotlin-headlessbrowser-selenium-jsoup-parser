@@ -1,0 +1,648 @@
+<!doctype html>
+<html class="client-nojs" lang="ja" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>NATSUME - Wikipedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"NATSUME","wgTitle":"NATSUME","wgCurRevisionId":59005481,"wgRevisionId":59005481,"wgArticleId":402309,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ウィキデータにないAmeba Blog ID","アイドルに関するスタブ","グラビアアイドル","日本のタレント","東京都出身の人物","1985年生","存命人物"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"NATSUME","wgRelevantArticleId":402309,"wgRequestId":"WOH5qwpAMEwAAI0UPpoAAAAF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"佐野夏芽","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/NATSUME","wgWikibaseItemId":"Q3546277","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.math.scripts%2Cstyles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.29.0-wmf.18"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/NATSUME"> 
+  <link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=NATSUME&amp;action=edit"> 
+  <link rel="edit" title="編集" href="/w/index.php?title=NATSUME&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ja.wikipedia.org/wiki/NATSUME"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-NATSUME rootpage-NATSUME skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="ja">NATSUME</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     出典: フリー百科事典『ウィキペディア（Wikipedia）』
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">（<a href="/w/index.php?title=%E4%BD%90%E9%87%8E%E5%A4%8F%E8%8A%BD&amp;redirect=no" class="mw-redirect" title="佐野夏芽">佐野夏芽</a>から転送）</span>
+    </div> 
+    <div id="jump-to-nav" class="mw-jump">
+      移動先: 
+     <a href="#mw-head">案内</a>、 
+     <a href="#p-search">検索</a> 
+    </div> 
+    <div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr">
+     <div class="dablink noprint"> 
+      <table style="width:100%; background:transparent;"> 
+       <tbody>
+        <tr> 
+         <td style="width:25px;"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Disambig_gray.svg" class="image" title="曖昧さ回避"><img alt="曖昧さ回避" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" width="25" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168"></a></td> 
+         <td>この項目では、<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>の元<a href="/wiki/%E4%BF%B3%E5%84%AA" title="俳優">女優</a>、元<a href="/wiki/%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88" title="タレント">タレント</a>、元<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="グラビアアイドル">グラビアアイドル</a>について説明しています。日本の<a href="/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE%E4%B8%80%E8%A6%A7" title="ゲーム会社一覧">ゲーム会社</a>については「<a href="/wiki/%E3%83%8A%E3%83%84%E3%83%A1%E3%82%A2%E3%82%BF%E3%83%AA" title="ナツメアタリ">ナツメアタリ</a>」をご覧ください。</td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <table class="infobox" style="width:22em; width: 20em"> 
+      <caption itemprop="name" class="" style="font-weight: normal">
+       <span style="font-size:small">なつめ</span>
+       <br> 
+       <span style="font-size:large; font-weight:bold">NATSUME</span>
+      </caption> 
+      <tbody>
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">プロフィール</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E6%84%9B%E7%A7%B0" title="愛称">愛称</a></th> 
+        <td class="" style="" itemprop="">ナツミン</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E8%AA%95%E7%94%9F%E6%97%A5" title="誕生日">生年月日</a></th> 
+        <td class="" style="" itemprop=""><a href="/wiki/1985%E5%B9%B4" title="1985年">1985年</a><a href="/wiki/2%E6%9C%8814%E6%97%A5" title="2月14日">2月14日</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E5%B9%B4%E9%BD%A2" title="年齢">現年齢</a></th> 
+        <td class="" style="" itemprop="">32歳</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">出身地</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Japan.svg" class="image" title="日本の旗"><img alt="日本の旗" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png" width="25" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/38px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600"></a> <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>・<a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都">東京都</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/ABO%E5%BC%8F%E8%A1%80%E6%B6%B2%E5%9E%8B" title="ABO式血液型">血液型</a></th> 
+        <td class="" style="" itemprop="">A型</td> 
+       </tr> 
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">公称サイズ（2010年<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>時点）</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E8%BA%AB%E9%95%B7" title="身長">身長</a> / <a href="/wiki/%E4%BD%93%E9%87%8D" title="体重">体重</a></th> 
+        <td class="" style="" itemprop="">155 <a href="/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB" title="センチメートル">cm</a> / <span style="color:gray">―</span> <a href="/wiki/%E3%82%AD%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0" title="キログラム">kg</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA" title="スリーサイズ">スリーサイズ</a></th> 
+        <td class="" style="" itemprop="">86 - 58 - 84 cm</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%BC#.E3.82.B5.E3.82.A4.E3.82.BA.E3.81.AE.E3.83.B4.E3.82.A1.E3.83.AA.E3.82.A8.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3" title="ブラジャー">カップサイズ</a></th> 
+        <td class="" style="" itemprop="">F</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">靴のサイズ</th> 
+        <td class="" style="" itemprop="">23.5 cm</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">備考</th> 
+        <td class="" style="" itemprop="">両利き</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <td colspan="2" class="" style="text-align:center;" itemprop=""> 
+         <div class="NavFrame" style="margin:0 auto; border:none; padding:0px; font-size:100%"> 
+          <div class="NavHead" style="background-color: #F9F9F9; text-align:left; font-weight:normal">
+           単位系換算
+          </div> 
+          <div class="NavContent" style="font-size:90%"> 
+           <table style="width:100%; background:#f2f2f2"> 
+            <tbody>
+             <tr> 
+              <th>身長 / 体重</th> 
+              <td>5<a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88" title="フィート">′</a> 2<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%81" title="インチ">″</a> / <span style="color:gray">―</span> <a href="/wiki/%E3%83%9D%E3%83%B3%E3%83%89_(%E8%B3%AA%E9%87%8F)" title="ポンド (質量)">lb</a></td> 
+             </tr> 
+             <tr> 
+              <th>スリーサイズ</th> 
+              <td>34 - 23 - 33 in</td> 
+             </tr> 
+            </tbody>
+           </table> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">活動</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">デビュー</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/2003%E5%B9%B4" title="2003年">2003年</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E3%83%A2%E3%83%87%E3%83%AB_(%E8%81%B7%E6%A5%AD)#.E5.BE.93.E4.BA.8B.E3.82.B8.E3.83.A3.E3.83.B3.E3.83.AB.E3.81.AB.E3.82.88.E3.82.8B.E5.88.86.E9.A1.9E" title="モデル (職業)">ジャンル</a></th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="グラビアアイドル">グラビア</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">モデル内容</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E6%B0%B4%E7%9D%80" title="水着">水着</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">他の活動</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E4%BF%B3%E5%84%AA" title="俳優">女優</a>、<a href="/wiki/%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88" title="タレント">タレント</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" class="" style="text-align:center; text-align: right; font-size: 80%"><a href="/wiki/%E3%83%A2%E3%83%87%E3%83%AB_(%E8%81%B7%E6%A5%AD)" title="モデル (職業)">モデル</a>: <a href="/wiki/Template:%E5%A5%B3%E6%80%A7%E3%83%A2%E3%83%87%E3%83%AB" title="Template:女性モデル">テンプレート</a> - <a href="/wiki/Category:%E3%83%A2%E3%83%87%E3%83%AB" title="Category:モデル">カテゴリ</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b>NATSUME</b>（なつめ、<a href="/wiki/1985%E5%B9%B4" title="1985年">1985年</a><a href="/wiki/2%E6%9C%8814%E6%97%A5" title="2月14日">2月14日</a> - ）は<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>の元<a href="/wiki/%E4%BF%B3%E5%84%AA" title="俳優">女優</a>、元<a href="/wiki/%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88" title="タレント">タレント</a>、元<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="グラビアアイドル">グラビアアイドル</a>である。旧芸名：<b>佐野 夏芽</b>（さの なつめ）。<a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都">東京都</a>出身。</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>目次</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#.E4.BA.BA.E7.89.A9"><span class="tocnumber">1</span> <span class="toctext">人物</span></a></li> 
+       <li class="toclevel-1 tocsection-2"><a href="#.E5.87.BA.E6.BC.94"><span class="tocnumber">2</span> <span class="toctext">出演</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-3"><a href="#.E3.83.86.E3.83.AC.E3.83.93"><span class="tocnumber">2.1</span> <span class="toctext">テレビ</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-4"><a href="#.E3.83.86.E3.83.AC.E3.83.93.E3.83.89.E3.83.A9.E3.83.9E"><span class="tocnumber">2.1.1</span> <span class="toctext">テレビドラマ</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-2 tocsection-5"><a href="#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88"><span class="tocnumber">2.2</span> <span class="toctext">インターネット</span></a></li> 
+         <li class="toclevel-2 tocsection-6"><a href="#.E6.90.BA.E5.B8.AF.E3.82.B5.E3.82.A4.E3.83.88"><span class="tocnumber">2.3</span> <span class="toctext">携帯サイト</span></a></li> 
+         <li class="toclevel-2 tocsection-7"><a href="#.E3.83.A9.E3.82.B8.E3.82.AA"><span class="tocnumber">2.4</span> <span class="toctext">ラジオ</span></a></li> 
+         <li class="toclevel-2 tocsection-8"><a href="#.E6.98.A0.E7.94.BB"><span class="tocnumber">2.5</span> <span class="toctext">映画</span></a></li> 
+         <li class="toclevel-2 tocsection-9"><a href="#.E8.88.9E.E5.8F.B0"><span class="tocnumber">2.6</span> <span class="toctext">舞台</span></a></li> 
+         <li class="toclevel-2 tocsection-10"><a href="#CM"><span class="tocnumber">2.7</span> <span class="toctext">CM</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-11"><a href="#.E4.BD.9C.E5.93.81"><span class="tocnumber">3</span> <span class="toctext">作品</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-12"><a href="#.E5.86.99.E7.9C.9F.E9.9B.86"><span class="tocnumber">3.1</span> <span class="toctext">写真集</span></a></li> 
+         <li class="toclevel-2 tocsection-13"><a href="#.E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E5.86.99.E7.9C.9F.E9.9B.86"><span class="tocnumber">3.2</span> <span class="toctext">デジタル写真集</span></a></li> 
+         <li class="toclevel-2 tocsection-14"><a href="#Video_.26_DVD"><span class="tocnumber">3.3</span> <span class="toctext">Video &amp; DVD</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-15"><a href="#.E3.82.A4.E3.83.A1.E3.83.BC.E3.82.B8.E3.83.93.E3.83.87.E3.82.AA"><span class="tocnumber">3.3.1</span> <span class="toctext">イメージビデオ</span></a></li> 
+           <li class="toclevel-3 tocsection-16"><a href="#.E5.87.BA.E6.BC.94.E3.81.AE.E3.81.BF"><span class="tocnumber">3.3.2</span> <span class="toctext">出演のみ</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-2 tocsection-17"><a href="#.E3.81.9D.E3.81.AE.E4.BB.96"><span class="tocnumber">3.4</span> <span class="toctext">その他</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-18"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">4</span> <span class="toctext">脚注</span></a></li> 
+       <li class="toclevel-1 tocsection-19"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">5</span> <span class="toctext">外部リンク</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id=".E4.BA.BA.E7.89.A9">人物</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=1" title="節を編集: 人物">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li>グラビアアイドルとして活躍していた時期は<a href="/wiki/%E6%84%9B%E5%B7%9D%E3%82%86%E3%81%9A%E5%AD%A3" title="愛川ゆず季">愛川ゆず季</a>と『なつゆず』、<a href="/wiki/%E7%9F%B3%E4%BA%95%E3%82%81%E3%81%90%E3%82%8B" title="石井めぐる">石井めぐる</a>と『なつめぐ』というグラビアユニットを雑誌企画で組んでいたことがある。ちなみに愛川と石井の『ゆずめぐ』も存在する（<a href="/wiki/CBC%E3%83%86%E3%83%AC%E3%83%93" title="CBCテレビ">中部日本放送</a>のバラエティ番組『<a href="/wiki/%E3%81%AA%E3%81%A4%E3%82%81%E3%81%90%E5%A0%82" title="なつめぐ堂">なつめぐ堂</a>』とは無関係）。この2人とは『<a href="/w/index.php?title=%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E8%8A%B8%E8%83%BD%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="アイドル芸能社 (存在しないページ)">アイドル芸能社</a>』（<a href="/wiki/BS-TBS" title="BS-TBS">BS-i</a>）でも共演していて、ブログにたびたび登場するほど仲が良かった。</li> 
+      <li>2009年夏には<a href="/wiki/%E8%8F%AF%E5%BD%A9%E3%81%AA%E3%81%AA" title="華彩なな">華彩なな</a>と期間限定グラビアアイドルユニット『ナツメ★ナナ 2009』を結成した（<a href="/wiki/%E5%A4%8F%E7%9B%AE%E3%83%8A%E3%83%8A" title="夏目ナナ">夏目ナナ</a>とは無関係）。</li> 
+      <li>2009年10月18日にイベントとブログにて12月のDVD発売を最後にグラビア活動を引退することを発表した。2010年以降は芝居（舞台女優）を中心に芸能活動を続けていた。</li> 
+      <li>2010年3月、芸名を『NATSUME』に変更し、事務所もドレスコードに移籍。</li> 
+      <li>2013年6月30日をもってドレスコードを退社し、芸能界を引退。<a href="/wiki/%E3%83%84%E3%82%A4%E3%83%83%E3%82%BF%E3%83%BC" class="mw-redirect" title="ツイッター">ツイッター</a>にて本名が「ももえ」であることを明かした。</li> 
+     </ul> 
+     <h2><span class="mw-headline" id=".E5.87.BA.E6.BC.94">出演</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=2" title="節を編集: 出演">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id=".E3.83.86.E3.83.AC.E3.83.93">テレビ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=3" title="節を編集: テレビ">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/w/index.php?title=%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E8%8A%B8%E8%83%BD%E7%A4%BE&amp;action=edit&amp;redlink=1" class="new" title="アイドル芸能社 (存在しないページ)">アイドル芸能社</a>（2005年4月 - 2006年1月、<a href="/wiki/BS-TBS" title="BS-TBS">BS-i</a>）- 広報宣伝部長</li> 
+      <li><a href="/wiki/NANDA!%3F" class="mw-redirect" title="NANDA!?">NANDA!?</a></li> 
+      <li><a href="/w/index.php?title=%E7%9D%80%E4%BF%A1(%E7%94%9F)&amp;action=edit&amp;redlink=1" class="new" title="着信(生) (存在しないページ)">着信(生)</a>（<a href="/wiki/%E3%83%86%E3%83%AC%E3%83%93%E6%9D%B1%E4%BA%AC" title="テレビ東京">テレビ東京</a>）</li> 
+      <li><a href="/wiki/%E3%81%97%EF%BD%9E%E3%81%9F%E3%81%8F" class="mw-redirect" title="し～たく">し～たく</a>（テレビ東京）</li> 
+      <li><a href="/wiki/%E4%B8%89%E7%AB%B9%E5%8D%A0%E3%81%84" title="三竹占い">三竹占い</a></li> 
+      <li><a href="/wiki/%E3%82%A2%E3%83%89%E3%83%AC%E3%81%AA!%E3%82%AC%E3%83%AC%E3%83%83%E3%82%B8" title="アドレな!ガレッジ">アドレな!ガレッジ</a></li> 
+      <li><a href="/wiki/%E3%83%A9%E3%83%B3%E3%82%AF%E7%8E%8B%E5%9B%BD" title="ランク王国">ランク王国SP</a></li> 
+      <li><a href="/wiki/%E3%81%82%E3%81%8D%E3%81%A8%E7%94%B1%E4%BD%B3%E3%81%AEIdol_Park" title="あきと由佳のIdol Park">あきと由佳のIdol Park</a> 2時間SP</li> 
+      <li><a href="/wiki/%E3%83%91%E3%82%AA%E3%83%91%E3%82%AA_%E3%82%A2%E3%82%BD%E3%83%93%E2%98%85%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA" title="パオパオ アソビ★クリエイターズ">パオパオ アソビ★クリエイターズ</a></li> 
+      <li><a href="/wiki/%E3%83%89%E3%82%B9%E3%83%9A2" title="ドスペ2">ドスペ2</a>「<a href="/wiki/%E6%84%9B%E3%81%AE%E3%82%A8%E3%83%97%E3%83%AD%E3%83%B3#.E6.81.8B.E3.81.AE.E3.82.A8.E3.83.97.E3.83.AD.E3.83.B3" title="愛のエプロン">恋のエプロン 新人タレント料理下克上バトル</a>」（2005年8月、<a href="/wiki/%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5" title="テレビ朝日">テレビ朝日</a>）</li> 
+      <li><a href="/wiki/%E7%99%BD%E9%BB%92%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5" title="白黒アンジャッシュ">白黒アンジャッシュ</a></li> 
+      <li><a href="/wiki/%E3%82%B0%E3%83%83%E3%83%94%E3%83%BC!!" title="グッピー!!">グッピー!!</a>（「<a href="/wiki/%E6%9C%A8%E6%9B%9C%E6%97%A5%E3%81%AE%E4%B8%BC" title="木曜日の丼">木曜日の丼</a>」後半）</li> 
+      <li><a href="/w/index.php?title=%E7%AC%AC%E5%9B%9B%E6%9C%88%E6%9B%9C%E6%97%A5&amp;action=edit&amp;redlink=1" class="new" title="第四月曜日 (存在しないページ)">第四月曜日</a></li> 
+      <li><a href="/wiki/%E3%81%B7%E3%82%8C%E3%83%9F%E3%83%BC%E3%83%A4!" title="ぷれミーヤ!">ぷちミーヤ!</a></li> 
+      <li><a href="/wiki/%E3%82%84%E3%81%90%E3%81%A1%E3%81%B2%E3%81%A8%E3%82%8A" title="やぐちひとり">やぐちひとり</a>(C)</li> 
+      <li><a href="/w/index.php?title=TOKYO_BOY&amp;action=edit&amp;redlink=1" class="new" title="TOKYO BOY (存在しないページ)">TOKYO BOY</a></li> 
+      <li><a href="/wiki/%E3%81%82%E3%82%8A%E3%81%88%E3%81%B8%E3%82%93%E2%88%9E%E4%B8%96%E7%95%8C" title="ありえへん∞世界">ありえへん∞世界</a>（2008年7月・8月、テレビ東京）</li> 
+      <li><a href="/w/index.php?title=Let%27s_Sports_Shooting&amp;action=edit&amp;redlink=1" class="new" title="Let's Sports Shooting (存在しないページ)">Let's Sports Shooting</a></li> 
+      <li><a href="/wiki/%E5%A0%82%E6%9C%AC%E5%89%9B%E3%81%AE%E6%AD%A3%E7%9B%B4%E3%81%97%E3%82%93%E3%81%A9%E3%81%84" title="堂本剛の正直しんどい">堂本剛の正直しんどい</a></li> 
+      <li><a href="/wiki/%E3%81%86%E3%81%87%E3%81%B6%E3%81%9F%E3%81%BEww" title="うぇぶたまww">うぇぶたまww</a></li> 
+      <li><a href="/wiki/%E3%82%AD%E3%83%B3%E3%82%B3%E3%83%B3%E3%83%92%E3%83%AB%E3%82%BA" title="キンコンヒルズ">キンコンヒルズ</a></li> 
+      <li><a href="/wiki/BLEACH" title="BLEACH">劇場版 BLEACH 法廷!日番谷冬獅郎事件に迫る!</a></li> 
+      <li><a href="/wiki/TV%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B32" title="TVチャンピオン2">TVチャンピオン2</a>（2008年9月5日、テレビ東京）</li> 
+      <li><a href="/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%BF%E3%83%B3" title="ゴッドタン">ゴッドタン</a>～The God Tongue 神の舌～（2008年9月・2009年8月19日、テレビ東京）</li> 
+      <li><a href="/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AE%E3%83%81%E3%83%A5%E3%83%BC%E3%81%97%E3%81%A6!" title="チュートリアルのチューして!">チュートリアルのチューして!</a>（2008年9月29日、関西テレビ）</li> 
+      <li><a href="/wiki/%E5%8D%97%E3%83%91%E3%83%A9Z!" title="南パラZ!">南パラZ!</a>（2008年10月10日、関西テレビ）</li> 
+      <li><a href="/wiki/%E8%8D%89%E9%87%8E%E2%98%86%E3%82%AD%E3%83%83%E3%83%89" title="草野☆キッド">草野☆キッド</a>（2008年11月25日・2009年2月17日他、テレビ朝日）</li> 
+      <li><a href="/wiki/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%AE%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7" title="夜明けのマルシェ">夜明けのマルシェ</a>（<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81%E7%B6%B2" title="日本テレビ放送網">日本テレビ</a>）</li> 
+      <li><a href="/w/index.php?title=%E6%A5%B5%E6%A5%BD%E6%BA%80%E5%96%AB!%E3%82%B0%E3%83%A9%E3%83%89%E3%83%AB%E6%B8%A9%E6%B3%89&amp;action=edit&amp;redlink=1" class="new" title="極楽満喫!グラドル温泉 (存在しないページ)">極楽満喫!グラドル温泉</a>（<a href="/wiki/MONDO21" class="mw-redirect" title="MONDO21">MONDO21</a>）</li> 
+      <li><a href="/wiki/%E3%82%A2%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B7%E3%83%96%E3%81%A7%E3%81%99%E3%81%91%E3%81%A9%E3%80%81%E4%BD%95%E3%81%8B%3F" title="アグレッシブですけど、何か?">アグレッシブですけど、何か?</a>（2009年8月3日・10日、<a href="/wiki/%E5%BA%83%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%86%E3%83%AC%E3%83%93" title="広島ホームテレビ">広島ホームテレビ</a>）</li> 
+      <li><a href="/wiki/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC!%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9" title="スカパー!プレミアムサービス">スカパー!</a> <a href="/w/index.php?title=%E5%A4%8F%E2%98%86%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E6%B0%B4%E6%B3%B3%E5%A4%A7%E4%BC%9A2009_in_%E3%81%A8%E3%81%97%E3%81%BE%E3%81%88%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="夏☆アイドルオールスター水泳大会2009 in としまえん (存在しないページ)">夏☆アイドルオールスター水泳大会2009 in としまえん</a></li> 
+      <li><a href="/wiki/%E5%AE%B6%E9%9B%BB%27s_Walker" title="家電's Walker">家電's Walker</a>（2011年10月28日、11月25日、12月9日、12月16日、12月23日、<a href="/wiki/2012%E5%B9%B4" title="2012年">2012年</a><a href="/wiki/4%E6%9C%887%E6%97%A5" title="4月7日">4月7日</a> - <a href="/wiki/2013%E5%B9%B4" title="2013年">2013年</a><a href="/wiki/7%E6%9C%8818%E6%97%A5" title="7月18日">7月18日</a>、<a href="/wiki/%E6%97%A5%E6%9C%ACBS%E6%94%BE%E9%80%81" title="日本BS放送">BS11</a>）</li> 
+     </ul> 
+     <h4><span class="mw-headline" id=".E3.83.86.E3.83.AC.E3.83.93.E3.83.89.E3.83.A9.E3.83.9E">テレビドラマ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=4" title="節を編集: テレビドラマ">編集</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <ul> 
+      <li><a href="/wiki/%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89" title="ホーリーランド">ホーリーランド</a>（2005年、テレビ東京）</li> 
+      <li><a href="/wiki/%E3%83%89%E3%83%A9%E3%83%9E24" title="ドラマ24">ドラマ24</a>「<a href="/wiki/Xenos" title="Xenos">Xenos</a>」（2007年、テレビ東京） - 小倉綾子 役</li> 
+      <li><a href="/wiki/%E3%81%95%E3%81%8F%E3%82%89%E7%BD%B2%E3%81%AE%E5%A5%B3%E3%81%9F%E3%81%A1" title="さくら署の女たち">さくら署の女たち</a> 第3話（2007年7月25日、テレビ朝日） - 新田里美 役</li> 
+      <li><a href="/wiki/%E9%87%91%E6%9B%9C%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88" title="金曜エンタテイメント">金曜エンタテイメント</a> <a href="/w/index.php?title=%E6%96%B0%E3%83%BB%E7%A5%87%E5%9C%92%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%AC%AC3%E5%BC%BE_%E7%A5%87%E5%9C%92%E8%8A%B8%E5%A6%93VS%E4%BA%AC%E9%83%BD%E5%A5%B3%E5%84%AA_%E4%BA%AC%E9%83%BD%E8%8A%B1%E5%AB%81%E8%A1%A3%E8%A3%B3%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6&amp;action=edit&amp;redlink=1" class="new" title="新・祇園シリーズ第3弾 祇園芸妓VS京都女優 京都花嫁衣裳殺人事件 (存在しないページ)">新・祇園シリーズ第3弾 祇園芸妓VS京都女優 京都花嫁衣裳殺人事件</a>（2008年、フジテレビ）</li> 
+      <li><a href="/wiki/%E9%87%91%E6%9B%9C%E3%83%8A%E3%82%A4%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E" title="金曜ナイトドラマ">金曜ナイトドラマ</a>「<a href="/wiki/%E6%89%93%E6%92%83%E5%A4%A9%E4%BD%BF%E3%83%AB%E3%83%AA" title="打撃天使ルリ">打撃天使ルリ</a>」 最終話（2008年9月、テレビ朝日）</li> 
+      <li><a href="/wiki/%E6%AF%92%E5%A7%AB%E3%81%A8%E3%82%8F%E3%81%9F%E3%81%97" title="毒姫とわたし">毒姫とわたし</a>（2011年9月 - 10月、東海テレビ） - 葛城朋香 役</li> 
+      <li><a href="/wiki/%E3%83%89%E3%83%A9%E3%83%9E%E3%83%81%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC" title="ドラマチック・サンデー">ドラマチック・サンデー</a>「<a href="/wiki/%E5%83%95%E3%81%A8%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE99%E6%97%A5" title="僕とスターの99日">僕とスターの99日</a>」（2011年10月 - 12月、フジテレビ）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88">インターネット</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=5" title="節を編集: インターネット">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/wiki/%E5%B9%B3%E6%88%90%E3%83%8E%E3%83%96%E3%82%B7%E3%82%B3%E3%83%96%E3%82%B7%E3%81%AE%E7%A0%B4%E5%A4%A9%E8%8D%92%E3%83%80%E3%83%A1%E3%81%A0%E3%81%97!" title="平成ノブシコブシの破天荒ダメだし!">平成ノブシコブシの破天荒ダメだし!</a>（2008年4月28日・2009年8月10日、<a href="/wiki/GyaO%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AD%E3%83%BC" title="GyaOジョッキー">GyaOジョッキー</a>）ゲスト出演</li> 
+      <li><a href="/wiki/%E5%91%8A%E3%81%A3%E3%81%A1%E3%82%83!" title="告っちゃ!">告っちゃ!</a>（2009年5月29日、GyaOジョッキー）ゲスト出演</li> 
+      <li><a href="/w/index.php?title=Yahoo!%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3&amp;action=edit&amp;redlink=1" class="new" title="Yahoo!バラエティ (存在しないページ)">Yahoo!バラエティ</a>「よしログ」土曜アシスタント（2011年1月22日～）</li> 
+      <li><a href="/wiki/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC3DS" title="ニンテンドー3DS">3DS</a>・<a href="/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89_%E3%82%B6%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%BA_3D" title="バイオハザード ザ・マーセナリーズ 3D">バイオハザード ザ・マーセナリーズ 3D</a> 鈴木史朗塾長熱血！マーセ塾（2011年5月～6月配信、<a href="/wiki/%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3" title="カプコン">CAPCOM</a>）</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ga-cha.jp/">ゲッチャ</a>（2011年5月27日）ゲスト出演</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E6.90.BA.E5.B8.AF.E3.82.B5.E3.82.A4.E3.83.88">携帯サイト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=6" title="節を編集: 携帯サイト">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%8C%E3%82%A4%E3%83%83%E3%83%91%E3%82%A4" title="アイドルがイッパイ">アイドルがイッパイ</a> （<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%91%E3%82%A4" class="mw-redirect" title="アイパイ">アイパイ</a>）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E3.83.A9.E3.82.B8.E3.82.AA">ラジオ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=7" title="節を編集: ラジオ">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/w/index.php?title=Nemu_RING_RING&amp;action=edit&amp;redlink=1" class="new" title="Nemu RING RING (存在しないページ)">nemu RING RING</a>（<a href="/wiki/2005%E5%B9%B4" title="2005年">2005年</a><a href="/wiki/9%E6%9C%889%E6%97%A5" title="9月9日">9月9日</a>、<a href="/wiki/J-WAVE" title="J-WAVE">J-WAVE</a>）</li> 
+      <li><a href="/wiki/%E9%8A%80%E6%B2%B3%E3%81%AB%E5%90%A0%E3%81%88%E3%82%8D!%E5%AE%87%E5%AE%99G%E3%83%A1%E3%83%B3TAKUYA" title="銀河に吠えろ!宇宙GメンTAKUYA">銀河に吠えろ!宇宙GメンTAKUYA</a>（ラジオ日本、2009年）ゲスト出演</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E6.98.A0.E7.94.BB">映画</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=8" title="節を編集: 映画">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/wiki/%E3%81%99%E3%81%8F%E3%82%89%E3%82%93%E3%81%B6%E3%82%8B%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%84" class="mw-redirect" title="すくらんぶる・ハーツ">すくらんぶる・ハーツ</a>（2004年） - 鈴木まり 役</li> 
+      <li><a href="/w/index.php?title=%E6%AE%BA%E4%BA%BA%E8%9C%82_%E3%82%AD%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%93%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="殺人蜂 キラー・ビー (存在しないページ)">殺人蜂 キラー・ビー</a>（2005年） - 由香 役</li> 
+      <li><a href="/wiki/%E3%81%BE%E3%81%84%E3%81%A3%E3%81%A1%E3%82%93%E3%81%90%E3%83%9E%E3%83%81%E3%82%B3%E5%85%88%E7%94%9F" title="まいっちんぐマチコ先生">まいっちんぐマチコ!ビギンズ</a>（2005年） - 雷子 役</li> 
+      <li><a href="/wiki/%E9%99%B0%E6%97%A5%E5%90%91%E3%81%AB%E5%92%B2%E3%81%8F" title="陰日向に咲く">陰日向に咲く</a>（2008年） - サラ子 役</li> 
+      <li><a href="/w/index.php?title=URAHARA&amp;action=edit&amp;redlink=1" class="new" title="URAHARA (存在しないページ)">URAHARA</a>（2008年） - 看護師 役（<a href="/wiki/%E5%8F%8B%E6%83%85%E5%87%BA%E6%BC%94" class="mw-redirect" title="友情出演">友情出演</a>）</li> 
+      <li><a href="/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%83%9E%E3%83%B3_(2008%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)" title="ポストマン (2008年の映画)">ポストマン</a>（2008年） - 中川美紀 役</li> 
+      <li><a href="/w/index.php?title=%E5%BE%A1%E8%8C%B6%E6%BC%AC%E6%B5%B7%E8%8B%94%E3%81%AE%E6%83%A8%E5%8A%87%E9%A4%A8%E3%80%8E%E6%97%A5%E8%A8%98%E3%80%8F&amp;action=edit&amp;redlink=1" class="new" title="御茶漬海苔の惨劇館『日記』 (存在しないページ)">御茶漬海苔の惨劇館『日記』</a> （2009年） - 菊代 役</li> 
+      <li><a href="/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E3%81%AE%E5%91%AA%E3%81%84" title="2ちゃんねるの呪い">2ちゃんねるの呪い</a>新劇場版・本危（2012年）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E8.88.9E.E5.8F.B0">舞台</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=9" title="節を編集: 舞台">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>SAKANA（2006年） - 映像出演のみ</li> 
+      <li>宇宙でクロール（2009年） - ミハ子 役</li> 
+      <li>かみひとえ（2009年） - 主演・香取奈美恵 役</li> 
+      <li>ダルマ（2009年）- ヒロイン・エキナ役</li> 
+      <li>いい日、リストラ（2010年）</li> 
+      <li>努力しないで出世する方法（2011年）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="CM">CM</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=10" title="節を編集: CM">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%9E%E3%83%BC%E3%83%88" class="mw-redirect" title="デジタルメディアマート">デジタルメディアマート</a>「<a href="/wiki/DMM.com" title="DMM.com">DMM.com</a>」</li> 
+      <li><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9" class="mw-disambig" title="インデックス">インデックス</a>「<a href="/wiki/%E3%82%B2%E3%82%AA" title="ゲオ">GEO@BB</a>」「GEO@チャンネル」</li> 
+      <li><a href="/wiki/%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4" title="バンダイ">バンダイ</a>「<a href="/wiki/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_(%E3%82%A2%E3%83%8B%E3%83%A1)" title="クレヨンしんちゃん (アニメ)">クレヨンしんちゃん</a> チョコビ」</li> 
+     </ul> 
+     <h2><span class="mw-headline" id=".E4.BD.9C.E5.93.81">作品</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=11" title="節を編集: 作品">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id=".E5.86.99.E7.9C.9F.E9.9B.86">写真集</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=12" title="節を編集: 写真集">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>1st写真集「ナツメカン」（2005年、<a href="/wiki/%E5%AD%A6%E7%A0%94%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9" title="学研ホールディングス">学研</a>）</li> 
+      <li>2nd写真集「なつメロン」（2005年、<a href="/wiki/%E8%AC%9B%E8%AB%87%E7%A4%BE" title="講談社">講談社</a>）</li> 
+      <li>3rd写真集「オトナツメ」（2006年、<a href="/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9" title="イースト・プレス">イースト・プレス</a>）</li> 
+      <li>4th写真集「なつめーる」（2008年、<a href="/wiki/%E3%83%AF%E3%83%8B%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9" title="ワニブックス">ワニブックス</a>）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E5.86.99.E7.9C.9F.E9.9B.86">デジタル写真集</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=13" title="節を編集: デジタル写真集">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-13767/">Girl's Minute</a>」（2003年、<a href="/w/index.php?title=LEVEL_4_inc.&amp;action=edit&amp;redlink=1" class="new" title="LEVEL 4 inc. (存在しないページ)">LEVEL 4 inc.</a>）</li> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-14123/">SEXY PRIDE</a>」（2003年、LEVEL 4 inc.）</li> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-19593/">SHIZUKU</a>」（2004年、LEVEL 4 inc.）</li> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-20120/">Honesty</a>」（2004年、LEVEL 4 inc.）</li> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-31221/">佐野夏芽デジタル写真集</a>」（2006年、<a href="/wiki/@misty" title="@misty">@misty</a>）</li> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-31728/">夏芽のアルバイト</a>」（2006年、<a href="/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%82%B3%E3%83%A0" class="mw-redirect" title="フォーサイド・ドット・コム">フォーサイド・ドット・コム</a>）</li> 
+      <li>「<a rel="nofollow" class="external text" href="http://www.papy.co.jp/act/books/1-39242/">パイなつプルン</a>」（2006年、<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA" title="ラインコミュニケーションズ">ラインコミュニケーションズ</a>）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Video_.26_DVD">Video &amp; DVD</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=14" title="節を編集: Video &amp; DVD">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <h4><span class="mw-headline" id=".E3.82.A4.E3.83.A1.E3.83.BC.E3.82.B8.E3.83.93.E3.83.87.E3.82.AA">イメージビデオ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=15" title="節を編集: イメージビデオ">編集</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <ul> 
+      <li>Sexy Pride（2003年、ベガファクトリー）</li> 
+      <li>Sexy GRAND PRIX（2004年、<a href="/wiki/%E3%83%9E%E3%83%BC%E3%83%AC" title="マーレ">マーレ</a>）</li> 
+      <li>プリシラ（2004年、ベガファクトリー）</li> 
+      <li>Dream Girl（2004年、ジーオーティー）</li> 
+      <li>Pure Smile（2004年、<a href="/wiki/%E7%AB%B9%E6%9B%B8%E6%88%BF" title="竹書房">竹書房</a>）</li> 
+      <li>Peace!（2005年、フォーサイド・ドット・コム）</li> 
+      <li>なつめかん（2005年、学研／<a href="/w/index.php?title=%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF_%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="ソニー・ミュージック ディストリビューション (存在しないページ)">ソニー・ミュージック ディストリビューション</a>）</li> 
+      <li>夏芽のアルバイト（2005年、フォーサイド・ドット・コム）</li> 
+      <li>D-Splash! 佐野夏芽（2006年、キングレコード）</li> 
+      <li>ナツメイロ（2006年、バップ）</li> 
+      <li>パイなつプルン（2006年、<a href="/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%93%E3%83%87%E3%82%AA" title="ジャパンホームビデオ">ジャパンホームビデオ</a>）</li> 
+      <li>ドッキドキ☆なつめーる（2008年、<a href="/wiki/%E3%83%AF%E3%83%8B%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9" title="ワニブックス">ワニブックス</a>）</li> 
+      <li>I'm DreaMing...（2009年、<a href="/w/index.php?title=%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB&amp;action=edit&amp;redlink=1" class="new" title="スパイスビジュアル (存在しないページ)">スパイスビジュアル</a>）</li> 
+      <li>夏恋（2009年、<a href="/wiki/%E3%82%A4%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2" title="イーネット・フロンティア">イーネット・フロンティア</a>）</li> 
+      <li>夏愛（2009年、イーネット・フロンティア）</li> 
+     </ul> 
+     <h4><span class="mw-headline" id=".E5.87.BA.E6.BC.94.E3.81.AE.E3.81.BF">出演のみ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=16" title="節を編集: 出演のみ">編集</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <ul> 
+      <li>「<a href="/wiki/%E7%89%B9%E5%91%BD%E4%BF%82%E9%95%B7_%E5%8F%AA%E9%87%8E%E4%BB%81_(%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E)" title="特命係長 只野仁 (テレビドラマ)">特命係長 只野仁</a> シーズン4」（2009年、<a href="/wiki/%E3%83%93%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88" class="mw-redirect" title="ビクターエンタテインメント">ビクターエンタテインメント</a>）- 電王堂社員・佐野裕子役（特典のオリジナルミニドラマに出演）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E3.81.9D.E3.81.AE.E4.BB.96">その他</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=17" title="節を編集: その他">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/wiki/Something_ELse" title="Something ELse">Something ELse</a>シングル「1M」ジャケット写真（2003年）</li> 
+      <li><a href="/wiki/PlayStation_2" title="PlayStation 2">PS2</a>、<a href="/wiki/Xbox" title="Xbox">Xbox</a>・「レッド・デッド・リボルバー」イメージガール（2005年、<a href="/wiki/%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3" title="カプコン">CAPCOM</a>）</li> 
+      <li><a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PSP</a>・「メタルギアアシッド2」（2005年、<a href="/wiki/%E3%82%B3%E3%83%8A%E3%83%9F" class="mw-redirect" title="コナミ">KONAMI</a>）</li> 
+      <li><a href="/wiki/HOT%E2%98%86FANTASY_ODAIBA" title="HOT☆FANTASY ODAIBA">HOT☆FANTASY ODAIBA</a>2005イメージキャラクター・「電車ガールズ」（2005年）</li> 
+      <li><a href="/wiki/%E6%9D%B1%E8%8A%9D" title="東芝">東芝</a><a href="/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96" title="ハードディスクドライブ">HDD</a>＆<a href="/wiki/DVD%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC" title="DVDレコーダー">DVDレコーダー</a>「<a href="/wiki/VARDIA" title="VARDIA">VARDIA</a>」総合カタログ（2007年）</li> 
+      <li>『<a href="/w/index.php?title=%E3%82%B0%E3%83%A9%E3%83%89%E3%83%AB%E5%A5%B3%E5%AD%A6%E9%99%A2&amp;action=edit&amp;redlink=1" class="new" title="グラドル女学院 (存在しないページ)">グラドル女学院</a>』未公開お宝映像集6～佐野夏芽＆立花彩野SP～ DVD＆トレカBOX（2007年）</li> 
+     </ul> 
+     <h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=18" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ol class="references"> 
+      <li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text">公式プロフィールより。</span></li> 
+     </ol> 
+     <h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=NATSUME&amp;action=edit&amp;section=19" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://dresscode-pro.com/">ドレスコード</a> - 所属事務所</li> 
+      <li><a rel="nofollow" class="external text" href="http://dresscode-pro.com/natsume01/">NATSUME公式プロフィール(株式会社ドレスコード)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://dresscode-pro.com/natsume/">NATSUMEオフィシャルサイト</a></li> 
+      <li><a rel="nofollow" class="external text" href="https://twitter.com/na2me214">NATSUME</a> (@na2me214) - <a href="/wiki/Twitter" title="Twitter">Twitter</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://ameblo.jp//sano-natsume">なつめのブーログ</a> - <a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90%E3%83%96%E3%83%AD%E3%82%B0" title="アメーバブログ">Ameba Blog</a>（（2007年6月 - 2010年3月、2010年6月最終更新）※現在ブログ自体が存在しないため、閲覧は出来なくなっている。</li> 
+     </ul> 
+     <table class="navbox" style="border-collapse:collapse;;"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <table class="nowraplinks hlist hlist-pipe collapsible autocollapse" style="background:transparent;color:inherit;;min-width:100%;border-spacing:2px;border-collapse:separate;"> 
+          <tbody>
+           <tr> 
+            <th style="" colspan="2" class="navbox-title"> 
+             <div style="float:left;width:6em;text-align:left;"> 
+              <div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;;border:none;"> 
+               <ul style="display:inline;"> 
+                <li><a href="/wiki/Template:%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89_(%E8%8A%B8%E8%83%BD%E4%BA%8B%E5%8B%99%E6%89%80)" title="Template:ドレスコード (芸能事務所)"><span title="このテンプレートを表示します" style="font-size:125%;;border:none;">表</span></a></li> 
+                <li><a href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89_(%E8%8A%B8%E8%83%BD%E4%BA%8B%E5%8B%99%E6%89%80)&amp;action=edit&amp;redlink=1" class="new" title="Template‐ノート:ドレスコード (芸能事務所) (存在しないページ)"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;;border:none;">話</span></a></li> 
+                <li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:ドレスコード_(芸能事務所)&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;;border:none;">編</span></a></li> 
+                <li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:ドレスコード_(芸能事務所)&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;;border:none;">歴</span></a></li> 
+               </ul> 
+              </div> 
+             </div> <span style="font-size:110%;"><a href="/wiki/%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89_(%E8%8A%B8%E8%83%BD%E4%BA%8B%E5%8B%99%E6%89%80)" title="ドレスコード (芸能事務所)">ドレスコード</a></span></th> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">モデル</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+             <div style="padding:0 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/%E7%AB%B9%E4%B8%8B%E7%8E%B2%E5%A5%88" title="竹下玲奈">竹下玲奈</a></li> 
+               <li>街子</li> 
+               <li>上村華乃子</li> 
+               <li>三上真依</li> 
+               <li>藤井杏梨樺</li> 
+               <li>丸林千紘</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">女優・タレント</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even"> 
+             <div style="padding:0 0.25em"> 
+              <ul> 
+               <li><a href="/wiki/%E6%A1%90%E5%B1%B1%E3%83%9E%E3%82%AD" title="桐山マキ">桐山マキ</a></li> 
+               <li><strong class="selflink">NATSUME</strong></li> 
+               <li><a href="/wiki/%E8%93%AE%E8%8F%9C%E8%B2%B4%E5%AD%90" title="蓮菜貴子">蓮菜貴子</a></li> 
+               <li><a href="/wiki/%E6%88%B8%E5%B3%B6%E8%8A%B1" title="戸島花">戸島花</a></li> 
+               <li><a href="/wiki/%E4%B8%AD%E5%A1%9A%E6%99%BA%E5%AE%9F" title="中塚智実">中塚智実</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">文化人</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+             <div style="padding:0 0.25em">
+              黒田愛美
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">元所属</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even"> 
+             <div style="padding:0 0.25em">
+              「
+              <a href="/wiki/%E3%83%89%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89_(%E8%8A%B8%E8%83%BD%E4%BA%8B%E5%8B%99%E6%89%80)#.E9.81.8E.E5.8E.BB.E3.81.AE.E6.89.80.E5.B1.9E.E3.82.BF.E3.83.AC.E3.83.B3.E3.83.88" title="ドレスコード (芸能事務所)">過去の所属タレント</a>」を参照
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" style="" colspan="2">公式サイト:<a rel="nofollow" class="external text" href="http://dresscode-pro.com/">ドレスコード</a></td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="asbox plainlinks noprint" role="presentation"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heart-1.svg" class="image" title="執筆の途中です"><img alt="執筆の途中です" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heart-1.svg/35px-Heart-1.svg.png" width="35" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heart-1.svg/53px-Heart-1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heart-1.svg/70px-Heart-1.svg.png 2x" data-file-width="744" data-file-height="1052"></a></td> 
+        <td class="mbox-text">この項目は、<a href="/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="アイドル">アイドル</a>（<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="グラビアアイドル">グラビアアイドル</a>・<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="ライブアイドル">ライブアイドル</a>・<a href="/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="ネットアイドル">ネットアイドル</a>・<a href="/wiki/%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3" title="レースクイーン">レースクイーン</a>などを含む）に関連した<b><a href="/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%83%96" title="Wikipedia:スタブ">書きかけの項目</a></b>です。<a class="external text" href="//ja.wikipedia.org/w/index.php?title=NATSUME&amp;action=edit">この項目を加筆・訂正</a>などしてくださる<a href="/wiki/Category:%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%96" title="Category:アイドルに関するスタブ">協力者を求めています</a>（<a href="/wiki/Portal:%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="Portal:アイドル">ポータル:アイドル</a>/<a href="/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88:%E8%8A%B8%E8%83%BD%E4%BA%BA" title="プロジェクト:芸能人">プロジェクト:芸能人</a>）。</td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20170403072843
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.080 seconds
+Real time usage: 0.114 seconds
+Preprocessor visited node count: 951/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27546/2097152 bytes
+Template argument size: 1630/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.019/10.000 seconds
+Lua memory usage: 1.02 MB/50 MB
+--> 
+     <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   68.953      1 -total
+ 38.62%   26.629      1 Template:女性モデル
+ 32.07%   22.113      1 Template:Infobox
+ 22.91%   15.795      1 Template:Twitter
+ 21.13%   14.569      1 Template:Ameba_ブログ
+  7.36%    5.077      1 Template:ドレスコード_(芸能事務所)
+  6.97%    4.804      1 Template:WikidataCheck
+  5.97%    4.119      1 Template:Navbox
+  5.91%    4.078      1 Template:JPN
+  5.43%    3.743      1 Template:Idol-stub
+--> 
+     <!-- Saved in parser cache with key jawiki:pcache:idhash:402309-0!*!0!!ja!4!* and timestamp 20170403072843 and revision id 59005481
+ --> 
+     <noscript>
+      <img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      「
+     <a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=NATSUME&amp;oldid=59005481">https://ja.wikipedia.org/w/index.php?title=NATSUME&amp;oldid=59005481</a>」から取得 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: 
+      <ul>
+       <li><a href="/wiki/Category:%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="Category:グラビアアイドル">グラビアアイドル</a></li>
+       <li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88" title="Category:日本のタレント">日本のタレント</a></li>
+       <li><a href="/wiki/Category:%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%87%BA%E8%BA%AB%E3%81%AE%E4%BA%BA%E7%89%A9" title="Category:東京都出身の人物">東京都出身の人物</a></li>
+       <li><a href="/wiki/Category:1985%E5%B9%B4%E7%94%9F" title="Category:1985年生">1985年生</a></li>
+       <li><a href="/wiki/Category:%E5%AD%98%E5%91%BD%E4%BA%BA%E7%89%A9" title="Category:存命人物">存命人物</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      隠しカテゴリ: 
+      <ul>
+       <li><a href="/wiki/Category:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E3%81%AA%E3%81%84Ameba_Blog_ID" title="Category:ウィキデータにないAmeba Blog ID">ウィキデータにないAmeba Blog ID</a></li>
+       <li><a href="/wiki/Category:%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%96" title="Category:アイドルに関するスタブ">アイドルに関するスタブ</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>案内メニュー</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">個人用ツール</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">ログインしていません</li>
+      <li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=NATSUME" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=NATSUME" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">名前空間</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/NATSUME" title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li> 
+       <li id="ca-talk" class="new"><span><a href="/w/index.php?title=%E3%83%8E%E3%83%BC%E3%83%88:NATSUME&amp;action=edit&amp;redlink=1" title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>変種</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">表示</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/NATSUME">閲覧</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=NATSUME&amp;action=edit" title="このページを編集 [e]" accesskey="e">編集</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=NATSUME&amp;action=history" title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">検索</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Wikipedia内を検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="特別:検索" name="title">
+        <input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">案内</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li>
+       <li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li>
+       <li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li>
+       <li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li>
+       <li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li>
+       <li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-help" aria-labelledby="p-help-label"> 
+     <h3 id="p-help-label">ヘルプ</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li>
+       <li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li>
+       <li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li>
+       <li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li>
+       <li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">印刷/書き出し</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=NATSUME">ブックの新規作成</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=NATSUME&amp;returnto=NATSUME&amp;oldid=59005481&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li>
+       <li id="t-print"><a href="/w/index.php?title=NATSUME&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">ツール</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/NATSUME" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/NATSUME" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li>
+       <li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=NATSUME&amp;oldid=59005481" title="このページのこの版への固定リンク">この版への固定リンク</a></li>
+       <li id="t-info"><a href="/w/index.php?title=NATSUME&amp;action=info" title="このページについての詳細情報">ページ情報</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q3546277" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=NATSUME&amp;id=59005481" title="このページの引用方法">このページを引用</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">他言語版</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Natsume_Sano" title="英語: Natsume Sano" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Natsume_Sano" title="タガログ語: Natsume Sano" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q3546277#sitelinks-wikipedia" title="言語間リンクを編集する" class="wbc-editpage">リンクを編集</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> 最終更新 2016年3月18日 (金) 18:08 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li> 
+    <li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookieに関する声明</a></li> 
+    <li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=NATSUME&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.080","walltime":"0.114","ppvisitednodes":{"value":951,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27546,"limit":2097152},"templateargumentsize":{"value":1630,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%   68.953      1 -total"," 38.62%   26.629      1 Template:女性モデル"," 32.07%   22.113      1 Template:Infobox"," 22.91%   15.795      1 Template:Twitter"," 21.13%   14.569      1 Template:Ameba_ブログ","  7.36%    5.077      1 Template:ドレスコード_(芸能事務所)","  6.97%    4.804      1 Template:WikidataCheck","  5.97%    4.119      1 Template:Navbox","  5.91%    4.078      1 Template:JPN","  5.43%    3.743      1 Template:Idol-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.019","limit":"10.000"},"limitreport-memusage":{"value":1067891,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20170403072843","ttl":3600,"transientcontent":true}}});});</script>
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":189,"wgHostname":"mw1241"});});</script>   
+ </body>
+</html>

@@ -1,0 +1,636 @@
+<!doctype html>
+<html class="client-nojs" lang="ja" dir="ltr">
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>あんり - Wikipedia</title> 
+  <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"あんり","wgTitle":"あんり","wgCurRevisionId":62031756,"wgRevisionId":62031756,"wgArticleId":428489,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using ISBN magic links","日本の女優","グラビアアイドル","芸能人女子フットサル選手","中野風女シスターズ","仙台市出身の人物","1985年生","存命人物"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"あんり","wgRelevantArticleId":428489,"wgRequestId":"WOMhogpAMFMAABlZwmkAAABS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"ja","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesBetaFeatureEnabled":false,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"日本語","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q11258894","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bc2kh0",function($,jQuery,require,module){mw.user.options.set({"variant":"ja"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.29.0-wmf.18"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%82%8A"> 
+  <link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit"> 
+  <link rel="edit" title="編集" href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ja)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ja.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%82%8A"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-あんり rootpage-あんり skin-vector action-view"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="ja">あんり</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub">
+     出典: フリー百科事典『ウィキペディア（Wikipedia）』
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      移動先: 
+     <a href="#mw-head">案内</a>、 
+     <a href="#p-search">検索</a> 
+    </div> 
+    <div id="mw-content-text" lang="ja" dir="ltr" class="mw-content-ltr">
+     <table class="infobox" style="width:22em; width: 20em"> 
+      <caption itemprop="name" class="" style="font-weight: normal">
+       <span style="font-size:large; font-weight:bold">あんり</span>
+      </caption> 
+      <tbody>
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">プロフィール</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">別名義</th> 
+        <td class="" style="" itemprop="">金井 アヤ（当初）<br> 金井 あや（中期）</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E6%84%9B%E7%A7%B0" title="愛称">愛称</a></th> 
+        <td class="" style="" itemprop="">あっち、アヤにャン（旧）</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E8%AA%95%E7%94%9F%E6%97%A5" title="誕生日">生年月日</a></th> 
+        <td class="" style="" itemprop=""><a href="/wiki/1985%E5%B9%B4" title="1985年">1985年</a><a href="/wiki/1%E6%9C%8824%E6%97%A5" title="1月24日">1月24日</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E5%B9%B4%E9%BD%A2" title="年齢">現年齢</a></th> 
+        <td class="" style="" itemprop="">32歳</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">出身地</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Japan.svg" class="image" title="日本の旗"><img alt="日本の旗" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png" width="25" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/38px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600"></a> <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>・<a href="/wiki/%E5%AE%AE%E5%9F%8E%E7%9C%8C" title="宮城県">宮城県</a><a href="/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82" title="仙台市">仙台市</a></td> 
+       </tr> 
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">公称サイズ（2007年時点）</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E8%BA%AB%E9%95%B7" title="身長">身長</a> / <a href="/wiki/%E4%BD%93%E9%87%8D" title="体重">体重</a></th> 
+        <td class="" style="" itemprop="">156 <a href="/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB" title="センチメートル">cm</a> / <span style="color:gray">―</span> <a href="/wiki/%E3%82%AD%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0" title="キログラム">kg</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B5%E3%82%A4%E3%82%BA" title="スリーサイズ">スリーサイズ</a></th> 
+        <td class="" style="" itemprop="">90 - 58 - 87 cm</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%BC#.E3.82.B5.E3.82.A4.E3.82.BA.E3.81.AE.E3.83.B4.E3.82.A1.E3.83.AA.E3.82.A8.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3" title="ブラジャー">カップサイズ</a></th> 
+        <td class="" style="" itemprop="">G</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">靴のサイズ</th> 
+        <td class="" style="" itemprop="">23.5 cm</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <td colspan="2" class="" style="text-align:center;" itemprop=""> 
+         <div class="NavFrame" style="margin:0 auto; border:none; padding:0px; font-size:100%"> 
+          <div class="NavHead" style="background-color: #F9F9F9; text-align:left; font-weight:normal">
+           単位系換算
+          </div> 
+          <div class="NavContent" style="font-size:90%"> 
+           <table style="width:100%; background:#f2f2f2"> 
+            <tbody>
+             <tr> 
+              <th>身長 / 体重</th> 
+              <td>5<a href="/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88" title="フィート">′</a> 2<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%81" title="インチ">″</a> / <span style="color:gray">―</span> <a href="/wiki/%E3%83%9D%E3%83%B3%E3%83%89_(%E8%B3%AA%E9%87%8F)" title="ポンド (質量)">lb</a></td> 
+             </tr> 
+             <tr> 
+              <th>スリーサイズ</th> 
+              <td>35 - 23 - 34 in</td> 
+             </tr> 
+            </tbody>
+           </table> 
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">活動</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">デビュー</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/2004%E5%B9%B4" title="2004年">2004年</a>5月</td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal"><a href="/wiki/%E3%83%A2%E3%83%87%E3%83%AB_(%E8%81%B7%E6%A5%AD)#.E5.BE.93.E4.BA.8B.E3.82.B8.E3.83.A3.E3.83.B3.E3.83.AB.E3.81.AB.E3.82.88.E3.82.8B.E5.88.86.E9.A1.9E" title="モデル (職業)">ジャンル</a></th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E4%BF%B3%E5%84%AA" title="俳優">女優</a>、<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="グラビアアイドル">グラビア</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">モデル内容</th> 
+        <td class="" style="" itemprop=""><a href="/wiki/%E6%B0%B4%E7%9D%80" title="水着">水着</a>、<a href="/wiki/%E3%83%98%E3%82%A2%E3%83%8C%E3%83%BC%E3%83%89" title="ヘアヌード">ヘアヌード</a></td> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">事務所</th> 
+        <td class="" style="" itemprop=""><a href="/w/index.php?title=LMP%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="LMPプロモーション (存在しないページ)">LMPプロモーション</a></td> 
+       </tr> 
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">その他の記録</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <td colspan="2" class="" style="text-align:center;" itemprop=""><b>かつての所属ユニット:</b><br> <a href="/w/index.php?title=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA&amp;action=edit&amp;redlink=1" class="new" title="ローレンガールズ (存在しないページ)">ローレンガールズ</a><br> <a href="/wiki/%E4%B9%99%E5%A5%B3%E5%AD%A6%E9%99%A2" title="乙女学院">YS乙女学院 純愛組</a><br> <a href="/wiki/%E4%B8%AD%E9%87%8E%E8%85%90%E5%A5%B3%E5%AD%90%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" class="mw-redirect" title="中野腐女子シスターズ">中野腐女子シスターズ</a><br> <a href="/wiki/%E5%8D%97%E8%91%9B%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA" title="南葛シューターズ">南葛シューターズ</a></td> 
+       </tr> 
+       <tr style=""> 
+        <th scope="col" colspan="2" class="" style="text-align:center; font-weight: normal">外部リンク</th> 
+       </tr> 
+       <tr class="" style="" itemprop=""> 
+        <th scope="row" style="text-align:left; white-space:nowrap; font-weight: normal">データベース</th> 
+        <td class="" style="" itemprop=""><a href="http://www.imdb.com/name/nm2257049/" class="extiw" title="imdbname:2257049">IMDb</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" class="" style="text-align:center; text-align: right; font-size: 80%"><a href="/wiki/%E3%83%A2%E3%83%87%E3%83%AB_(%E8%81%B7%E6%A5%AD)" title="モデル (職業)">モデル</a>: <a href="/wiki/Template:%E5%A5%B3%E6%80%A7%E3%83%A2%E3%83%87%E3%83%AB" title="Template:女性モデル">テンプレート</a> - <a href="/wiki/Category:%E3%83%A2%E3%83%87%E3%83%AB" title="Category:モデル">カテゴリ</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b>あんり</b>（<a href="/wiki/1985%E5%B9%B4" title="1985年">1985年</a><a href="/wiki/1%E6%9C%8824%E6%97%A5" title="1月24日">1月24日</a> - ）は、<a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>の<a href="/wiki/%E4%BF%B3%E5%84%AA" title="俳優">女優</a>、<a href="/wiki/%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="グラビアアイドル">グラビアアイドル</a>。旧名義は2008年まで「<b>金井 アヤ</b>」、2010年前半まで「<b>金井 あや</b>」（いずれも読みは「かない あや」）。旧名義当時の愛称は「<b>アヤにャン</b>」で、これはWeb上で公開していた日記における自称でもあった。</p> 
+     <p></p> 
+     <div id="toc" class="toc"> 
+      <div id="toctitle"> 
+       <h2>目次</h2> 
+      </div> 
+      <ul> 
+       <li class="toclevel-1 tocsection-1"><a href="#.E4.BA.BA.E7.89.A9.E3.83.BB.E6.9D.A5.E6.AD.B4"><span class="tocnumber">1</span> <span class="toctext">人物・来歴</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-2"><a href="#2000.E5.B9.B4.E4.BB.A3"><span class="tocnumber">1.1</span> <span class="toctext">2000年代</span></a> 
+          <ul> 
+           <li class="toclevel-3 tocsection-3"><a href="#.E3.80.8C.E5.A5.B3.E5.AD.90.E5.A4.A7.E7.94.9F.E3.82.B0.E3.83.A9.E3.83.89.E3.83.AB.E3.80.8D"><span class="tocnumber">1.1.1</span> <span class="toctext">「女子大生グラドル」</span></a></li> 
+           <li class="toclevel-3 tocsection-4"><a href="#.E3.80.8E.E3.83.88.E3.83.A9.E3.83.83.E3.82.AF.E3.83.90.E3.83.83.E3.82.AF.E3.83.BB.E3.82.AA.E3.83.BC.E3.83.A9.E3.82.A4.E3.80.8F"><span class="tocnumber">1.1.2</span> <span class="toctext">『トラックバック・オーライ』</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-2 tocsection-5"><a href="#2010.E5.B9.B4.E4.BB.A3"><span class="tocnumber">1.2</span> <span class="toctext">2010年代</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-6"><a href="#.E5.87.BA.E6.BC.94"><span class="tocnumber">2</span> <span class="toctext">出演</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-7"><a href="#.E6.98.A0.E7.94.BB"><span class="tocnumber">2.1</span> <span class="toctext">映画</span></a></li> 
+         <li class="toclevel-2 tocsection-8"><a href="#.E8.88.9E.E5.8F.B0"><span class="tocnumber">2.2</span> <span class="toctext">舞台</span></a></li> 
+         <li class="toclevel-2 tocsection-9"><a href="#V.E3.82.B7.E3.83.8D.E3.83.9E"><span class="tocnumber">2.3</span> <span class="toctext">Vシネマ</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-10"><a href="#.E3.82.B0.E3.83.A9.E3.83.93.E3.82.A2.E4.BD.9C.E5.93.81"><span class="tocnumber">3</span> <span class="toctext">グラビア作品</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-11"><a href="#.E3.82.A4.E3.83.A1.E3.83.BC.E3.82.B8DVD"><span class="tocnumber">3.1</span> <span class="toctext">イメージDVD</span></a></li> 
+         <li class="toclevel-2 tocsection-12"><a href="#.E5.86.99.E7.9C.9F.E9.9B.86"><span class="tocnumber">3.2</span> <span class="toctext">写真集</span></a></li> 
+         <li class="toclevel-2 tocsection-13"><a href="#.E9.9B.BB.E5.AD.90.E5.86.99.E7.9C.9F.E9.9B.86"><span class="tocnumber">3.3</span> <span class="toctext">電子写真集</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-14"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">4</span> <span class="toctext">脚注</span></a> 
+        <ul> 
+         <li class="toclevel-2 tocsection-15"><a href="#.E6.B3.A8.E9.87.88"><span class="tocnumber">4.1</span> <span class="toctext">注釈</span></a></li> 
+         <li class="toclevel-2 tocsection-16"><a href="#.E5.87.BA.E5.85.B8"><span class="tocnumber">4.2</span> <span class="toctext">出典</span></a></li> 
+        </ul> </li> 
+       <li class="toclevel-1 tocsection-17"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">5</span> <span class="toctext">外部リンク</span></a></li> 
+      </ul> 
+     </div> 
+     <p></p> 
+     <h2><span class="mw-headline" id=".E4.BA.BA.E7.89.A9.E3.83.BB.E6.9D.A5.E6.AD.B4">人物・来歴</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=1" title="節を編集: 人物・来歴">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <p><a href="/wiki/%E5%AE%AE%E5%9F%8E%E7%9C%8C" title="宮城県">宮城県</a><a href="/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82" title="仙台市">仙台市</a>出身。<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6" title="日本大学">日本大学</a><a href="/wiki/%E8%8A%B8%E8%A1%93%E5%AD%A6%E9%83%A8" title="芸術学部">芸術学部</a>中退<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>。2011年1月時点の所属事務所はLMPプロモーション。</p> 
+     <h3><span class="mw-headline" id="2000.E5.B9.B4.E4.BB.A3">2000年代</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=2" title="節を編集: 2000年代">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p><a href="/wiki/2004%E5%B9%B4" title="2004年">2004年</a>5月末から放映された任天堂『<a href="/wiki/%E3%83%9E%E3%83%AA%E3%82%AAvs.%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B0" title="マリオvs.ドンキーコング">マリオvs.ドンキーコング</a>』のテレビCMでデビュー。同CMは<a href="/wiki/%E5%90%89%E5%B7%9D%E7%B6%BE%E4%B9%83" title="吉川綾乃">吉川綾乃</a>、<a href="/w/index.php?title=%E7%91%9E%E5%8E%9F%E6%9D%8F%E5%A5%88&amp;action=edit&amp;redlink=1" class="new" title="瑞原杏奈 (存在しないページ)">瑞原杏奈</a>との共演で「<a href="/w/index.php?title=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA&amp;action=edit&amp;redlink=1" class="new" title="ローレンガールズ (存在しないページ)">ローレンガールズ</a>」名義だった<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[注釈 1]</a></sup>。</p> 
+     <p>2004年後半から単独でのグラビア活動を活発化し、雑誌やイメージビデオなどに出演しているほか、<a href="/wiki/ZAK_THE_QUEEN" title="ZAK THE QUEEN">ZAK THE QUEEN 2004</a>、<a href="/wiki/%E4%B9%99%E5%A5%B3%E5%AD%A6%E9%99%A2" title="乙女学院">YS乙女学院</a>などの企画にも参加。当時のグラビアにおいてはやや控えめのセクシー路線が多く、より過激なタイプの<a href="/wiki/%E7%9D%80%E3%82%A8%E3%83%AD" title="着エロ">着エロ</a>撮影については本人もしばしば卑猥さへの抵抗感を口にしていた。ただし露出そのものには比較的寛容で、19歳時には<a href="/wiki/%E7%AF%A0%E5%B1%B1%E7%B4%80%E4%BF%A1" title="篠山紀信">篠山紀信</a>によって撮影された週刊誌『<a href="/wiki/FLASH_(%E5%86%99%E7%9C%9F%E9%80%B1%E5%88%8A%E8%AA%8C)" title="FLASH (写真週刊誌)">FLASH</a>』845号（2004年）のグラビアにおいて、バックショット（後姿）どまりながら全裸になっている。また、このグラビアには金井自身による自画デッサンも含まれており、こちらには正面からバストトップ、アンダーヘアなども描かれている。</p> 
+     <p>グラビア以外の活動としては、<a href="/wiki/%E8%8A%B8%E8%83%BD%E4%BA%BA%E5%A5%B3%E5%AD%90%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB" title="芸能人女子フットサル">芸能人女子フットサル</a>チーム「<a href="/wiki/%E5%8D%97%E8%91%9B%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA" title="南葛シューターズ">南葛シューターズ</a>」に所属し、2007年3月10日の退団表明に至るまで、<a href="/wiki/%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%B0" title="スフィアリーグ">スフィアリーグ</a>への参戦もしていた。また、本人の趣味に着目した事務所は「ヲタドル」としても売り込んでおり、2006年10月6日には<a href="/wiki/%E5%96%9C%E5%B1%8B%E6%AD%A6%E3%81%A1%E3%81%82%E3%81%8D" title="喜屋武ちあき">喜屋武ちあき</a>とともに「<a href="/wiki/%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="中野風女シスターズ">中野風女シスターズ</a>」に加入<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>、「アニメヲタク」の肩書きで参加していた。</p> 
+     <p>一時引退状態になっていたが、2009年に名義を「<b>金井アヤ</b>」から「<b>金井あや</b>」に変更<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>してフリーとして復帰した<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>。</p> 
+     <h4><span class="mw-headline" id=".E3.80.8C.E5.A5.B3.E5.AD.90.E5.A4.A7.E7.94.9F.E3.82.B0.E3.83.A9.E3.83.89.E3.83.AB.E3.80.8D">「女子大生グラドル」</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=3" title="節を編集: 「女子大生グラドル」">編集</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>高校の美術科を卒業後<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>、2004年に<a href="/wiki/%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6" title="日本大学">日本大学</a><a href="/wiki/%E8%8A%B8%E8%A1%93%E5%AD%A6%E9%83%A8" title="芸術学部">芸術学部</a>美術学科に入学<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[注釈 2]</a></sup>、<a href="/wiki/%E6%B2%B9%E7%B5%B5" class="mw-redirect" title="油絵">油絵</a>を専攻する。このことから当初は「女子大生グラドル」をアピールしていたが、大学はその後中退しており、タレント活動に専念していることをインタビュー等で明かしている。理由として、「本当は<a href="/wiki/%E6%9D%B1%E4%BA%AC%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%A6" class="mw-redirect" title="東京藝術大学">芸大</a>に行きたかったが落ちてしまい、日芸は第一志望ではなかったせいか モチベーションが上がらず、あまり大学に行っていなかった。グラビアの仕事も忙しくなり、中途半端ではいけないと思って中退することを選んだ。」といった内容の発言をしている。</p> 
+     <h4><span class="mw-headline" id=".E3.80.8E.E3.83.88.E3.83.A9.E3.83.83.E3.82.AF.E3.83.90.E3.83.83.E3.82.AF.E3.83.BB.E3.82.AA.E3.83.BC.E3.83.A9.E3.82.A4.E3.80.8F">『トラックバック・オーライ』</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=4" title="節を編集: 『トラックバック・オーライ』">編集</a><span class="mw-editsection-bracket">]</span></span></h4> 
+     <p>2005年からは、<a href="/wiki/BIGLOBE" title="BIGLOBE">BIGLOBE</a>のトラックバック・オーライという<a href="/wiki/%E3%83%96%E3%83%AD%E3%82%B0" title="ブログ">ブログ</a>と<a href="/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0" title="ストリーミング">ストリーミング</a>を利用した新感覚のイベントに同じく<a href="/w/index.php?title=%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%A0&amp;action=edit&amp;redlink=1" class="new" title="サムライム (存在しないページ)">サムライム</a>所属の<a href="/wiki/%E8%B1%8A%E5%8E%9F%E9%87%8C%E7%BE%8E" class="mw-redirect" title="豊原里美">豊原里美</a>とともに参加した。北海道の全<a href="/wiki/%E6%94%AF%E5%BA%81" title="支庁">支庁</a>を制限時間内に訪れることができれば賞金がもらえるという設定であったものの、訪れる順番はルーレットにより決定するため、制限時間内に訪れることはできなかった。しかし、この失敗はトラックバック・オーライという企画が、第二弾・第三弾と続くきっかけになった。</p> 
+     <p>第二弾は、BIGLOBE社員や旅好きのブロガーを交えての全国的な陣取り合戦に発展した。県の面積をポイントに換算し、制限時間内にどれくらい多くのポイントを稼げるかというものだった。各参加者は<a href="/w/index.php?title=%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0&amp;action=edit&amp;redlink=1" class="new" title="モブログ (存在しないページ)">モブログ</a>で逐一自分のブログで報告しあった。</p> 
+     <p>第三弾は、徳川葵があらたにメンバーに加わり<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB" title="インテル">インテル</a>のデジタルホームについての突撃取材を行った。このデジタルホーム開眼企画の中で豊原里美が監督・脚本、金井アヤが美術を担当し実質15時間で『12月25日』というショートムービーを制作した。</p> 
+     <h3><span class="mw-headline" id="2010.E5.B9.B4.E4.BB.A3">2010年代</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=5" title="節を編集: 2010年代">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <p>2010年9月16日、「<b>あんり</b>」への名義変更と、グラビアアイドルから女優への活動路線変更を発表<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[6]</a></sup>。翌年公開の映画『<a href="/wiki/ADULT_24%E6%AD%B3%E3%81%AE%E6%81%8B" title="ADULT 24歳の恋">ADULT 24歳の恋</a>』（当初の仮題は『冷えた鍋』）で初主演を勤めることとなった。映画公開に先立つ2010年9月4日発売のイメージビデオ『Anri』では久々のセミヌードを、2011年1月14日発売の雑誌『フライデー』においては自身初となる<a href="/wiki/%E3%83%98%E3%82%A2%E3%83%8C%E3%83%BC%E3%83%89" title="ヘアヌード">ヘアヌード</a>を披露<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[注釈 3]</a></sup>。映画においても迷いを捨てて濡れ場をこなし<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[7]</a></sup>、25歳の節目の年に従来のアイドル路線との決別を果たした。</p> 
+     <h2><span class="mw-headline" id=".E5.87.BA.E6.BC.94">出演</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=6" title="節を編集: 出演">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id=".E6.98.A0.E7.94.BB">映画</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=7" title="節を編集: 映画">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>Angel.（2005年、角一彦監督）</li> 
+      <li><a href="/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%B1%E6%A0%BC" title="東京失格">東京失格</a>（2006年、<a href="/wiki/%E4%BA%95%E5%B7%9D%E5%BA%83%E5%A4%AA%E9%83%8E" title="井川広太郎">井川広太郎</a>監督）</li> 
+      <li><a href="/wiki/%E3%82%B3%E3%83%BC%E3%83%A9%E3%82%B9%E3%81%9F%E3%81%84%E2%99%AA_%E3%80%9C%E5%BD%BC%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%AD%E3%82%BB%E3%82%AD%E3%80%9C" title="コーラスたい♪ 〜彼女たちのキセキ〜">コーラスたい♪ 〜彼女たちのキセキ〜</a>（2007年、関顕嗣監督）</li> 
+      <li><a href="/wiki/ADULT_24%E6%AD%B3%E3%81%AE%E6%81%8B" title="ADULT 24歳の恋">ADULT 24歳の恋</a>（2011年、中町サク監督、<b>主演・木村多美子</b>）-「あんり」名義</li> 
+      <li><a href="/wiki/%E8%8A%B1%E3%81%A8%E8%9B%87ZERO" class="mw-redirect" title="花と蛇ZERO">花と蛇ZERO</a>（2014年、雨宮美冬）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E8.88.9E.E5.8F.B0">舞台</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=8" title="節を編集: 舞台">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li><a href="/wiki/101%E5%8C%B9%E8%90%8C%E3%81%88%E3%82%BF%E3%83%B3" title="101匹萌えタン">101匹萌えタン</a>（2007年）</li> 
+      <li>楽屋プロジェクト メイド喫茶の神様（2007年4月13日 - 15日、シアターVアカサカ）</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="V.E3.82.B7.E3.83.8D.E3.83.9E">Vシネマ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=9" title="節を編集: Vシネマ">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>A MASATO TSUJIOKA WORLD DIVIDE ディバイド（2006年9月22日、イーネット・フロンティア）</li> 
+      <li>デスパレートな人妻たち 昼下がりのヨガスクール（2007年4月23日、<a href="/wiki/TMC" class="mw-disambig" title="TMC">TMC</a>）</li> 
+      <li>ピョコタン・プロファイル（2009年10月30日、クロックワークス）</li> 
+     </ul> 
+     <h2><span class="mw-headline" id=".E3.82.B0.E3.83.A9.E3.83.93.E3.82.A2.E4.BD.9C.E5.93.81">グラビア作品</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=10" title="節を編集: グラビア作品">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id=".E3.82.A4.E3.83.A1.E3.83.BC.E3.82.B8DVD">イメージDVD</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=11" title="節を編集: イメージDVD">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>kitty on the chair（2005年4月22日、<a href="/wiki/%E7%AB%B9%E6%9B%B8%E6%88%BF" title="竹書房">竹書房</a>）</li> 
+      <li>アヤっぷる（2005年7月20日、<a href="/wiki/%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA" title="ラインコミュニケーションズ">ラインコミュニケーションズ</a>）</li> 
+      <li>AYA ISLAND（2005年11月25日、<a href="/wiki/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%8F%E3%82%A6%E3%82%B9_(%E5%87%BA%E7%89%88%E7%A4%BE)" title="アクアハウス (出版社)">アクアハウス</a>）</li> 
+      <li>金井アヤ AYA in NewCaledonia（2005年12月25日、<a href="/wiki/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89" title="キャプチュード">キャプチュード</a>）</li> 
+      <li>金井アヤ AYA in HAYAMA（2006年1月17日、キャプチュード）</li> 
+      <li>金井アヤ アヤっパイ2（2006年3月31日、<a href="/w/index.php?title=%E3%83%93%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%AA%E3%83%BC&amp;action=edit&amp;redlink=1" class="new" title="ビーエムドットスリー (存在しないページ)">ビーエムドットスリー</a>）</li> 
+      <li>境界線 Borderline（2006年3月31日、<a href="/wiki/BNS" class="mw-disambig" title="BNS">BNS</a>）</li> 
+      <li>GO!! GO!! 清純スクールファイブ（2006年8月18日、<a href="/w/index.php?title=%E6%97%A5%E6%9C%AC%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4&amp;action=edit&amp;redlink=1" class="new" title="日本メディアサプライ (存在しないページ)">日本メディアサプライ</a>） - <a href="/wiki/%E9%88%B4%E6%9C%A8%E3%82%86%E3%81%8D_(%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB)" title="鈴木ゆき (グラビアアイドル)">鈴木ゆき</a>・<a href="/wiki/%E4%BC%8A%E8%97%A4%E7%99%BE%E5%90%88%E5%8D%97" title="伊藤百合南">伊藤百合南</a>・<a href="/wiki/%E6%9C%A8%E5%B6%8B%E3%81%AE%E3%82%8A%E3%81%93" title="木嶋のりこ">木嶋のりこ</a>・<a href="/w/index.php?title=%E5%AF%8C%E7%94%B0%E5%90%8F%E8%8F%9C&amp;action=edit&amp;redlink=1" class="new" title="富田吏菜 (存在しないページ)">富田吏菜</a>とのオムニバス</li> 
+      <li>プラシーボa（2006年9月25日、<a href="/w/index.php?title=%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3&amp;action=edit&amp;redlink=1" class="new" title="スパークビジョン (存在しないページ)">スパークビジョン</a>）</li> 
+      <li>アヤぱん（2006年12月15日、<a href="/wiki/%E5%BF%83%E4%BA%A4%E7%A4%BE" title="心交社">心交社</a>）</li> 
+      <li>パイアップル（2006年12月15日、<a href="/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%82%B3%E3%83%A0" class="mw-redirect" title="フォーサイド・ドット・コム">フォーサイド・ドット・コム</a>）</li> 
+      <li>DOLCE DUE（2007年9月27日、オルスタックピクチャーズ） - <a href="/wiki/%E4%BC%8A%E8%97%A4%E7%99%BE%E5%90%88%E5%8D%97" title="伊藤百合南">伊藤百合南</a>・<a href="/wiki/%E5%B0%8F%E5%B7%9D%E7%80%AC%E9%87%8C%E5%A5%88" title="小川瀬里奈">小川瀬里奈</a>・<a href="/w/index.php?title=%E5%B0%8F%E7%94%B0%E6%B2%99%E9%87%8C&amp;action=edit&amp;redlink=1" class="new" title="小田沙里 (存在しないページ)">小田沙里</a>・<a href="/wiki/%E9%88%B4%E6%9D%91%E3%81%BF%E3%81%8A" title="鈴村みお">鈴村みお</a>とのオムニバス</li> 
+      <li>AYAX〜さいこうちょ〜〜（2007年12月20日、トリコ） - この作品まで「金井アヤ」名義</li> 
+      <li>ジュピター（2009年4月28日、オルスタックピクチャーズ） - この作品より「金井あや」名義</li> 
+      <li>CARA（2009年6月27日、デジワークス）</li> 
+      <li>Anri（2010年9月4日、スパークビジョン） - この作品より「あんり」名義</li> 
+      <li>FINAL NUDE（2013年7月25日、イーネット・フロンティア）</li> 
+      <li>オアシスの美女（2014年4月4日、キングダム）- 「金井あや」名義</li> 
+      <li>無修正〜ドバイ編〜（2016年1月15日）- 「金井あや」名義</li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E5.86.99.E7.9C.9F.E9.9B.86">写真集</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=12" title="節を編集: 写真集">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>キミニ、アイタイ（2005年5月、<a href="/wiki/%E6%9C%9D%E6%97%A5%E5%87%BA%E7%89%88%E7%A4%BE" title="朝日出版社">朝日出版社</a>） - フラッシュの総集編。13人のセミヌード。</li> 
+      <li>初Tai験（2006年12月、<a href="/wiki/%E5%BF%83%E4%BA%A4%E7%A4%BE" title="心交社">心交社</a>）<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/9784778103354" class="internal mw-magiclink-isbn">ISBN 978-4-7781-0335-4</a> - 印刷物としては初のソロ写真集</li> 
+      <li>Anri（2011年4月27日、<a href="/wiki/%E8%AC%9B%E8%AB%87%E7%A4%BE" title="講談社">講談社</a>、撮影：<a href="/w/index.php?title=%E4%B8%AD%E5%A0%B4%E6%95%8F%E5%8D%9A&amp;action=edit&amp;redlink=1" class="new" title="中場敏博 (存在しないページ)">中場敏博</a>）<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/9784063528237" class="internal mw-magiclink-isbn">ISBN 978-4063528237</a> - 金井あや（改めあんり）写真集</li> 
+      <li>NUDE ACT（2012年12月28日、<a href="/wiki/%E5%8F%8C%E8%91%89%E7%A4%BE" title="双葉社">双葉社</a>）<a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/9784575304923" class="internal mw-magiclink-isbn">ISBN 978-4575304923</a></li> 
+     </ul> 
+     <h3><span class="mw-headline" id=".E9.9B.BB.E5.AD.90.E5.86.99.E7.9C.9F.E9.9B.86">電子写真集</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=13" title="節を編集: 電子写真集">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <ul> 
+      <li>金井アヤ LOVE SENSATION（2005年9月8日、電子書店パピレス）</li> 
+     </ul> 
+     <h2><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=14" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <h3><span class="mw-headline" id=".E6.B3.A8.E9.87.88">注釈</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=15" title="節を編集: 注釈">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-2"><b><a href="#cite_ref-2">^</a></b> <span class="reference-text">このユニット名は所属プロダクション名「ローレン」にちなむが、同社が同年6月に「サムライム」に社名変更したことを受けて、ローレンガールズも短期間で自然消滅している。</span></li> 
+       <li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text">グラビアで学生証を公開しており、生年月日はここでも上記の通りであることが確認されている。苗字は本名でも「金井」だが、下の名は非公開。</span></li> 
+       <li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text">「あんり」への名義変更後ながら、『フライデー』においては例外的に旧名義の「金井あや」で掲載されている。</span></li> 
+      </ol> 
+     </div> 
+     <h3><span class="mw-headline" id=".E5.87.BA.E5.85.B8">出典</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=16" title="節を編集: 出典">編集</a><span class="mw-editsection-bracket">]</span></span></h3> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.lmp-promotion.com/staff.html">タレント一覧</a>”. LMPプロモーション. <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+       <li id="cite_note-3"><b><a href="#cite_ref-3">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://itopix.jp/2006_10/hanawa_iv/index.shtml">中野腐女子シスターズ、“ヲタドル”がユニット結成!?“中野腐女子シスターズ”のお披露目イベントは熱気ムンムン！</a>”. アイトピックス！. <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+       <li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text"><cite style="font-style:normal">あんり (<span title="">2009年1月12日</span>). “<a rel="nofollow" class="external text" href="http://ameblo.jp/aya-kanai/entry-10191703888.html">新星金井あや！！</a>”. <i>あんりの炊き込みごはん</i>. <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+       <li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.cyzo.com/2009/08/post_2617.html">ロリ顔Ｈカップの最強タッグ!! 金井あやのベッドシーンに鼻血注意報</a>”. サイゾー (<span title="">2009年8月22日</span>). <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+       <li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://www.zakzak.co.jp/gei/2004_10/g2004101307.html">バラドルへ“ダイブ”…金井アヤ</a>”. ZAKZAK (<span title="">2004年10月13日</span>). <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+       <li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text"><cite style="font-style:normal">あんり (<span title="">2010年9月16日</span>). “<a rel="nofollow" class="external text" href="http://ameblo.jp/aya-kanai/entry-10650026492.html">お久ぶりです！気分も新たに！</a>”. <i>あんりの炊き込みごはん</i>. <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+       <li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text"><cite style="font-style:normal">“<a rel="nofollow" class="external text" href="http://eiga.com/news/20110130/4/">フルヌード披露のあんり、背中を押したのはマツコ・デラックス</a>”. 映画.com (<span title="">2011年1月30日</span>). <span title="">2011年2月17日</span>閲覧。</cite></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;section=17" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://ameblo.jp/aya-kanai/">あんりの炊き込みごはん</a> - 公式ブログ</li> 
+     </ul> 
+     <table class="navbox" style="border-collapse:collapse;;"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <table class="nowraplinks collapsible autocollapse" style="background:transparent;color:inherit;;min-width:100%;border-spacing:2px;border-collapse:separate;"> 
+          <tbody>
+           <tr> 
+            <th style="" colspan="2" class="navbox-title"> 
+             <div style="float:left;width:6em;text-align:left;"> 
+              <div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;;border:none;"> 
+               <ul style="display:inline;"> 
+                <li><a href="/wiki/Template:%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="Template:中野風女シスターズ"><span title="このテンプレートを表示します" style="font-size:125%;;border:none;">表</span></a></li> 
+                <li><a href="/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="Template‐ノート:中野風女シスターズ"><span title="このテンプレートのノートを表示します" style="font-size:125%;color:#002bb8;;border:none;">話</span></a></li> 
+                <li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:中野風女シスターズ&amp;action=edit"><span title="このテンプレートを編集します。保存の前にプレビューを忘れずに。" style="font-size:125%;color:#002bb8;;border:none;">編</span></a></li> 
+                <li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template:中野風女シスターズ&amp;action=history"><span title="このテンプレートの過去の版を表示します" style="font-size:125%;color:#002bb8;;border:none;">歴</span></a></li> 
+               </ul> 
+              </div> 
+             </div> <span style="font-size:110%;"><a href="/wiki/%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="中野風女シスターズ">中野腐女シスターズ（腐男塾）→中野風女シスターズ（風男塾）</a></span></th> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">メンバー</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+             <div style="padding:0 0.25em">
+              <a href="/wiki/%E6%B5%A6%E3%81%88%E3%82%8A%E3%81%8B" title="浦えりか">浦えりか</a>（青明寺浦正）- 
+              <a href="/wiki/%E8%99%8E%E5%8D%97%E6%9C%89%E9%A6%99" title="虎南有香">虎南有香</a>（赤園虎次郎）- 
+              <a href="/wiki/%E7%80%AC%E5%8F%A3%E3%81%8B%E3%81%AA" title="瀬口かな">瀬口かな</a>（瀬斗光黄）- 
+              <a href="/wiki/%E9%95%B7%E8%B0%B7%E5%B7%9D%E6%84%9B" title="長谷川愛">長谷川愛</a>（愛刃健水） - 
+              <a href="/wiki/%E4%B8%8B%E4%BB%AE%E5%B1%8B%E3%82%AB%E3%83%8A%E3%82%A8" title="下仮屋カナエ">下仮屋カナエ</a>（仮屋世来音） - 藤田怜（藤守怜生）
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">過去のメンバー<br></td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even"> 
+             <div style="padding:0 0.25em">
+              <a href="/wiki/%E4%BA%AC%E6%9C%AC%E6%9C%89%E5%8A%A0" title="京本有加">京本有加</a>（緑川狂平）- 
+              <a href="/wiki/%E7%A6%8F%E8%A6%8B%E7%9C%9F%E7%B4%80" title="福見真紀">福見真紀</a>（雪村涼真） - 
+              <a href="/wiki/%E5%96%9C%E5%B1%8B%E6%AD%A6%E3%81%A1%E3%81%82%E3%81%8D" title="喜屋武ちあき">喜屋武ちあき</a>（武器屋桃太郎）- 
+              <a href="/wiki/%E5%8E%9F%E7%94%B0%E3%81%BE%E3%82%8A%E3%82%8B" title="原田まりる">原田まりる</a>（流原蓮次）- 
+              <a href="/wiki/%E4%B9%BE%E6%9B%9C%E5%AD%90" title="乾曜子">乾曜子</a>（紫集院曜介）- 
+              <a href="/wiki/%E3%82%B9%E3%82%B6%E3%83%B3%E3%83%8C_(%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88)" title="スザンヌ (タレント)">スザンヌ</a>（ザン･黄更城、黄島斬）- 
+              <a href="/wiki/%E6%96%B0%E4%BA%95%E5%AF%9B%E4%B9%83" title="新井寛乃">新井寛乃</a>（彩黄寛兵衛）- 
+              <a href="/wiki/%E9%A1%9E%E5%AE%B6%E6%98%8E%E6%97%A5%E9%A6%99" title="類家明日香">類家明日香</a> - 
+              <strong class="selflink">金井アヤ</strong> - 
+              <a href="/wiki/%E5%8D%97%E6%B3%A2%E6%9D%8F" title="南波杏">南波杏</a> - 
+              <a href="/wiki/%E6%9C%A8%E6%9D%91%E8%A3%95%E5%AD%90" title="木村裕子">木村裕子</a>
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">シングルCD</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+             <div style="padding:0 0.25em"></div> 
+             <table class="nowraplinks navbox-subgroup" style="margin:-2px;width:100%;width:calc(100% + 4px);;min-width:100%;border-spacing:2px;border-collapse:separate;"> 
+              <tbody>
+               <tr> 
+                <td class="navbox-group" style="padding:0 0.75em;;">中野風女シスターズ</td> 
+                <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+                 <div style="padding:0 0.25em">
+                  <a href="/wiki/Honey_Bee%E3%80%9C" title="Honey Bee〜">Honey Bee〜</a>（中野腐女シスターズ名義）
+                 </div> </td> 
+               </tr> 
+               <tr> 
+                <td class="navbox-group" style="padding:0 0.75em;;">風男塾</td> 
+                <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even"> 
+                 <div style="padding:0 0.25em">
+                  <a href="/wiki/%E7%94%B7%E5%9D%82_(%E8%85%90%E7%94%B7%E5%A1%BE%E3%81%AE%E6%9B%B2)" title="男坂 (腐男塾の曲)">男坂</a> - 
+                  <a href="/wiki/%E4%BF%BA%E3%81%AE%E7%A9%BA_(%E8%85%90%E7%94%B7%E5%A1%BE%E3%81%AE%E6%9B%B2)" title="俺の空 (腐男塾の曲)">俺の空</a> - 
+                  <a href="/wiki/%E5%8B%9D%E3%81%A4%E3%82%93%E3%81%A0!" title="勝つんだ!">勝つんだ!</a> - 
+                  <a href="/wiki/%E7%84%A1%E6%95%B5!%E5%A4%8F%E4%BC%91%E3%81%BF" title="無敵!夏休み">無敵!夏休み</a> - 
+                  <a href="/wiki/%E5%90%8C%E3%81%98%E6%99%82%E4%BB%A3%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E8%8B%A5%E8%80%85%E3%81%9F%E3%81%A1" title="同じ時代に生まれた若者たち">同じ時代に生まれた若者たち</a>（以上腐男塾名義） - 
+                  <a href="/wiki/Love_Spider" title="Love Spider">Love Spider</a> - 
+                  <a href="/wiki/%E9%A2%A8%E4%B8%80%E6%8F%86" title="風一揆">風一揆</a> - 
+                  <a href="/wiki/%E9%9B%A8%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%8D%E6%99%B4%E3%82%8C%E3%81%AE%E3%81%A1%E8%99%B9" title="雨ときどき晴れのち虹">雨ときどき晴れのち虹</a> - 
+                  <a href="/wiki/%E4%BA%BA%E7%94%9F%E3%82%8F%E3%81%AF%E3%81%AF%E3%81%A3!" title="人生わははっ!">人生わははっ!</a> - 
+                  <a href="/wiki/%E4%B8%8B%E3%82%92%E5%90%91%E3%81%84%E3%81%A6%E5%B8%B0%E3%82%8D%E3%81%86/RIKISHI-MAN" title="下を向いて帰ろう/RIKISHI-MAN">下を向いて帰ろう/RIKISHI-MAN</a>- 
+                  <a href="/wiki/%E7%94%B7%E8%A3%85%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="男装レボリューション">男装レボリューション</a> - 
+                  <a href="/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%83%A1%E3%83%B3%E5%A4%A9%E5%9B%BD" title="チェンメン天国">チェンメン天国</a> - 
+                  <a href="/wiki/BE_HERO" title="BE HERO">BE HERO</a> - 
+                  <a href="/wiki/%E7%9E%AC%E9%96%93%E5%88%B0%E6%9D%A5%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC" title="瞬間到来フューチャー">瞬間到来フューチャー</a> - 
+                  <a href="/wiki/%E3%82%82%E3%81%97%E3%82%82_%E3%81%93%E3%82%8C%E3%81%8C%E6%81%8B%E3%81%AA%E3%82%89" title="もしも これが恋なら">もしも これが恋なら</a> - 
+                  <a href="/wiki/%E5%8F%8B%E9%81%94%E3%81%A8%E5%91%BC%E3%81%B9%E3%82%8B%E5%90%9B%E3%81%B8" title="友達と呼べる君へ">友達と呼べる君へ</a> - 
+                  <a href="/wiki/NOIR%E3%80%9C%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%80%9C" title="NOIR〜ノワール〜">NOIR〜ノワール〜</a> - 
+                  <a href="/wiki/%E8%A8%BC-soul_mate-" title="証-soul mate-">証-soul mate-</a>
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">アルバムCD</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even"> 
+             <div style="padding:0 0.25em"></div> 
+             <table class="nowraplinks navbox-subgroup" style="margin:-2px;width:100%;width:calc(100% + 4px);;min-width:100%;border-spacing:2px;border-collapse:separate;"> 
+              <tbody>
+               <tr> 
+                <td class="navbox-group" style="padding:0 0.75em;;">風男塾</td> 
+                <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+                 <div style="padding:0 0.25em">
+                  <a href="/wiki/%E7%B5%86_(%E8%85%90%E7%94%B7%E5%A1%BE%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0)" title="絆 (腐男塾のアルバム)">絆</a>（腐男塾名義） - 
+                  <a href="/wiki/%E9%9F%B3%E9%BC%93_-OTOKO-" title="音鼓 -OTOKO-">音鼓</a> - 
+                  <a href="/wiki/POWER_OF_WIND" title="POWER OF WIND">POWER OF WIND</a> - 
+                  <a href="/wiki/STAR_TRAVELER" title="STAR TRAVELER">STAR TRAVELER</a>
+                 </div> </td> 
+               </tr> 
+               <tr> 
+                <td class="navbox-group" style="padding:0 0.75em;;">風男塾・中野風女シスターズ</td> 
+                <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-even"> 
+                 <div style="padding:0 0.25em">
+                  <a href="/wiki/%E8%85%90%E3%83%AC%E3%83%B3%E3%82%BA" title="腐レンズ">腐レンズ</a>（腐男塾・中野腐女シスターズ名義）
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-group" style=";">関連事項</td> 
+            <td style="text-align:left;width:100%;padding:0;;;" class="navbox-list navbox-odd"> 
+             <div style="padding:0 0.25em">
+              <a href="/wiki/%E3%81%AF%E3%81%AA%E3%82%8F" title="はなわ">ジャジィはなわ</a> - 
+              <a href="/wiki/%E3%81%AF%E3%81%AA%E3%82%8F%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E2%80%9C%E4%B8%AD%E9%87%8E%E8%85%90%E5%A5%B3%E5%AD%90%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E2%80%9D" title="はなわレコード“中野腐女子シスターズ”">はなわレコード“中野腐女子シスターズ”</a> - 
+              <a href="/wiki/%E4%B8%AD%E9%87%8E%E8%85%90%E5%A5%B3%E5%AD%90%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%81%AE%E3%80%8C%E8%85%90%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AD%E3%83%BC%E3%80%8D" title="中野腐女子シスターズの「腐ジョッキー」">中野腐女子シスターズの「腐ジョッキー」</a> - 
+              <a href="/wiki/%E3%83%86%E3%82%A4%E3%83%81%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88" title="テイチクエンタテインメント">テイチクエンタテインメント</a> - 
+              <a href="/w/index.php?title=%E8%85%90%E5%A5%B3%E3%82%89Night_LIVE&amp;action=edit&amp;redlink=1" class="new" title="腐女らNight LIVE (存在しないページ)">腐女らNight LIVE</a> - 
+              <a href="/w/index.php?title=%E8%85%90%E5%A5%B3%E3%82%89Night_LIVE_Z&amp;action=edit&amp;redlink=1" class="new" title="腐女らNight LIVE Z (存在しないページ)">腐女らNight LIVE Z</a> - 
+              <a href="/w/index.php?title=%E8%85%90%E5%A5%B3%E3%82%89Night_LIVE_Z_-SP&amp;action=edit&amp;redlink=1" class="new" title="腐女らNight LIVE Z -SP (存在しないページ)">腐女らNight LIVE Z -SP</a> - 
+              <a href="/wiki/THE_HOOPERS" title="THE HOOPERS">THE HOOPERS</a>（弟分） - 
+              <a href="/wiki/AXELL" title="AXELL">AXELL</a>（弟分）
+             </div> </td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" style="" colspan="2">括弧内の名称は風男塾（腐男塾）としての名称<br> <a href="/wiki/Category:%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="Category:中野風女シスターズ">Category:中野風女シスターズ</a> - <a href="/wiki/Category:%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%81%AE%E6%A5%BD%E6%9B%B2" title="Category:中野風女シスターズの楽曲">Category:中野風女シスターズの楽曲</a> - <a href="/wiki/Category:%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0" title="Category:中野風女シスターズのアルバム">Category:中野風女シスターズのアルバム</a></td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20170404043130
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.116 seconds
+Real time usage: 0.143 seconds
+Preprocessor visited node count: 3780/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 51220/2097152 bytes
+Template argument size: 6881/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 0/500
+Lua time usage: 0.011/10.000 seconds
+Lua memory usage: 1.21 MB/50 MB
+--> 
+     <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  100.780      1 -total
+ 59.22%   59.678      2 Template:Reflist
+ 50.85%   51.242      7 Template:Cite_web
+ 25.85%   26.055      1 Template:女性モデル
+ 21.15%   21.318      1 Template:Infobox
+ 19.30%   19.455      7 Template:Accessdate
+ 16.24%   16.363      7 Template:Accessdate/core
+ 12.88%   12.979      5 Template:Citation/showdate
+ 11.78%   11.868     12 Template:ISO_dateJA
+  8.94%    9.014      1 Template:中野風女シスターズ
+--> 
+     <!-- Saved in parser cache with key jawiki:pcache:idhash:428489-0!*!0!!ja!4!* and timestamp 20170404043130 and revision id 62031756
+ --> 
+     <noscript>
+      <img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript>
+    </div> 
+    <div class="printfooter">
+      「
+     <a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=あんり&amp;oldid=62031756">https://ja.wikipedia.org/w/index.php?title=あんり&amp;oldid=62031756</a>」から取得 
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: 
+      <ul>
+       <li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A5%B3%E5%84%AA" title="Category:日本の女優">日本の女優</a></li>
+       <li><a href="/wiki/Category:%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" title="Category:グラビアアイドル">グラビアアイドル</a></li>
+       <li><a href="/wiki/Category:%E8%8A%B8%E8%83%BD%E4%BA%BA%E5%A5%B3%E5%AD%90%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E9%81%B8%E6%89%8B" title="Category:芸能人女子フットサル選手">芸能人女子フットサル選手</a></li>
+       <li><a href="/wiki/Category:%E4%B8%AD%E9%87%8E%E9%A2%A8%E5%A5%B3%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" title="Category:中野風女シスターズ">中野風女シスターズ</a></li>
+       <li><a href="/wiki/Category:%E4%BB%99%E5%8F%B0%E5%B8%82%E5%87%BA%E8%BA%AB%E3%81%AE%E4%BA%BA%E7%89%A9" title="Category:仙台市出身の人物">仙台市出身の人物</a></li>
+       <li><a href="/wiki/Category:1985%E5%B9%B4%E7%94%9F" title="Category:1985年生">1985年生</a></li>
+       <li><a href="/wiki/Category:%E5%AD%98%E5%91%BD%E4%BA%BA%E7%89%A9" title="Category:存命人物">存命人物</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      隠しカテゴリ: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_using_ISBN_magic_links" title="Category:Pages using ISBN magic links">Pages using ISBN magic links</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>案内メニュー</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label"> 
+     <h3 id="p-personal-label">個人用ツール</h3> 
+     <ul> 
+      <li id="pt-anonuserpage">ログインしていません</li>
+      <li id="pt-anontalk"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]" accesskey="n">トーク</a></li>
+      <li id="pt-anoncontribs"><a href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]" accesskey="y">投稿記録</a></li>
+      <li id="pt-createaccount"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%81%82%E3%82%93%E3%82%8A" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません">アカウント作成</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%81%82%E3%82%93%E3%82%8A" title="ログインすることを推奨します。ただし、必須ではありません。 [o]" accesskey="o">ログイン</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label"> 
+      <h3 id="p-namespaces-label">名前空間</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/%E3%81%82%E3%82%93%E3%82%8A" title="本文を閲覧 [c]" accesskey="c">ページ</a></span></li> 
+       <li id="ca-talk" class="new"><span><a href="/w/index.php?title=%E3%83%8E%E3%83%BC%E3%83%88:%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit&amp;redlink=1" title="本文ページについての議論 [t]" accesskey="t" rel="discussion">ノート</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>変種</span><a href="#"></a> </h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label"> 
+      <h3 id="p-views-label">表示</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/%E3%81%82%E3%82%93%E3%82%8A">閲覧</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=edit" title="このページを編集 [e]" accesskey="e">編集</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=history" title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"><span>その他</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">検索</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input type="search" name="search" placeholder="Wikipedia内を検索" title="Wikipedia内を検索する [f]" accesskey="f" id="searchInput">
+        <input type="hidden" value="特別:検索" name="title">
+        <input type="submit" name="fulltext" value="検索" title="この文字列が含まれるページを探す" id="mw-searchButton" class="searchButton mw-fallbackSearchButton">
+        <input type="submit" name="go" value="表示" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label"> 
+     <h3 id="p-navigation-label">案内</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage"><a href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]" accesskey="z">メインページ</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所">コミュニティ・ポータル</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る">最近の出来事</a></li>
+       <li id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧">新しいページ</a></li>
+       <li id="n-recentchanges"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]" accesskey="r">最近の更新</a></li>
+       <li id="n-randompage"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]" accesskey="x">おまかせ表示</a></li>
+       <li id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ">練習用ページ</a></li>
+       <li id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード">アップロード (ウィキメディア・コモンズ)</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-help" aria-labelledby="p-help-label"> 
+     <h3 id="p-help-label">ヘルプ</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所">ヘルプ</a></li>
+       <li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換">井戸端</a></li>
+       <li id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ">お知らせ</a></li>
+       <li id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告">バグの報告</a></li>
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください">寄付</a></li>
+       <li id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先">ウィキペディアに関するお問い合わせ</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label"> 
+     <h3 id="p-coll-print_export-label">印刷/書き出し</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%81%82%E3%82%93%E3%82%8A">ブックの新規作成</a></li>
+       <li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=render_article&amp;arttitle=%E3%81%82%E3%82%93%E3%82%8A&amp;returnto=%E3%81%82%E3%82%93%E3%82%8A&amp;oldid=62031756&amp;writer=rdf2latex">PDF 形式でダウンロード</a></li>
+       <li id="t-print"><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;printable=yes" title="このページの印刷用ページ [p]" accesskey="p">印刷用バージョン</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label"> 
+     <h3 id="p-tb-label">ツール</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%81%82%E3%82%93%E3%82%8A" title="ここにリンクしている全ウィキページの一覧 [j]" accesskey="j">リンク元</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%81%82%E3%82%93%E3%82%8A" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]" accesskey="k">関連ページの更新状況</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]" accesskey="u">ファイルをアップロード</a></li>
+       <li id="t-specialpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]" accesskey="q">特別ページ</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;oldid=62031756" title="このページのこの版への固定リンク">この版への固定リンク</a></li>
+       <li id="t-info"><a href="/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;action=info" title="このページについての詳細情報">ページ情報</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q11258894" title="関連付けられたデータリポジトリ項目へのリンク [g]" accesskey="g">ウィキデータ項目</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%81%82%E3%82%93%E3%82%8A&amp;id=62031756" title="このページの引用方法">このページを引用</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"> 
+     <h3 id="p-lang-label">他言語版</h3> 
+     <div class="body"> 
+      <ul> 
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q11258894#sitelinks-wikipedia" title="言語間リンクを追加する" class="wbc-editpage">リンクを追加</a></span>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> 最終更新 2016年11月22日 (火) 14:49 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li> 
+    <li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。<br></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja" class="extiw" title="m:Privacy policy/ja">プライバシー・ポリシー</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" title="Wikipedia:ウィキペディアについて">ウィキペディアについて</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85" title="Wikipedia:免責事項">免責事項</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">開発者</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookieに関する声明</a></li> 
+    <li id="footer-places-mobileview"><a href="//ja.m.wikipedia.org/w/index.php?title=%E3%81%82%E3%82%93%E3%82%8A&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">モバイルビュー</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.143","ppvisitednodes":{"value":3780,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51220,"limit":2097152},"templateargumentsize":{"value":6881,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  100.780      1 -total"," 59.22%   59.678      2 Template:Reflist"," 50.85%   51.242      7 Template:Cite_web"," 25.85%   26.055      1 Template:女性モデル"," 21.15%   21.318      1 Template:Infobox"," 19.30%   19.455      7 Template:Accessdate"," 16.24%   16.363      7 Template:Accessdate/core"," 12.88%   12.979      5 Template:Citation/showdate"," 11.78%   11.868     12 Template:ISO_dateJA","  8.94%    9.014      1 Template:中野風女シスターズ"]},"scribunto":{"limitreport-timeusage":{"value":"0.011","limit":"10.000"},"limitreport-memusage":{"value":1265501,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20170404043130","ttl":3600,"transientcontent":true}}});});</script>
+  <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":214,"wgHostname":"mw1248"});});</script>   
+ </body>
+</html>
