@@ -156,7 +156,7 @@ fun imageSeleniumDriver(args: List<String?>) {
   }.map { name ->
     println(name)
     // ディレクトリを作成
-    Runtime.getRuntime().exec("mkdir -p ${outputFile}/${name}").waitFor()
+    Runtime.getRuntime().exec("mkdir -p ${outputFile}").waitFor()
     // 名前をURLエンコード
     val encoded = URLEncoder.encode(name)
     val driver = PhantomJSDriver()
@@ -173,7 +173,7 @@ fun imageSeleniumDriver(args: List<String?>) {
       println(x)
       val data_bm = x.attr("data-bm")
       val src     = x.attr("src")
-      Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${name}/${data_bm}.png").waitFor()
+      Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${name}_${data_bm}.jpg").waitFor()
     }
     val data = (driver as TakesScreenshot).getScreenshotAs(OutputType.BYTES)
     Files.write(Paths.get("${outputFile}/${name}.png"), data)
