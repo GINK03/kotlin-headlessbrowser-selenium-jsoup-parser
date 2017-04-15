@@ -1,0 +1,401 @@
+Name	Net Worth	Age	Residence	Source
+Bill Gates	$81 B	61	Medina, WA	Microsoft
+Jeff Bezos	$67 B	53	Seattle, WA	Amazon.com
+Warren Buffett	$65.5 B	86	Omaha, NE	Berkshire Hathaway
+Mark Zuckerberg	$55.5 B	32	Palo Alto, CA	Facebook
+Larry Ellison	$49.3 B	72	Woodside, CA	Oracle
+Michael Bloomberg	$45 B	75	New York, NY	Bloomberg LP
+Charles Koch	$42 B	81	Wichita, KS	diversified
+David Koch	$42 B	76	New York, NY	diversified
+Larry Page	$38.5 B	44	Palo Alto, CA	Google
+Sergey Brin	$37.5 B	43	Los Altos, CA	Google
+Jim Walton	$35.6 B	68	Bentonville, AR	Wal-Mart
+S. Robson Walton	$35.5 B	72	Bentonville, AR	Wal-Mart
+Alice Walton	$35.4 B	67	Fort Worth, TX	Wal-Mart
+Sheldon Adelson	$31.8 B	83	Las Vegas, NV	casinos
+Steve Ballmer	$27.5 B	61	Hunts Point, WA	Microsoft
+Jacqueline Mars	$27 B	77	The Plains, VA	candy
+John Mars	$27 B	81	Jackson, WY	candy
+Phil Knight	$25.5 B	79	Hillsboro, OR	Nike
+George Soros	$24.9 B	86	Katonah, NY	hedge funds
+Michael Dell	$20 B	52	Austin, TX	Dell computers
+Paul Allen	$18.9 B	64	Mercer Island, WA	Microsoft, investments
+Len Blavatnik	$18.2 B	59	London	diversified
+Laurene Powell Jobs	$17.7 B	53	Palo Alto, CA	Apple, Disney
+James Simons	$16.5 B	78	East Setauket, NY	hedge funds
+Ray Dalio	$15.9 B	67	Greenwich, CT	hedge funds
+Carl Icahn	$15.7 B	81	New York, NY	investments
+Donald Bren	$15.2 B	84	Newport Beach, CA	real estate
+Charles Ergen	$14.7 B	64	Denver, CO	satellite TV
+Abigail Johnson	$13.2 B	55	Milton, MA	money management
+Harold Hamm	$13.1 B	71	Oklahoma City, OK	oil & gas
+Steve Cohen	$13 B	60	Greenwich, CT	hedge funds
+Thomas Peterffy	$12.6 B	72	Palm Beach, FL	discount brokerage
+Ronald Perelman	$12.2 B	74	New York, NY	leveraged buyouts
+Elon Musk	$11.6 B	45	Los Angeles, CA	Tesla Motors
+David Tepper	$11.4 B	59	Miami Beach, FL	hedge funds
+Eric Schmidt	$11.3 B	61	Atherton, CA	Google
+Lukas Walton	$11.2 B	30	Jackson, WY	Wal-Mart
+Rupert Murdoch	$11.1 B	86	New York, NY	newspapers, TV network
+Philip Anschutz	$10.8 B	77	Denver, CO	investments
+Jim Kennedy	$10.8 B	69	Atlanta, GA	media
+Blair Parry-Okeden	$10.8 B	66	Scone	media
+Donald Newhouse	$10.5 B	87	Somerset County, NJ	media
+Samuel Newhouse, Jr.	$10.5 B	89	New York, NY	media
+Dustin Moskovitz	$10.4 B	32	San Francisco, CA	Facebook
+Stephen Schwarzman	$10.3 B	70	New York, NY	investments
+John Menard, Jr.	$9.4 B	77	Eau Claire, WI	home improvement stores
+Patrick Soon-Shiong	$9.2 B	64	Los Angeles, CA	pharmaceuticals
+Leonard Lauder	$9 B	80	New York, NY	Estee Lauder
+Andrew Beal	$8.9 B	64	Dallas, TX	banks, real estate
+Jan Koum	$8.8 B	41	Santa Clara, CA	WhatsApp
+James Goodnight	$8.7 B	74	Cary, NC	software
+Herbert Kohler, Jr.	$8.6 B	78	Kohler, WI	plumbing fixtures
+John Paulson	$8.6 B	61	New York, NY	hedge funds
+Pierre Omidyar	$8.1 B	49	Honolulu, HI	eBay
+Thomas Frist, Jr.	$7.9 B	78	Nashville, TN	health care
+Gordon Moore	$7.6 B	88	Woodside, CA	Intel
+Ken Griffin	$7.5 B	48	Chicago, IL	hedge funds
+Eli Broad	$7.4 B	83	Los Angeles, CA	investments
+Stanley Kroenke	$7.4 B	69	Columbia, MO	sports, real estate
+Stephen Ross	$7.4 B	76	New York, NY	real estate
+Micky Arison	$7.2 B	67	Bal Harbour, FL	Carnival Cruises
+James Chambers	$7.2 B	60	Palisades, NY	media
+Carl Cook	$7.2 B	54	Bloomington, IN	medical devices
+George Kaiser	$7.2 B	74	Tulsa, OK	oil & gas, banking
+John Malone	$7.2 B	76	Elizabeth, CO	cable television
+Katharine Rayner	$7.2 B	72	East Hampton, NY	media
+Margaretta Taylor	$7.2 B	75	Southampton, NY	media
+Edward Johnson, III.	$7.1 B	86	Boston, MA	money management
+Richard Kinder	$7 B	72	Houston, TX	pipelines
+Shahid Khan	$6.9 B	66	Naples, FL	auto parts
+Hank & Doug Meijer	$6.9 B	-	Grand Rapids, MI	supermarkets
+Les Wexner	$6.9 B	79	New Albany, OH	retail
+David Duffield	$6.7 B	76	Incline Village, NV	business software
+David Geffen	$6.7 B	74	Malibu, CA	movies, record labels
+Richard LeFrak	$6.7 B	71	New York, NY	real estate
+Charles Schwab	$6.6 B	79	Atherton, CA	discount brokerage
+Pauline MacMillan Keinath	$6.4 B	83	St. Louis, MO	Cargill
+Bruce Halle	$6.3 B	86	Paradise Valley, AZ	tires
+Travis Kalanick	$6.3 B	40	San Francisco, CA	Uber Technologies
+Ann Walton Kroenke	$6.2 B	68	Columbia, MO	Wal-Mart
+David Green	$6.1 B	75	Oklahoma City, OK	retail
+Robert Rowling	$6 B	63	Dallas, TX	investments
+Ralph Lauren	$5.9 B	77	New York, NY	Ralph Lauren
+John A. Sobrato	$5.9 B	77	Atherton, CA	real estate
+Dennis Washington	$5.9 B	82	Missoula, MT	construction, mining
+Marian Ilitch	$5.8 B	84	Bingham Farms, MI	pizza, sports team
+Christy Walton	$5.6 B	68	Jackson, WY	Wal-Mart
+Brian Acton	$5.4 B	45	Palo Alto, CA	WhatsApp
+Richard DeVos	$5.4 B	91	Holland, MI	Amway
+Bruce Kovner	$5.3 B	72	New York, NY	hedge funds
+Ted Lerner	$5.3 B	91	Chevy Chase, MD	real estate
+David Sun	$5.3 B	65	Irvine, CA	computer hardware
+John Tu	$5.3 B	75	Rolling Hills, CA	computer hardware
+Dannine Avara	$5.2 B	53	Houston, TX	pipelines
+Jim Davis	$5.2 B	73	Newton, MA	New Balance
+Scott Duncan	$5.2 B	34	Houston, TX	pipelines
+Milane Frantz	$5.2 B	47	Houston, TX	pipelines
+Jerry Jones	$5.2 B	74	Dallas, TX	Dallas Cowboys
+Whitney MacMillan	$5.2 B	87	Minneapolis, MN	Cargill
+Trevor Rees-Jones	$5.2 B	65	Dallas, TX	oil & gas
+Randa Williams	$5.2 B	55	Houston, TX	pipelines
+Robert Kraft	$5.1 B	75	Brookline, MA	New England Patriots
+Tom & Judy Love	$5.1 B	80	Oklahoma City, OK	retail & gas stations
+Leandro Rizzuto	$5.1 B	79	Sheridan, WY	consumer products
+Leon Black	$5 B	65	New York, NY	private equity
+John Doerr	$5 B	65	Woodside, CA	venture capital
+Israel Englander	$5 B	68	New York, NY	hedge funds
+Charles Johnson	$5 B	84	Palm Beach, FL	money management
+David Shaw	$5 B	66	New York, NY	hedge funds
+Edward Roski, Jr.	$4.9 B	78	Los Angeles, CA	real estate
+Ray Lee Hunt	$4.8 B	74	Dallas, TX	oil, real estate
+Alejandro Santo Domingo	$4.8 B	40	New York, NY	beer
+Andres Santo Domingo	$4.8 B	38	New York, NY	beer
+Daniel Ziff	$4.8 B	45	New York, NY	investments
+Dirk Ziff	$4.8 B	53	North Palm Beach, FL	investments
+Robert Ziff	$4.8 B	50	New York, NY	investments
+Tamara Gustavson	$4.7 B	55	Malibu, CA	self storage
+Sumner Redstone	$4.7 B	93	Beverly Hills, CA	media
+Sam Zell	$4.7 B	75	Chicago, IL	real estate, private equity
+Daniel Gilbert	$4.6 B	55	Franklin, MI	Quicken Loans
+Paul Tudor Jones, II.	$4.6 B	62	Greenwich, CT	hedge funds
+George Lucas	$4.6 B	72	San Anselmo, CA	Star Wars
+Steven Rales	$4.6 B	66	Santa Barbara, CA	manufacturing
+Charles Dolan	$4.5 B	90	Oyster Bay, NY	cable television
+Henry Kravis	$4.5 B	73	New York, NY	private equity
+Nancy Walton Laurie	$4.5 B	65	Henderson, NV	Wal-Mart
+George Roberts	$4.5 B	73	Atherton, CA	private equity
+Stanley Druckenmiller	$4.4 B	63	New York, NY	hedge funds
+Reinhold Schmieding	$4.4 B	62	Naples, FL	medical devices
+Sheldon Solow	$4.4 B	88	New York, NY	real estate
+Rupert Johnson, Jr.	$4.3 B	76	Burlingame, CA	money management
+Karen Pritzker	$4.3 B	59	Branford, CT	hotels, investments
+John Sall	$4.2 B	69	Cary, NC	software
+Phillip Frost	$4.1 B	80	Miami Beach, FL	pharmaceuticals
+Jeffery Hildebrand	$4.1 B	58	Houston, TX	oil
+Gabe Newell	$4.1 B	54	Seattle, WA	videogames
+Terrence Pegula	$4.1 B	66	Boca Raton, FL	natural gas
+Mitchell Rales	$4.1 B	60	Potomac, MD	manufacturing, investments
+Jeffrey Skoll	$4.1 B	52	Los Angeles, CA	eBay
+Leonard Stern	$4.1 B	79	New York, NY	real estate
+Ronda Stryker	$4.1 B	62	Portage, MI	medical equipment
+Jeremy Jacobs, Sr.	$4 B	77	East Aurora, NY	Concessions
+James Jannard	$4 B	67	San Juan Islands, WA	sunglasses
+Gwendolyn Sontheim Meyer	$4 B	55	Rancho Santa Fe, CA	Cargill
+H. Ross Perot, Sr.	$4 B	86	Dallas, TX	computer services, real estate
+Stewart and Lynda Resnick	$4 B	-	Beverly Hills, CA	agriculture, water
+Russ Weiner	$4 B	46	Delray Beach, FL	energy drinks
+John Morris	$3.9 B	69	Springfield, MO	sporting goods retail
+Ira Rennert	$3.9 B	82	New York, NY	investments
+Marc Benioff	$3.8 B	52	San Francisco, CA	business software
+Diane Hendricks	$3.8 B	70	Afton, WI	roofing
+Reid Hoffman	$3.8 B	49	Palo Alto, CA	LinkedIn
+Robert Rich, Jr.	$3.8 B	76	Islamorada, FL	frozen foods
+Walter Scott, Jr.	$3.8 B	85	Omaha, NE	utilities, telecom
+Kelcy Warren	$3.8 B	61	Dallas, TX	pipelines
+Stephen Bisciotti	$3.7 B	57	Millersville, MD	outsourcing, Baltimore Ravens
+Austen Cargill, II.	$3.7 B	66	Livingston, MT	Cargill
+James Cargill, II.	$3.7 B	68	Birchwood, WI	Cargill
+Rick Caruso	$3.7 B	58	Brentwood, CA	real estate
+Martha Ingram	$3.7 B	81	Nashville, TN	book distribution, transportation
+H. Fisk Johnson	$3.7 B	58	Racine, WI	cleaning products
+Imogene Powers Johnson	$3.7 B	86	Racine, WI	cleaning products
+S. Curtis Johnson	$3.7 B	61	Racine, WI	cleaning products
+Helen Johnson-Leipold	$3.7 B	60	Racine, WI	cleaning products
+Winnie Johnson-Marquart	$3.7 B	58	Virginia Beach, VA	cleaning products
+Marianne Liebmann	$3.7 B	63	Bozeman, MT	Cargill
+Mary Alice Dorrance Malone	$3.7 B	67	Coatesville, PA	Campbell Soup
+Clayton Mathile	$3.7 B	76	Brookville, OH	pet food
+Igor Olenicoff	$3.7 B	74	Lighthouse Point, FL	real estate
+Frederick Smith	$3.7 B	72	Memphis, TN	FedEx
+Jerry Speyer	$3.7 B	76	New York, NY	real estate
+Steven Spielberg	$3.7 B	70	Pacific Palisades, CA	Movies
+Donald Trump	$3.7 B	70	Washington, DC	television, real estate
+Bubba Cathy	$3.6 B	62	Atlanta, GA	Chick-Fil-A
+Dan Cathy	$3.6 B	64	Atlanta, GA	Chick-Fil-A
+Dan Friedkin	$3.6 B	52	Houston, TX	Toyota dealerships
+Jimmy Haslam	$3.6 B	63	Knoxville, TN	gas stations, retail
+Randal Kirk	$3.6 B	63	Lake Worth, FL	pharmaceuticals
+Bernard Marcus	$3.6 B	87	Atlanta, GA	Home Depot
+Isaac Perlmutter	$3.6 B	74	Palm Beach, FL	Marvel comics
+Julian Robertson, Jr.	$3.6 B	84	Locust Valley, NY	hedge funds
+Jeff Sutton	$3.6 B	57	New York, NY	real estate
+Joan Tisch	$3.6 B	89	New York, NY	diversified
+Dagmar Dolby	$3.5 B	75	San Francisco, CA	Dolby Laboratories
+Archie Aldis Emmerson	$3.5 B	88	Redding, CA	timberland, lumber mills
+Ken Fisher	$3.5 B	66	Camas, WA	money management
+Robert McNair	$3.5 B	80	Houston, TX	energy, sports
+Michael Milken	$3.5 B	70	Los Angeles, CA	investments
+Steven Udvar-Hazy	$3.5 B	71	Beverly Hills, CA	aircraft leasing
+Anthony Pritzker	$3.4 B	56	Los Angeles, CA	hotels, investments
+Jay Robert (J.B.) Pritzker	$3.4 B	52	Chicago, IL	hotels, investments
+Donald Sterling	$3.4 B	82	Beverly Hills, CA	real estate
+Roger Wang	$3.4 B	68	Nanjing	retail
+Nathan Blecharczyk	$3.3 B	33	San Francisco, CA	Airbnb
+John Catsimatidis	$3.3 B	68	New York, NY	oil, real estate
+Brian Chesky	$3.3 B	35	San Francisco, CA	Airbnb
+David Filo	$3.3 B	51	Palo Alto, CA	Yahoo
+Joe Gebbia	$3.3 B	35	San Francisco, CA	Airbnb
+Tom Gores	$3.3 B	52	Beverly Hills, CA	private equity
+Jeff Greene	$3.3 B	62	Palm Beach, FL	real estate, investments
+John Overdeck	$3.3 B	47	Millburn, NJ	hedge funds
+Bernard Saul, II.	$3.3 B	85	Chevy Chase, MD	banking, real estate
+David Siegel	$3.3 B	55	Scarsdale, NY	Hedge Funds
+Neil Bluhm	$3.2 B	79	Chicago, IL	real estate
+Leon G. Cooperman	$3.2 B	73	Short Hills, NJ	hedge funds
+Mark Cuban	$3.2 B	58	Dallas, TX	online media
+Jack & Laura Dangermond	$3.2 B	71	Redlands, CA	mapping software
+Edward DeBartolo, Jr.	$3.2 B	70	Tampa, FL	shopping centers
+Ronald Lauder	$3.2 B	73	New York, NY	Estee Lauder
+George Lindemann	$3.2 B	81	Palm Beach, FL	investments
+Robert Pera	$3.2 B	39	San Jose, CA	wireless networking gear
+Clemmie Spangler, Jr.	$3.2 B	85	Charlotte, NC	investments
+Harry Stine	$3.2 B	75	Adel, IA	agriculture
+Arthur Blank	$3.1 B	74	Atlanta, GA	Home Depot
+John Paul DeJoria	$3.1 B	73	Austin, TX	hair products, tequila
+Kieu Hoang	$3.1 B	72	Westlake Village, CA	medical products
+Amos Hostetter, Jr.	$3.1 B	80	Boston, MA	cable television
+Thomas Pritzker	$3.1 B	66	Chicago, IL	hotels, investments
+David Rockefeller, Sr.	$3.1 B	101	-	real estate, investments
+Henry Samueli	$3.1 B	62	Newport Beach, CA	semiconductors
+Lynn Schusterman	$3.1 B	78	Tulsa, OK	oil & gas, investments
+Do Won & Jin Sook Chang	$3 B	61	Beverly Hills, CA	fashion retail
+Bennett Dorrance	$3 B	71	Paradise Valley, AZ	Campbell Soup
+Allan Goldman	$3 B	74	New York, NY	real estate
+Jane Goldman	$3 B	61	New York, NY	real estate
+Amy Goldman Fowler	$3 B	62	Rhinebeck, NY	real estate
+Diane Kemper	$3 B	71	New York, NY	real estate
+Michael Moritz	$3 B	62	San Francisco, CA	venture capital
+Kevin Plank	$3 B	44	Lutherville-Timonium, MD	Under Armour
+Herbert Simon	$3 B	82	Indianapolis, IN	real estate
+Romesh T. Wadhwani	$3 B	69	Palo Alto, CA	software
+John Arnold	$2.9 B	43	Houston, TX	hedge funds
+Andrew & Peggy Cherng	$2.9 B	-	Las Vegas, NV	restaurants
+Tom Golisano	$2.9 B	75	Naples, FL	payroll services
+James Leprino	$2.9 B	79	Indian Hills, CO	cheese
+Wilbur Ross, Jr.	$2.9 B	79	Palm Beach, FL	investments
+Haim Saban	$2.9 B	72	Beverly Hills, CA	TV network, investments
+Howard Schultz	$2.9 B	63	Seattle, WA	Starbucks
+Robert Bass	$2.8 B	69	Fort Worth, TX	oil, investments
+Charles Cohen	$2.8 B	65	New York, NY	real estate
+Peter Kellogg	$2.8 B	74	Short Hills, NJ	investments
+Kenneth Langone	$2.8 B	81	Sands Point, NY	investments
+Jorge Perez	$2.8 B	67	Miami, FL	real estate
+Richard Schulze	$2.8 B	76	Bonita Springs, FL	Best Buy
+Oprah Winfrey	$2.8 B	63	Montecito, CA	TV shows
+Jim Breyer	$2.7 B	55	Woodside, CA	venture capital
+Barry Diller	$2.7 B	75	New York, NY	online media
+Kenneth Feld	$2.7 B	68	Tampa, FL	circus, live entertainment
+Tilman Fertitta	$2.7 B	59	Houston, TX	restaurants, casinos
+B. Wayne Hughes	$2.7 B	83	Lexington, KY	self storage
+Min Kao	$2.7 B	68	Leawood, KS	navigation equipment
+Douglas Leone	$2.7 B	59	Atherton, CA	venture capital
+John Middleton	$2.7 B	62	Bryn Mawr, PA	tobacco
+Daniel Och	$2.7 B	56	Scarsdale, NY	hedge funds
+A. Jerrold Perenchio	$2.7 B	86	Bel Air, CA	television, Univision
+J. Christopher Reyes	$2.7 B	63	Hobe Sound, FL	food distribution
+Jude Reyes	$2.7 B	61	Palm Beach, FL	food distribution
+Gary Rollins	$2.7 B	72	Atlanta, GA	pest control
+Randall Rollins	$2.7 B	85	Atlanta, GA	pest control
+Mark Shoen	$2.7 B	66	Phoenix, AZ	U-Haul
+Peter Thiel	$2.7 B	49	San Francisco, CA	Facebook, Palantir
+Steve Wynn	$2.7 B	75	Las Vegas, NV	casinos, hotels
+Mortimer Zuckerman	$2.7 B	79	New York, NY	real estate, media
+Riley Bechtel	$2.6 B	65	San Francisco, CA	engineering, construction
+Stephen Bechtel, Jr.	$2.6 B	91	San Francisco, CA	engineering, construction
+Robert Duggan	$2.6 B	72	Clearwater, FL	pharmaceuticals
+Doris Fisher	$2.6 B	85	San Francisco, CA	Gap
+H. Wayne Huizenga	$2.6 B	79	Fort Lauderdale, FL	investments
+Daniel Loeb	$2.6 B	55	New York, NY	hedge funds
+David Murdock	$2.6 B	94	Ventura, CA	Dole, real estate
+Pat Stryker	$2.6 B	61	Fort Collins, CO	medical equipment
+William Wrigley, Jr.	$2.6 B	53	North Palm Beach, FL	chewing gum
+Anita Zucker	$2.6 B	65	Charleston, SC	chemicals
+Tom Benson	$2.5 B	89	New Orleans, LA	New Orleans Saints
+David Bonderman	$2.5 B	74	Fort Worth, TX	private equity
+John Brown	$2.5 B	82	Portage, MI	medical equipment
+Bharat Desai	$2.5 B	64	Fisher Island, FL	IT consulting
+Don Hankey	$2.5 B	73	Malibu, CA	auto loans
+Joshua Harris	$2.5 B	52	New York, NY	private equity
+Bill Haslam	$2.5 B	58	Knoxville, TN	truck stops
+Henry Hillman	$2.5 B	98	Pittsburgh, PA	investments
+James Irsay	$2.5 B	57	Carmel, IN	Indianapolis Colts
+Stephen Mandel, Jr.	$2.5 B	61	Greenwich, CT	hedge funds
+C. Dean Metropoulos	$2.5 B	70	Palm Beach, FL	investments
+Henry Nicholas, III.	$2.5 B	57	Newport Coast, CA	semiconductors
+Marc Rowan	$2.5 B	54	New York, NY	private equity
+Phillip Ruffin	$2.5 B	82	Las Vegas, NV	casinos, real estate
+Robert Smith	$2.5 B	54	Austin, TX	private equity
+Ty Warner	$2.5 B	72	Oak Brook, IL	real estate, plush toys
+George Bishop	$2.4 B	79	The Woodlands, TX	oil & gas
+Peter Buck	$2.4 B	86	Danbury, CT	Subway sandwich shops
+William Conway, Jr.	$2.4 B	67	McLean, VA	private equity
+Daniel D'Aniello	$2.4 B	70	Vienna, VA	private equity
+Ray Davis	$2.4 B	75	Dallas, TX	pipelines
+Bill Gross	$2.4 B	73	Laguna Beach, CA	investments
+John Henry	$2.4 B	67	Boca Raton, FL	sports
+Sean Parker	$2.4 B	37	New York, NY	Facebook
+Bob Parsons	$2.4 B	66	Scottsdale, AZ	web hosting
+Jean (Gigi) Pritzker	$2.4 B	54	Chicago, IL	hotels, investments
+Penny Pritzker	$2.4 B	57	-	hotels, investments
+David Rubenstein	$2.4 B	67	Bethesda, MD	private equity
+Patrick Ryan	$2.4 B	79	Winnetka, IL	insurance
+Julio Mario Santo Domingo, III.	$2.4 B	31	New York, NY	beer
+Thomas Secunda	$2.4 B	62	Croton-on-Hudson, NY	Bloomberg LP
+Alexander Spanos	$2.4 B	93	Stockton, CA	real estate, San Diego Chargers
+Warren Stephens	$2.4 B	60	Little Rock, AR	investment banking
+Mark Walter	$2.4 B	56	Chicago, IL	finance
+Denise York	$2.4 B	66	Youngstown, OH	San Francisco 49ers
+John Arrillaga	$2.3 B	80	Portola Valley, CA	real estate
+Noam Gottesman	$2.3 B	55	New York, NY	hedge funds
+Johnelle Hunt	$2.3 B	85	Fayetteville, AR	trucking
+Edward Lampert	$2.3 B	54	Miami Beach, FL	Sears
+Jay Paul	$2.3 B	69	San Francisco, CA	real estate
+Richard Peery	$2.3 B	78	Palo Alto, CA	real estate
+John Pritzker	$2.3 B	64	San Francisco, CA	hotels, investments
+Michael Rubin	$2.3 B	44	Bryn Mawr, PA	online retail
+E. Joe Shoen	$2.3 B	67	Phoenix, AZ	U-Haul
+Thomas Siebel	$2.3 B	64	Woodside, CA	business software
+Jon Stryker	$2.3 B	58	Kalamazoo, MI	medical equipment
+Meg Whitman	$2.3 B	60	Atherton, CA	eBay
+Scott Cook	$2.2 B	64	Woodside, CA	software
+Jim Davis	$2.2 B	57	Cockeysville, MD	staffing & recruiting
+Judy Faulkner	$2.2 B	73	Madison, WI	health IT
+John Fisher	$2.2 B	55	San Francisco, CA	Gap
+Rakesh Gangwal	$2.2 B	63	Miami, FL	airline
+Stanley Hubbard	$2.2 B	83	St. Paul, MN	DirecTV
+Brad Kelley	$2.2 B	60	Franklin, TN	tobacco
+Joe Mansueto	$2.2 B	60	Chicago, IL	investment research
+Stewart Rahr	$2.2 B	71	New York, NY	drug distribution
+Jeff Rothschild	$2.2 B	62	Palo Alto, CA	Facebook
+Paul Singer	$2.2 B	72	New York, NY	hedge funds
+Ted Turner	$2.2 B	78	Atlanta, GA	cable television
+John Tyson	$2.2 B	63	Springdale, AR	food processing
+Jerry Yang	$2.2 B	48	Los Altos Hills, CA	Yahoo
+S. Daniel Abraham	$2.1 B	92	Palm Beach, FL	Slim-Fast
+George Argyros	$2.1 B	80	Newport Beach, CA	real estate, investments
+Ron Baron	$2.1 B	73	New York, NY	money management
+Nick Caporella	$2.1 B	81	Plantation, FL	beverages
+James Coulter	$2.1 B	57	San Francisco, CA	private equity
+Gerald Ford	$2.1 B	72	Dallas, TX	banking
+Gordon Getty	$2.1 B	83	San Francisco, CA	Getty Oil
+Alec Gores	$2.1 B	64	Beverly Hills, CA	private equity
+Joseph Grendys	$2.1 B	55	Chicago, IL	poultry
+John Kapoor	$2.1 B	73	Phoenix, AZ	healthcare
+Thomas Lee	$2.1 B	73	New York, NY	private equity
+Jeffrey Lorberbaum	$2.1 B	62	Chattanooga, TN	flooring
+Arturo Moreno	$2.1 B	70	Phoenix, AZ	billboards, Anaheim Angels
+Daniel Pritzker	$2.1 B	57	Marin County, CA	hotels, investments
+Dan Snyder	$2.1 B	52	Potomac, MD	Washington Redskins
+Evan Spiegel	$2.1 B	26	Los Angeles, CA	Snapchat
+Ronald Wanek	$2.1 B	75	Saint Petersburg, FL	furniture
+William Young	$2.1 B	76	Ypsilanti, MI	plastics
+Todd Christopher	$2 B	54	Clearwater, FL	hair care products
+Chase Coleman, III.	$2 B	41	New York, NY	hedge fund
+James Dinan	$2 B	57	New York, NY	hedge funds
+Glenn Dubin	$2 B	60	New York, NY	hedge funds
+James France	$2 B	72	Daytona Beach, FL	Nascar, racing
+Jonathan Nelson	$2 B	60	Providence, RI	private equity
+Peter Peterson	$2 B	90	New York, NY	investments
+David Walentas	$2 B	78	New York, NY	real estate
+Leslie Alexander	$1.9 B	73	Houston, TX	Houston Rockets
+James Clark	$1.9 B	73	Palm Beach, FL	Netscape, investments
+Frank Fertitta, III.	$1.9 B	55	Las Vegas, NV	casinos, Ultimate Fighting Championship
+Lorenzo Fertitta	$1.9 B	48	Las Vegas, NV	casinos, Ultimate Fighting Championship
+W. Herbert Hunt	$1.9 B	88	Dallas, TX	oil
+Bruce Karsh	$1.9 B	61	Los Angeles, CA	private equity
+Howard Marks	$1.9 B	70	New York, NY	private equity
+Drayton McLane, Jr.	$1.9 B	80	Temple, TX	Wal-Mart, logistics
+Kavitark Ram Shriram	$1.9 B	60	Menlo Park, CA	venture capital, Google
+Mark Stevens	$1.9 B	57	Atherton, CA	venture capital
+Glen Taylor	$1.9 B	75	Mankato, MN	printing
+Elaine Wynn	$1.9 B	74	Las Vegas, NV	casinos, hotels
+Richard Yuengling, Jr.	$1.9 B	74	Pottsville, PA	beer
+Louis Bacon	$1.8 B	60	Oyster Bay, NY	hedge funds
+Edward Bass	$1.8 B	71	Fort Worth, TX	oil, investments
+Lee Bass	$1.8 B	60	Fort Worth, TX	oil, investments
+Sid Bass	$1.8 B	75	Fort Worth, TX	oil, investments
+Alexandra Daitch	$1.8 B	54	Old Lyme, CT	Cargill
+Eric Lefkofsky	$1.8 B	47	Glencoe, IL	Groupon
+Jeffrey Lurie	$1.8 B	65	Wynnewood, PA	Philadelphia Eagles
+Sarah MacMillan	$1.8 B	63	Los Angeles, CA	Cargill
+Bobby Murphy	$1.8 B	28	Venice, CA	Snapchat
+Jennifer Pritzker	$1.8 B	66	Chicago, IL	hotels, investments
+Linda Pritzker	$1.8 B	63	Missoula, MT	hotels, investments
+Phillip Ragon	$1.8 B	67	Boston, MA	health IT
+Larry Robbins	$1.8 B	47	Alpine, NJ	hedge funds
+T. Denny Sanford	$1.8 B	81	Sioux Falls, SD	banking, credit cards
+Charles Simonyi	$1.8 B	68	Medina, WA	Microsoft
+Lucy Stitzer	$1.8 B	57	Greenwich, CT	Cargill
+Katherine Tanner	$1.8 B	61	Marathon, FL	Cargill
+Vincent Viola	$1.8 B	61	New York, NY	electronic trading
+Amy Wyss	$1.8 B	46	Wilson, WY	medical equipment
+Jon Yarbrough	$1.8 B	59	Franklin, TN	video games
+Charles Zegar	$1.8 B	69	New York, NY	Bloomberg LP
+Carol Jenkins Barnett	$1.7 B	60	Lakeland, FL	Publix supermarkets
+Nicolas Berggruen	$1.7 B	55	Beverly Hills, CA	investments
+Timothy Boyle	$1.7 B	67	Portland, OR	Columbia Sportswear
+Christopher Cline	$1.7 B	58	North Palm Beach, FL	coal
+Jen-Hsun Huang	$1.7 B	54	Los Altos, CA	semiconductors
+Gail Miller	$1.7 B	73	Salt Lake City, UT	basketball, car dealers

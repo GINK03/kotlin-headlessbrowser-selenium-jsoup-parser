@@ -1,0 +1,401 @@
+Name Net Worth
+Bill Gates 81
+Jeff Bezos 67
+Warren Buffett 65.5
+Mark Zuckerberg 55.5
+Larry Ellison 49.3
+Michael Bloomberg 45
+Charles Koch 42
+David Koch 42
+Larry Page 38.5
+Sergey Brin 37.5
+Jim Walton 35.6
+S. Robson Walton 35.5
+Alice Walton 35.4
+Sheldon Adelson 31.8
+Steve Ballmer 27.5
+Jacqueline Mars 27
+John Mars 27
+Phil Knight 25.5
+George Soros 24.9
+Michael Dell 20
+Paul Allen 18.9
+Len Blavatnik 18.2
+Laurene Powell Jobs 17.7
+James Simons 16.5
+Ray Dalio 15.9
+Carl Icahn 15.7
+Donald Bren 15.2
+Charles Ergen 14.7
+Abigail Johnson 13.2
+Harold Hamm 13.1
+Steve Cohen 13
+Thomas Peterffy 12.6
+Ronald Perelman 12.2
+Elon Musk 11.6
+David Tepper 11.4
+Eric Schmidt 11.3
+Lukas Walton 11.2
+Rupert Murdoch 11.1
+Philip Anschutz 10.8
+Jim Kennedy 10.8
+Blair Parry-Okeden 10.8
+Donald Newhouse 10.5
+Samuel Newhouse, Jr. 10.5
+Dustin Moskovitz 10.4
+Stephen Schwarzman 10.3
+John Menard, Jr. 9.4
+Patrick Soon-Shiong 9.2
+Leonard Lauder 9
+Andrew Beal 8.9
+Jan Koum 8.8
+James Goodnight 8.7
+Herbert Kohler, Jr. 8.6
+John Paulson 8.6
+Pierre Omidyar 8.1
+Thomas Frist, Jr. 7.9
+Gordon Moore 7.6
+Ken Griffin 7.5
+Eli Broad 7.4
+Stanley Kroenke 7.4
+Stephen Ross 7.4
+Micky Arison 7.2
+James Chambers 7.2
+Carl Cook 7.2
+George Kaiser 7.2
+John Malone 7.2
+Katharine Rayner 7.2
+Margaretta Taylor 7.2
+Edward Johnson, III. 7.1
+Richard Kinder 7
+Shahid Khan 6.9
+Hank & Doug Meijer 6.9
+Les Wexner 6.9
+David Duffield 6.7
+David Geffen 6.7
+Richard LeFrak 6.7
+Charles Schwab 6.6
+Pauline MacMillan Keinath 6.4
+Bruce Halle 6.3
+Travis Kalanick 6.3
+Ann Walton Kroenke 6.2
+David Green 6.1
+Robert Rowling 6
+Ralph Lauren 5.9
+John A. Sobrato 5.9
+Dennis Washington 5.9
+Marian Ilitch 5.8
+Christy Walton 5.6
+Brian Acton 5.4
+Richard DeVos 5.4
+Bruce Kovner 5.3
+Ted Lerner 5.3
+David Sun 5.3
+John Tu 5.3
+Dannine Avara 5.2
+Jim Davis 5.2
+Scott Duncan 5.2
+Milane Frantz 5.2
+Jerry Jones 5.2
+Whitney MacMillan 5.2
+Trevor Rees-Jones 5.2
+Randa Williams 5.2
+Robert Kraft 5.1
+Tom & Judy Love 5.1
+Leandro Rizzuto 5.1
+Leon Black 5
+John Doerr 5
+Israel Englander 5
+Charles Johnson 5
+David Shaw 5
+Edward Roski, Jr. 4.9
+Ray Lee Hunt 4.8
+Alejandro Santo Domingo 4.8
+Andres Santo Domingo 4.8
+Daniel Ziff 4.8
+Dirk Ziff 4.8
+Robert Ziff 4.8
+Tamara Gustavson 4.7
+Sumner Redstone 4.7
+Sam Zell 4.7
+Daniel Gilbert 4.6
+Paul Tudor Jones, II. 4.6
+George Lucas 4.6
+Steven Rales 4.6
+Charles Dolan 4.5
+Henry Kravis 4.5
+Nancy Walton Laurie 4.5
+George Roberts 4.5
+Stanley Druckenmiller 4.4
+Reinhold Schmieding 4.4
+Sheldon Solow 4.4
+Rupert Johnson, Jr. 4.3
+Karen Pritzker 4.3
+John Sall 4.2
+Phillip Frost 4.1
+Jeffery Hildebrand 4.1
+Gabe Newell 4.1
+Terrence Pegula 4.1
+Mitchell Rales 4.1
+Jeffrey Skoll 4.1
+Leonard Stern 4.1
+Ronda Stryker 4.1
+Jeremy Jacobs, Sr. 4
+James Jannard 4
+Gwendolyn Sontheim Meyer 4
+H. Ross Perot, Sr. 4
+Stewart and Lynda Resnick 4
+Russ Weiner 4
+John Morris 3.9
+Ira Rennert 3.9
+Marc Benioff 3.8
+Diane Hendricks 3.8
+Reid Hoffman 3.8
+Robert Rich, Jr. 3.8
+Walter Scott, Jr. 3.8
+Kelcy Warren 3.8
+Stephen Bisciotti 3.7
+Austen Cargill, II. 3.7
+James Cargill, II. 3.7
+Rick Caruso 3.7
+Martha Ingram 3.7
+H. Fisk Johnson 3.7
+Imogene Powers Johnson 3.7
+S. Curtis Johnson 3.7
+Helen Johnson-Leipold 3.7
+Winnie Johnson-Marquart 3.7
+Marianne Liebmann 3.7
+Mary Alice Dorrance Malone 3.7
+Clayton Mathile 3.7
+Igor Olenicoff 3.7
+Frederick Smith 3.7
+Jerry Speyer 3.7
+Steven Spielberg 3.7
+Donald Trump 3.7
+Bubba Cathy 3.6
+Dan Cathy 3.6
+Dan Friedkin 3.6
+Jimmy Haslam 3.6
+Randal Kirk 3.6
+Bernard Marcus 3.6
+Isaac Perlmutter 3.6
+Julian Robertson, Jr. 3.6
+Jeff Sutton 3.6
+Joan Tisch 3.6
+Dagmar Dolby 3.5
+Archie Aldis Emmerson 3.5
+Ken Fisher 3.5
+Robert McNair 3.5
+Michael Milken 3.5
+Steven Udvar-Hazy 3.5
+Anthony Pritzker 3.4
+Jay Robert (J.B.) Pritzker 3.4
+Donald Sterling 3.4
+Roger Wang 3.4
+Nathan Blecharczyk 3.3
+John Catsimatidis 3.3
+Brian Chesky 3.3
+David Filo 3.3
+Joe Gebbia 3.3
+Tom Gores 3.3
+Jeff Greene 3.3
+John Overdeck 3.3
+Bernard Saul, II. 3.3
+David Siegel 3.3
+Neil Bluhm 3.2
+Leon G. Cooperman 3.2
+Mark Cuban 3.2
+Jack & Laura Dangermond 3.2
+Edward DeBartolo, Jr. 3.2
+Ronald Lauder 3.2
+George Lindemann 3.2
+Robert Pera 3.2
+Clemmie Spangler, Jr. 3.2
+Harry Stine 3.2
+Arthur Blank 3.1
+John Paul DeJoria 3.1
+Kieu Hoang 3.1
+Amos Hostetter, Jr. 3.1
+Thomas Pritzker 3.1
+David Rockefeller, Sr. 3.1
+Henry Samueli 3.1
+Lynn Schusterman 3.1
+Do Won & Jin Sook Chang 3
+Bennett Dorrance 3
+Allan Goldman 3
+Jane Goldman 3
+Amy Goldman Fowler 3
+Diane Kemper 3
+Michael Moritz 3
+Kevin Plank 3
+Herbert Simon 3
+Romesh T. Wadhwani 3
+John Arnold 2.9
+Andrew & Peggy Cherng 2.9
+Tom Golisano 2.9
+James Leprino 2.9
+Wilbur Ross, Jr. 2.9
+Haim Saban 2.9
+Howard Schultz 2.9
+Robert Bass 2.8
+Charles Cohen 2.8
+Peter Kellogg 2.8
+Kenneth Langone 2.8
+Jorge Perez 2.8
+Richard Schulze 2.8
+Oprah Winfrey 2.8
+Jim Breyer 2.7
+Barry Diller 2.7
+Kenneth Feld 2.7
+Tilman Fertitta 2.7
+B. Wayne Hughes 2.7
+Min Kao 2.7
+Douglas Leone 2.7
+John Middleton 2.7
+Daniel Och 2.7
+A. Jerrold Perenchio 2.7
+J. Christopher Reyes 2.7
+Jude Reyes 2.7
+Gary Rollins 2.7
+Randall Rollins 2.7
+Mark Shoen 2.7
+Peter Thiel 2.7
+Steve Wynn 2.7
+Mortimer Zuckerman 2.7
+Riley Bechtel 2.6
+Stephen Bechtel, Jr. 2.6
+Robert Duggan 2.6
+Doris Fisher 2.6
+H. Wayne Huizenga 2.6
+Daniel Loeb 2.6
+David Murdock 2.6
+Pat Stryker 2.6
+William Wrigley, Jr. 2.6
+Anita Zucker 2.6
+Tom Benson 2.5
+David Bonderman 2.5
+John Brown 2.5
+Bharat Desai 2.5
+Don Hankey 2.5
+Joshua Harris 2.5
+Bill Haslam 2.5
+Henry Hillman 2.5
+James Irsay 2.5
+Stephen Mandel, Jr. 2.5
+C. Dean Metropoulos 2.5
+Henry Nicholas, III. 2.5
+Marc Rowan 2.5
+Phillip Ruffin 2.5
+Robert Smith 2.5
+Ty Warner 2.5
+George Bishop 2.4
+Peter Buck 2.4
+William Conway, Jr. 2.4
+Daniel D'Aniello 2.4
+Ray Davis 2.4
+Bill Gross 2.4
+John Henry 2.4
+Sean Parker 2.4
+Bob Parsons 2.4
+Jean (Gigi) Pritzker 2.4
+Penny Pritzker 2.4
+David Rubenstein 2.4
+Patrick Ryan 2.4
+Julio Mario Santo Domingo, III. 2.4
+Thomas Secunda 2.4
+Alexander Spanos 2.4
+Warren Stephens 2.4
+Mark Walter 2.4
+Denise York 2.4
+John Arrillaga 2.3
+Noam Gottesman 2.3
+Johnelle Hunt 2.3
+Edward Lampert 2.3
+Jay Paul 2.3
+Richard Peery 2.3
+John Pritzker 2.3
+Michael Rubin 2.3
+E. Joe Shoen 2.3
+Thomas Siebel 2.3
+Jon Stryker 2.3
+Meg Whitman 2.3
+Scott Cook 2.2
+Jim Davis 2.2
+Judy Faulkner 2.2
+John Fisher 2.2
+Rakesh Gangwal 2.2
+Stanley Hubbard 2.2
+Brad Kelley 2.2
+Joe Mansueto 2.2
+Stewart Rahr 2.2
+Jeff Rothschild 2.2
+Paul Singer 2.2
+Ted Turner 2.2
+John Tyson 2.2
+Jerry Yang 2.2
+S. Daniel Abraham 2.1
+George Argyros 2.1
+Ron Baron 2.1
+Nick Caporella 2.1
+James Coulter 2.1
+Gerald Ford 2.1
+Gordon Getty 2.1
+Alec Gores 2.1
+Joseph Grendys 2.1
+John Kapoor 2.1
+Thomas Lee 2.1
+Jeffrey Lorberbaum 2.1
+Arturo Moreno 2.1
+Daniel Pritzker 2.1
+Dan Snyder 2.1
+Evan Spiegel 2.1
+Ronald Wanek 2.1
+William Young 2.1
+Todd Christopher 2
+Chase Coleman, III. 2
+James Dinan 2
+Glenn Dubin 2
+James France 2
+Jonathan Nelson 2
+Peter Peterson 2
+David Walentas 2
+Leslie Alexander 1.9
+James Clark 1.9
+Frank Fertitta, III. 1.9
+Lorenzo Fertitta 1.9
+W. Herbert Hunt 1.9
+Bruce Karsh 1.9
+Howard Marks 1.9
+Drayton McLane, Jr. 1.9
+Kavitark Ram Shriram 1.9
+Mark Stevens 1.9
+Glen Taylor 1.9
+Elaine Wynn 1.9
+Richard Yuengling, Jr. 1.9
+Louis Bacon 1.8
+Edward Bass 1.8
+Lee Bass 1.8
+Sid Bass 1.8
+Alexandra Daitch 1.8
+Eric Lefkofsky 1.8
+Jeffrey Lurie 1.8
+Sarah MacMillan 1.8
+Bobby Murphy 1.8
+Jennifer Pritzker 1.8
+Linda Pritzker 1.8
+Phillip Ragon 1.8
+Larry Robbins 1.8
+T. Denny Sanford 1.8
+Charles Simonyi 1.8
+Lucy Stitzer 1.8
+Katherine Tanner 1.8
+Vincent Viola 1.8
+Amy Wyss 1.8
+Jon Yarbrough 1.8
+Charles Zegar 1.8
+Carol Jenkins Barnett 1.7
+Nicolas Berggruen 1.7
+Timothy Boyle 1.7
+Christopher Cline 1.7
+Jen-Hsun Huang 1.7
+Gail Miller 1.7
