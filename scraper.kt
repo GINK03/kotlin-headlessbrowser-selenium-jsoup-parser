@@ -106,8 +106,6 @@ fun widthSearch(args:Array<String>) {
           }
           println("終わりに更新 : $url")
           url_details[url] = "終わり"
-          // save urls
-          _save_conf( mapper.writeValueAsString(url_details) )
         }
       }
       th 
@@ -115,7 +113,7 @@ fun widthSearch(args:Array<String>) {
     threads.map { th -> 
       th.start()
       while(true) {
-        if(Thread.activeCount() > 2 ) {
+        if(Thread.activeCount() > 20 ) {
           println("now sleeping...")
           Thread.sleep(50)
         }else{ break } 
