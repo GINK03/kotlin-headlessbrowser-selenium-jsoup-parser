@@ -100,7 +100,6 @@ fun widthSearch(args:Array<String>) {
     url_details[url] = "まだ"
   }
   val mapper = ObjectMapper().registerKotlinModule()
-  val recovered_url_details = _load_conf()
 
   for(depth in (0..1000) ) {
     val urls:MutableSet<String> = mutableSetOf()
