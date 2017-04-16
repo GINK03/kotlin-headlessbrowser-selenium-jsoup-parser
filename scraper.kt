@@ -59,7 +59,7 @@ fun _load_conf():MutableMap<String, String> {
 fun _parser(url:String):Set<String> { 
   var doc:Document
   try { 
-    doc = Jsoup.connect(url).get()
+    doc = Jsoup.connect(url).timeout(3000).get()
   } catch( e : org.jsoup.HttpStatusException ) {
     println(e)
     return setOf()
@@ -71,6 +71,10 @@ fun _parser(url:String):Set<String> {
     return setOf()
   } catch( e : java.net.UnknownHostException ) {
     //ホスト不明
+    return setOf()
+  } catch( e : java.net.SocketException ) { 
+    return setOf()
+  } catch( e : java.io.IOException ) {
     return setOf()
   }
   if( doc == null || doc.body() == null ) 
@@ -85,7 +89,8 @@ fun _parser(url:String):Set<String> {
 }
 
 fun widthSearch(args:Array<String>) { 
-  val TargetDomain = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
+  val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
+  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jo")
   _parser(TargetDomain).map { url -> 
     url_details[url] = "まだ"
   }
@@ -113,7 +118,7 @@ fun widthSearch(args:Array<String>) {
     threads.map { th -> 
       th.start()
       while(true) {
-        if(Thread.activeCount() > 20 ) {
+        if(Thread.activeCount() > 250 ) {
           println("now sleeping...")
           Thread.sleep(50)
         }else{ break } 
@@ -125,7 +130,7 @@ fun widthSearch(args:Array<String>) {
     // update urls_config
     println("now regenerationg url_index...")
     urls.map { url ->
-      if( url.contains(TargetDomain) && url_details.get(url) == null ) {
+      if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
         url_details[url] = "まだ"
       }
     }
