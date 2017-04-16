@@ -26,6 +26,11 @@ import org.openqa.selenium.OutputType
 import org.openqa.selenium.Dimension
 import java.util.concurrent.TimeUnit
 import java.net.URLEncoder
+
+
+// ここからredis(jedis)
+import redis.clients.jedis.Jedis
+
 val url_details:MutableMap<String, String> = mutableMapOf()
 
 fun _writer(url:String, title:String, text:String) {
@@ -90,18 +95,14 @@ fun _parser(url:String):Set<String> {
 
 fun widthSearch(args:Array<String>) { 
   val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
-  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jo")
+  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jp")
   _parser(TargetDomain).map { url -> 
     url_details[url] = "まだ"
   }
   val mapper = ObjectMapper().registerKotlinModule()
-  //_save_conf( mapper.writeValueAsString(urls_config) )
   val recovered_url_details = _load_conf()
-  recovered_url_details.keys.map { url -> 
-    url_details[url] = recovered_url_details[url]!!
-  }
 
-  for(depth in (0..100) ) {
+  for(depth in (0..1000) ) {
     val urls:MutableSet<String> = mutableSetOf()
     val threads = url_details.keys.map { url ->
       val th = Thread { 
@@ -134,11 +135,63 @@ fun widthSearch(args:Array<String>) {
         url_details[url] = "まだ"
       }
     }
-    // save urls
-    _save_conf( mapper.writeValueAsString(url_details) )
+    //_save_conf( mapper.writeValueAsString(url_details) )
   }
 }
 
+fun widthSearchRedis(args:Array<String>) { 
+  val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
+  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jo")
+  val jedis = Jedis("localhost")
+  _parser(TargetDomain).map { url -> 
+    println(jedis.hgetAll(url))
+    if(jedis.hgetAll(url) == mutableMapOf<String, String>() )  {
+      jedis.hmset(url, mapOf("status" to "まだ") )
+    }
+    println(jedis.hgetAll(url))
+  }
+
+  jedis.keys("*").map { k ->
+  }
+
+  for(depth in (0..100) ) {
+    val urls:MutableSet<String> = mutableSetOf()
+    val threads = jedis.keys("*").map { url ->
+      val th = Thread { 
+        if(jedis.hgetAll(url)["status"] == "まだ") {
+          _parser(url).map { next ->
+            urls.add(next)
+          }
+          println("終わりに更新 : $url")
+          val tmp = jedis.hgetAll(url)
+          tmp["status"] = "終わり"
+          val newValue =  tmp 
+          jedis.hmset(url, newValue)
+        }
+      }
+      th 
+    }
+    threads.map { th -> 
+      th.start()
+      while(true) {
+        if(Thread.activeCount() > 250 ) {
+          println("now sleeping...")
+          Thread.sleep(50)
+        }else{ break } 
+      }
+    }
+    threads.map { th -> 
+      th.join() 
+    }
+    // update urls_config
+    println("now regenerationg url_index...")
+    urls.map { url ->
+      if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
+        url_details[url] = "まだ"
+      }
+    }
+  }
+}
 fun batchExecutor(args :Array<String>) {
   val filename = args[1]
   val urls = File(filename).readLines().toList()
@@ -184,6 +237,20 @@ fun imageSeleniumDriver(args: List<String?>) {
     driver.quit()
   }
 }
+
+fun jedisTest(args: Array<String>) {
+  val jedis = Jedis("localhost")
+  jedis.keys("*").map { k ->
+    try { 
+      println(k)
+      println(jedis.hgetAll(k)) 
+    } catch ( e: redis.clients.jedis.exceptions.JedisDataException ) {
+    }
+  }
+  val m = mapOf("a" to "b", "c" to "d")
+  jedis.hmset("key3", m)
+}
+
 fun main(args: Array<String>) {
   val Mode  = args.toList().getOrElse(0) {  
     println("モードを指定してくだい...")
@@ -191,7 +258,9 @@ fun main(args: Array<String>) {
   }
   when(Mode) { 
     "widthSearch" -> widthSearch(args)
+    "widthSearchRedis" -> widthSearchRedis(args)
     "batch"       -> batchExecutor(args)
     "image"       -> imageSeleniumDriver(args.toList())
+    "jedisTest"   -> jedisTest(args)
   }
 }
