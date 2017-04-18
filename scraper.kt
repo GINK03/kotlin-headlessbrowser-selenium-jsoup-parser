@@ -33,7 +33,7 @@ import redis.clients.jedis.Jedis
 
 val url_details:MutableMap<String, String> = mutableMapOf()
 
-fun _writer(url:String, title:String, text:String) {
+fun _writer(url:String, title:String, text:String, outDir:String) {
    val escapeTitle = title.replace("/", "___SLA___")
    val escapeUrl   = url.replace("http://", "")
                         .replace("https://", "")
@@ -42,7 +42,7 @@ fun _writer(url:String, title:String, text:String) {
    if(joined.length > 50 ) {
      joined = joined.slice(0..50)
    }
-   val f = PrintWriter("out/${joined}")
+   val f = PrintWriter("${outDir}/${joined}")
    f.append(text)
    f.close()
 }
@@ -61,10 +61,10 @@ fun _load_conf():MutableMap<String, String> {
   }
 }
 
-fun _parser(url:String):Set<String> { 
+fun _parser(url:String, outDir:String):Set<String> { 
   var doc:Document
   try { 
-    doc = Jsoup.connect(url).timeout(3000).get()
+    doc = Jsoup.connect(url).timeout(6000).get()
   } catch( e : org.jsoup.HttpStatusException ) {
     println(e)
     return setOf()
@@ -89,12 +89,13 @@ fun _parser(url:String):Set<String> {
   val urls = doc.select("a[href]").map { link ->
     link.attr("abs:href")
   }
-  _writer(url, title, doc.html())
+  _writer(url, title, doc.html(), outDir)
   return  urls.toSet()
 }
 
 fun widthSearch(args:Array<String>) { 
-  val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
+  val outDir           = args.toList().getOrElse(1) { "out" } 
+  val TargetDomain     = args.toList().getOrElse(2) { "http://www.yahoo.co.jp" } 
   val FilteringDomains = File("conf/filterURLs").readText().replace("\n", " ").split(" ").toList()
   _parser(TargetDomain).map { url -> 
     url_details[url] = "まだ"
@@ -105,7 +106,7 @@ fun widthSearch(args:Array<String>) {
     val threads = url_details.keys.map { url ->
       val th = Thread { 
         if(url_details[url]!! == "まだ") {
-          _parser(url).map { next ->
+          _parser(url, outDir).map { next ->
             urls.add(next)
           }
           println("終わりに更新 : $url")
