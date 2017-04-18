@@ -27,11 +27,14 @@ import org.openqa.selenium.Dimension
 import java.util.concurrent.TimeUnit
 import java.net.URLEncoder
 
+// jacksonはやめてGsonで行く
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 
 // ここからredis(jedis)
 import redis.clients.jedis.Jedis
 
-val url_details:MutableMap<String, String> = mutableMapOf()
+val url_details:MutableMap<String, Data> = mutableMapOf()
 
 fun _writer(url:String, title:String, text:String, outDir:String) {
    val escapeTitle = title.replace("/", "___SLA___")
@@ -47,17 +50,25 @@ fun _writer(url:String, title:String, text:String, outDir:String) {
    f.close()
 }
 
-fun _save_conf(json:String) { 
-  PrintWriter("url_details.json").append(json).close()
+fun _save() { 
+  val gson = Gson()
+  val serialized = url_details.map { kv ->
+    val (k, v) = kv
+    gson.toJson(v)
+  }.toList().joinToString("\n")
+  PrintWriter("url_details.json").append(serialized).close()
 }
-fun _load_conf():MutableMap<String, String> { 
+fun _load_conf() { 
   try {
-    /*val mapper = ObjectMapper().registerKotlinModule()
-    val json   = File("url_details.json").readText()
-    val url_details = mapper.readValue<MutableMap<String, String>>(json)*/
-    return url_details
+    val gson = Gson()
+    val Type = object : TypeToken<Data>() {}.type
+    File("url_details.json").readText().toString().split("\n").map { x -> 
+      val data:Data  = gson.fromJson<Data>(x, Type)
+      val url        = data.key
+      url_details[url] = data
+    }
   } catch( e: java.io.FileNotFoundException ) {
-    return mutableMapOf()
+    println(e)
   }
 }
 
@@ -96,43 +107,52 @@ fun _parser(url:String, outDir:String):Set<String> {
 fun widthSearch(args:Array<String>) { 
   val outDir           = args.toList().getOrElse(1) { "out" } 
   val TargetDomain     = args.toList().getOrElse(2) { "http://www.yahoo.co.jp" } 
-  val FilteringDomains = File("conf/filterURLs").readText().replace("\n", " ").split(" ").toList()
-  _parser(TargetDomain).map { url -> 
-    url_details[url] = "まだ"
+  val concurrent    = args.toList().getOrElse(3) { "250" }
+  val concurrentNum    = concurrent.toInt()
+  val FilteringDomains = File("conf/filterURLs").readText().replace("\n", " ").split(" ").filter{ x -> x != "" }.toList()
+  _parser(TargetDomain, outDir).map { url -> 
+    if( FilteringDomains.any{ f -> url.contains(f) } )
+      url_details[url] = Data(url, "まだ", System.currentTimeMillis().toLong(), "") 
   }
-
+  _load_conf()
   for(depth in (0..1000) ) {
     val urls:MutableSet<String> = mutableSetOf()
     val threads = url_details.keys.map { url ->
-      val th = Thread { 
-        if(url_details[url]!! == "まだ") {
-          _parser(url, outDir).map { next ->
-            urls.add(next)
+      val th = if( FilteringDomains.any { f -> url.contains(f) } ) {
+        val th = Thread { 
+          if(url_details[url]!!.state == "まだ") {
+            _parser(url, outDir).map { next ->
+              urls.add(next)
+            }
+            println("終わりに更新 : $url")
+            url_details[url]!!.state = "終わり"
           }
-          println("終わりに更新 : $url")
-          url_details[url] = "終わり"
         }
-      }
-      th 
-    }
+        th 
+      } else { 
+        null 
+      } 
+      th
+    }.filter{ th -> th != null }
     threads.map { th -> 
-      th.start()
+      th!!.start()
       while(true) {
-        if(Thread.activeCount() > 250 ) {
+        if(Thread.activeCount() > concurrentNum ) {
           println("now sleeping...")
           Thread.sleep(50)
         }else{ break } 
       }
     }
     threads.map { th -> 
-      th.join() 
+      th!!.join() 
     }
     println("now regenerationg url_index...")
     urls.map { url ->
       if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
-        url_details[url] = "まだ"
+        url_details[url] = Data( url, "まだ", System.currentTimeMillis().toLong() ) 
       }
     }
+    _save()
   }
 }
 
@@ -142,7 +162,7 @@ fun batchExecutor(args :Array<String>) {
   urls.map { url -> 
     val decoded = URLDecoder.decode(url)
     println(decoded)
-    _parser(decoded)
+    _parser(decoded, "out")
   }
 }
 
