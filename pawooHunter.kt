@@ -17,6 +17,7 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.firefox.FirefoxDriver
 import org.openqa.selenium.phantomjs.PhantomJSDriver
 import org.openqa.selenium.chrome.ChromeDriver
+import org.openqa.selenium.chrome.ChromeOptions
 import org.openqa.selenium.remote.RemoteWebDriver
 import org.openqa.selenium.support.ui.ExpectedCondition
 import org.openqa.selenium.support.ui.WebDriverWait
@@ -86,8 +87,9 @@ fun pawooHunter(instance:Int, args: List<String?>) {
   val inputFile  = args.getOrElse(1) { "~/private_configs/pawoo.conf" }
   val outputFile = args.getOrElse(2) { "pawoo" } 
   println("call pawoo")
-
-  val driver = ChromeDriver()
+  val options = ChromeOptions()
+  options.setBinary("/usr/bin/google-chrome")
+  val driver = ChromeDriver(options)
   driver.manage().window().setSize(Dimension(920, 1080))
   driver.get("https://pawoo.net")
   driver.findElement(By.className("webapp-btn")).click()

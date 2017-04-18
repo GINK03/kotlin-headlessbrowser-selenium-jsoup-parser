@@ -250,7 +250,8 @@ fun jedisTest(args: Array<String>) {
 }
 
 fun pawooHunterDriver(args:List<String> ){ 
-  for( instance in (1..3) ) { 
+  val num = args.filter { x -> x.contains("th=") }.map { x -> x.split("=").last() }?.last()?.toInt() ?: 3
+  for( instance in (1..num) ) { 
     thread { pawooHunter(instance, args) } 
     Thread.sleep(500)
   }
