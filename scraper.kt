@@ -95,11 +95,10 @@ fun _parser(url:String):Set<String> {
 
 fun widthSearch(args:Array<String>) { 
   val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
-  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jp")
+  val FilteringDomains = File("conf/filterURLs").readText().replace("\n", " ").split(" ").toList()
   _parser(TargetDomain).map { url -> 
     url_details[url] = "まだ"
   }
-  //val mapper = ObjectMapper().registerKotlinModule()
 
   for(depth in (0..1000) ) {
     val urls:MutableSet<String> = mutableSetOf()
@@ -127,7 +126,6 @@ fun widthSearch(args:Array<String>) {
     threads.map { th -> 
       th.join() 
     }
-    // update urls_config
     println("now regenerationg url_index...")
     urls.map { url ->
       if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
@@ -137,59 +135,6 @@ fun widthSearch(args:Array<String>) {
   }
 }
 
-fun widthSearchRedis(args:Array<String>) { 
-  val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
-  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jo")
-  val jedis = Jedis("localhost")
-  _parser(TargetDomain).map { url -> 
-    println(jedis.hgetAll(url))
-    if(jedis.hgetAll(url) == mutableMapOf<String, String>() )  {
-      jedis.hmset(url, mapOf("status" to "まだ") )
-    }
-    println(jedis.hgetAll(url))
-  }
-
-  jedis.keys("*").map { k ->
-  }
-
-  for(depth in (0..100) ) {
-    val urls:MutableSet<String> = mutableSetOf()
-    val threads = jedis.keys("*").map { url ->
-      val th = Thread { 
-        if(jedis.hgetAll(url)["status"] == "まだ") {
-          _parser(url).map { next ->
-            urls.add(next)
-          }
-          println("終わりに更新 : $url")
-          val tmp = jedis.hgetAll(url)
-          tmp["status"] = "終わり"
-          val newValue =  tmp 
-          jedis.hmset(url, newValue)
-        }
-      }
-      th 
-    }
-    threads.map { th -> 
-      th.start()
-      while(true) {
-        if(Thread.activeCount() > 250 ) {
-          println("now sleeping...")
-          Thread.sleep(50)
-        }else{ break } 
-      }
-    }
-    threads.map { th -> 
-      th.join() 
-    }
-    // update urls_config
-    println("now regenerationg url_index...")
-    urls.map { url ->
-      if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
-        url_details[url] = "まだ"
-      }
-    }
-  }
-}
 fun batchExecutor(args :Array<String>) {
   val filename = args[1]
   val urls = File(filename).readLines().toList()
@@ -268,7 +213,6 @@ fun main(args: Array<String>) {
   }
   when(Mode) { 
     "widthSearch" -> widthSearch(args)
-    "widthSearchRedis" -> widthSearchRedis(args)
     "batch"       -> batchExecutor(args)
     "image"       -> imageSeleniumDriver(args.toList())
     "jedisTest"   -> jedisTest(args)
