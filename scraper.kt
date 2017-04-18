@@ -9,9 +9,9 @@ import java.nio.file.Paths
 import java.io.*
 import java.net.URLDecoder
 import java.time.LocalDateTime
-import com.fasterxml.jackson.core.JsonProcessingException
-import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.module.kotlin.*
+//import com.fasterxml.jackson.core.JsonProcessingException
+//import com.fasterxml.jackson.databind.ObjectMapper
+//import com.fasterxml.jackson.module.kotlin.*
 
 //ここからselenium
 import org.openqa.selenium.By
@@ -52,9 +52,9 @@ fun _save_conf(json:String) {
 }
 fun _load_conf():MutableMap<String, String> { 
   try {
-    val mapper = ObjectMapper().registerKotlinModule()
+    /*val mapper = ObjectMapper().registerKotlinModule()
     val json   = File("url_details.json").readText()
-    val url_details = mapper.readValue<MutableMap<String, String>>(json)
+    val url_details = mapper.readValue<MutableMap<String, String>>(json)*/
     return url_details
   } catch( e: java.io.FileNotFoundException ) {
     return mutableMapOf()
@@ -99,7 +99,7 @@ fun widthSearch(args:Array<String>) {
   _parser(TargetDomain).map { url -> 
     url_details[url] = "まだ"
   }
-  val mapper = ObjectMapper().registerKotlinModule()
+  //val mapper = ObjectMapper().registerKotlinModule()
 
   for(depth in (0..1000) ) {
     val urls:MutableSet<String> = mutableSetOf()
@@ -134,7 +134,6 @@ fun widthSearch(args:Array<String>) {
         url_details[url] = "まだ"
       }
     }
-    //_save_conf( mapper.writeValueAsString(url_details) )
   }
 }
 
@@ -250,6 +249,13 @@ fun jedisTest(args: Array<String>) {
   jedis.hmset("key3", m)
 }
 
+fun pawooHunterDriver(args:List<String> ){ 
+  for( instance in (1..3) ) { 
+    thread { pawooHunter(instance, args) } 
+    Thread.sleep(500)
+  }
+}
+
 fun main(args: Array<String>) {
   val Mode  = args.toList().getOrElse(0) {  
     println("モードを指定してくだい...")
@@ -261,5 +267,6 @@ fun main(args: Array<String>) {
     "batch"       -> batchExecutor(args)
     "image"       -> imageSeleniumDriver(args.toList())
     "jedisTest"   -> jedisTest(args)
+    "pawooHunter" -> pawooHunterDriver(args.toList())
   }
 }
