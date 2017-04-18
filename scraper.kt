@@ -249,10 +249,14 @@ fun jedisTest(args: Array<String>) {
   jedis.hmset("key3", m)
 }
 
-fun pawooHunterDriver(args:List<String> ){ 
+fun pawooHunterDriver(args:List<String>, mode:Int ){ 
   val num = args.filter { x -> x.contains("th=") }.map { x -> x.split("=").last() }?.last()?.toInt() ?: 3
+  val (targetInstance, conf, outputFile) = when(mode) { 
+    1 -> Triple("https://pawoo.net", "~/private_configs/pawoo_mail_pass", "pawoo")
+    else -> Triple("https://mstdn.jp" , "~/private_configs/mstdnjp_mail_pass", "mstdnjp")
+  }
   for( instance in (1..num) ) { 
-    thread { pawooHunter(instance, args) } 
+    thread { pawooHunter(instance, args, targetInstance, conf, outputFile) } 
     Thread.sleep(500)
   }
 }
@@ -268,6 +272,7 @@ fun main(args: Array<String>) {
     "batch"       -> batchExecutor(args)
     "image"       -> imageSeleniumDriver(args.toList())
     "jedisTest"   -> jedisTest(args)
-    "pawooHunter" -> pawooHunterDriver(args.toList())
+    "pawooHunter" -> pawooHunterDriver(args.toList(), 1)
+    "mstdnHunter" -> pawooHunterDriver(args.toList(), 2)
   }
 }

@@ -54,13 +54,13 @@ import com.amazonaws.services.s3.model.ListObjectsV2Result
 data class Oneshot(var name:String = "", var id:String = "", var context:String = "", var increment:Long = 0, var parseTime:Long = 0)
 
 
-fun passwordLoader():Pair<String, String> { 
+fun passwordLoader(conf:String):Pair<String, String> { 
   val home = System.getenv("HOME")
-  val (username, password) = File("${home}/private_configs/pawoo_mail_pass").readText().split(" ")
+  val (username, password) = File("${conf}".replace("~",home)).readText().split(" ")
   return Pair(username, password)
 }
 
-fun s3syncer(key:String) { 
+fun s3syncer(outputFile:String, key:String) { 
   thread { 
     val s3client:AmazonS3     = AmazonS3Client(ProfileCredentialsProvider())
     val file                  = File("pawoo/${key}.json")
@@ -79,22 +79,20 @@ fun chiseinoKatamari(key:String):String {
   return chisei
 }
 
-fun pawooHunter(instance:Int, args: List<String?>) {
+fun pawooHunter(instance:Int, args: List<String?>, targetInstance:String, conf:String, outputFile:String) {
   System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver")
   val capability = DesiredCapabilities.firefox()
   capability.setCapability("marionette", true)
   capability.setBrowserName("firefox")
-  val inputFile  = args.getOrElse(1) { "~/private_configs/pawoo.conf" }
-  val outputFile = args.getOrElse(2) { "pawoo" } 
-  println("call pawoo")
+  println("call ${targetInstance}")
   val options = ChromeOptions()
   options.setBinary("/usr/bin/google-chrome")
   val driver = ChromeDriver(options)
   driver.manage().window().setSize(Dimension(920, 1080))
-  driver.get("https://pawoo.net")
+  driver.get(targetInstance)
   driver.findElement(By.className("webapp-btn")).click()
   // fill email and password
-  val (username, password) = passwordLoader()
+  val (username, password) = passwordLoader(conf)
   Thread.sleep(200)
   driver.findElement(By.id("user_email")).sendKeys(username)
   driver.findElement(By.id("user_password")).sendKeys(password)
@@ -103,7 +101,7 @@ fun pawooHunter(instance:Int, args: List<String?>) {
   try{ driver.findElement(By.name("button")).click() } catch(e: org.openqa.selenium.NoSuchElementException){ null}
   println(driver.getCurrentUrl())
 
-  driver.get("https://pawoo.net/web/timelines/public")
+  driver.get("${targetInstance}/web/timelines/public")
   Thread.sleep(500)
   println(driver.getCurrentUrl())
   val gson = Gson()
@@ -137,13 +135,13 @@ fun pawooHunter(instance:Int, args: List<String?>) {
         val value = gson.toJson(oneshot)
         // たまにIDにURLが入るので削除
         val key   = chiseinoKatamari("${oneshot.id}_${oneshot.increment}")
-        PrintWriter("pawoo/${key}.json").append(value).close()
+        PrintWriter("${outputFile}/${key}.json").append(value).close()
         // context中のmediaリンクがある場合には、別途保存
         // mstdn.jpのフォーマット形式
         oneshot.context.split(" ").filter { term ->
           term.contains("http") && term.contains("media")
         }.map { url ->
-          Runtime.getRuntime().exec("wget ${url} -O pawoo/${key}.png").waitFor()
+          Runtime.getRuntime().exec("wget ${url} -O ${outputFile}/${key}.png").waitFor()
         }
         // pixiv社のインスタンス形式
         status.findElements(By.cssSelector("a")).filter { a ->
@@ -152,11 +150,11 @@ fun pawooHunter(instance:Int, args: List<String?>) {
           a.getAttribute("href").contains("/media/")
         }.map { a ->
           val url = a.getAttribute("href")
-          Runtime.getRuntime().exec("wget ${url} -O pawoo/${key}.png").waitFor()
+          Runtime.getRuntime().exec("wget ${url} -O ${outputFile}/${key}.png").waitFor()
           println("mediaデータを含んでいます, ${url}")
         }
         if( args.contains("s3sync") ){ 
-          s3syncer(key)
+          s3syncer(outputFile, key)
         }
         println("instance=${instance} ${index}, ${value}")
       }
