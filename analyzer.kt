@@ -28,7 +28,7 @@ data class Cookpad(val title:String, val material:List<String>, val imgUrl:Strin
 fun cookpad() { 
   val gson = Gson()
   Files.newDirectoryStream(Paths.get("cookpad"), "*").mapIndexed { index, name ->
-    if(index%20 == 0) println("now iter ${index}")
+    if(index%50 == 0) println("now iter ${index}")
     val doc    = Jsoup.parse(File(name.toString()), "UTF-8")
     val recipe = doc.select("div#recipe-main")
     val title    = recipe.select("div#recipe-title").text()
@@ -43,7 +43,7 @@ fun cookpad() {
         thread { 
           Runtime.getRuntime().exec("wget ${imgUrl} -O ${imgFilename}").waitFor()
           PrintWriter(jsonFilename).append(json).close()
-          if(index%5==0) {
+          if(index%50==0) {
             println(json) 
           }
         }
