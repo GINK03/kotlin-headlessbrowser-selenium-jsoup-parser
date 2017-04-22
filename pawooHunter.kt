@@ -123,8 +123,14 @@ fun pawooHunter(instance:Int, args: List<String?>, targetInstance:String, conf:S
             oneshot.id   = id
           }
           if ( a.getText().contains("前") )  {
-            val increment = a.getAttribute("href").split("/").last()
-            oneshot.increment = try{ increment.toLong() }catch( e :java.lang.NumberFormatException) { -1 } 
+            try { 
+              val increment = a.getAttribute("href").split("/").last()
+              oneshot.increment = try{ increment.toLong() }catch( e :java.lang.NumberFormatException) { -1 } 
+            } catch (e: java.lang.IllegalArgumentException) {
+              // a.getAtributeがnullを返すことがあるっぽい
+              // oneshot.incrementには-1を入れておく
+              oneshot.increment = -1
+            }
           }
         }
         oneshot.parseTime = Instant.now().toEpochMilli().toLong() 
@@ -135,7 +141,11 @@ fun pawooHunter(instance:Int, args: List<String?>, targetInstance:String, conf:S
         val value = gson.toJson(oneshot)
         // たまにIDにURLが入るので削除
         val key   = chiseinoKatamari("${oneshot.id}_${oneshot.increment}")
-        PrintWriter("${outputFile}/${key}.json").append(value).close()
+        try { 
+          PrintWriter("${outputFile}/${key}.json").append(value).close()
+        } catch(e: java.io.IOException) { 
+          //ファイル名が長すぎることがあるらしい（保存を諦める）
+        }
         // context中のmediaリンクがある場合には、別途保存
         // mstdn.jpのフォーマット形式
         oneshot.context.split(" ").filter { term ->
