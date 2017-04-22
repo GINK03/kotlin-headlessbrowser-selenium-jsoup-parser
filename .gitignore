@@ -3,3 +3,6 @@
 *.jpg
 out/*
 pawoo/*
+dataset/*
+mstdnjp/*
+pawoo/*

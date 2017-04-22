@@ -27,13 +27,16 @@ import org.openqa.selenium.Dimension
 import java.util.concurrent.TimeUnit
 import java.net.URLEncoder
 
+// jacksonはやめてGsonで行く
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 
 // ここからredis(jedis)
 import redis.clients.jedis.Jedis
 
-val url_details:MutableMap<String, String> = mutableMapOf()
+val url_details:MutableMap<String, Data> = mutableMapOf()
 
-fun _writer(url:String, title:String, text:String) {
+fun _writer(url:String, title:String, text:String, outDir:String) {
    val escapeTitle = title.replace("/", "___SLA___")
    val escapeUrl   = url.replace("http://", "")
                         .replace("https://", "")
@@ -42,29 +45,37 @@ fun _writer(url:String, title:String, text:String) {
    if(joined.length > 50 ) {
      joined = joined.slice(0..50)
    }
-   val f = PrintWriter("out/${joined}")
+   val f = PrintWriter("${outDir}/${joined}")
    f.append(text)
    f.close()
 }
 
-fun _save_conf(json:String) { 
-  PrintWriter("url_details.json").append(json).close()
+fun _save() { 
+  val gson = Gson()
+  val serialized = url_details.map { kv ->
+    val (k, v) = kv
+    gson.toJson(v)
+  }.toList().joinToString("\n")
+  PrintWriter("url_details.json").append(serialized).close()
 }
-fun _load_conf():MutableMap<String, String> { 
+fun _load_conf() { 
   try {
-    /*val mapper = ObjectMapper().registerKotlinModule()
-    val json   = File("url_details.json").readText()
-    val url_details = mapper.readValue<MutableMap<String, String>>(json)*/
-    return url_details
+    val gson = Gson()
+    val Type = object : TypeToken<Data>() {}.type
+    File("url_details.json").readText().toString().split("\n").map { x -> 
+      val data:Data  = gson.fromJson<Data>(x, Type)
+      val url        = data.key
+      url_details[url] = data
+    }
   } catch( e: java.io.FileNotFoundException ) {
-    return mutableMapOf()
+    println(e)
   }
 }
 
-fun _parser(url:String):Set<String> { 
+fun _parser(url:String, outDir:String):Set<String> { 
   var doc:Document
   try { 
-    doc = Jsoup.connect(url).timeout(3000).get()
+    doc = Jsoup.connect(url).timeout(6000).get()
   } catch( e : org.jsoup.HttpStatusException ) {
     println(e)
     return setOf()
@@ -89,114 +100,69 @@ fun _parser(url:String):Set<String> {
   val urls = doc.select("a[href]").map { link ->
     link.attr("abs:href")
   }
-  _writer(url, title, doc.html())
+  _writer(url, title, doc.html(), outDir)
   return  urls.toSet()
 }
 
 fun widthSearch(args:Array<String>) { 
-  val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
-  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jp")
-  _parser(TargetDomain).map { url -> 
-    url_details[url] = "まだ"
+  val outDir           = args.toList().getOrElse(1) { "out" } 
+  val TargetDomain     = args.toList().getOrElse(2) { "http://www.yahoo.co.jp" } 
+  val concurrent    = args.toList().getOrElse(3) { "250" }
+  val concurrentNum    = concurrent.toInt()
+  val FilteringDomains = File("conf/filterURLs").readText().replace("\n", " ").split(" ").filter{ x -> x != "" }.toList()
+  _parser(TargetDomain, outDir).map { url -> 
+    if( FilteringDomains.any{ f -> url.contains(f) } )
+      url_details[url] = Data(url, "まだ", System.currentTimeMillis().toLong(), "") 
   }
-  //val mapper = ObjectMapper().registerKotlinModule()
-
+  _load_conf()
   for(depth in (0..1000) ) {
     val urls:MutableSet<String> = mutableSetOf()
     val threads = url_details.keys.map { url ->
-      val th = Thread { 
-        if(url_details[url]!! == "まだ") {
-          _parser(url).map { next ->
-            urls.add(next)
+      val th = if( FilteringDomains.any { f -> url.contains(f) } ) {
+        val th = Thread { 
+          if(url_details[url]!!.state == "まだ") {
+            _parser(url, outDir).map { next ->
+              urls.add(next)
+            }
+            println("終わりに更新 : $url")
+            url_details[url]!!.state = "終わり"
           }
-          println("終わりに更新 : $url")
-          url_details[url] = "終わり"
         }
-      }
-      th 
-    }
+        th 
+      } else { 
+        null 
+      } 
+      th
+    }.filter{ th -> th != null }
     threads.map { th -> 
-      th.start()
+      th!!.start()
       while(true) {
-        if(Thread.activeCount() > 250 ) {
+        if(Thread.activeCount() > concurrentNum ) {
           println("now sleeping...")
           Thread.sleep(50)
         }else{ break } 
       }
     }
     threads.map { th -> 
-      th.join() 
+      th!!.join() 
     }
-    // update urls_config
     println("now regenerationg url_index...")
     urls.map { url ->
       if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
-        url_details[url] = "まだ"
+        url_details[url] = Data( url, "まだ", System.currentTimeMillis().toLong() ) 
       }
     }
+    _save()
   }
 }
 
-fun widthSearchRedis(args:Array<String>) { 
-  val TargetDomain     = args.toList().getOrElse(1) { "http://www.yahoo.co.jp" } 
-  val FilteringDomains = listOf("www.rakuten.co.jp", "item.rakuten.co.jp", "review.rakuten.co.jp", "product.rakuten.co.jo")
-  val jedis = Jedis("localhost")
-  _parser(TargetDomain).map { url -> 
-    println(jedis.hgetAll(url))
-    if(jedis.hgetAll(url) == mutableMapOf<String, String>() )  {
-      jedis.hmset(url, mapOf("status" to "まだ") )
-    }
-    println(jedis.hgetAll(url))
-  }
-
-  jedis.keys("*").map { k ->
-  }
-
-  for(depth in (0..100) ) {
-    val urls:MutableSet<String> = mutableSetOf()
-    val threads = jedis.keys("*").map { url ->
-      val th = Thread { 
-        if(jedis.hgetAll(url)["status"] == "まだ") {
-          _parser(url).map { next ->
-            urls.add(next)
-          }
-          println("終わりに更新 : $url")
-          val tmp = jedis.hgetAll(url)
-          tmp["status"] = "終わり"
-          val newValue =  tmp 
-          jedis.hmset(url, newValue)
-        }
-      }
-      th 
-    }
-    threads.map { th -> 
-      th.start()
-      while(true) {
-        if(Thread.activeCount() > 250 ) {
-          println("now sleeping...")
-          Thread.sleep(50)
-        }else{ break } 
-      }
-    }
-    threads.map { th -> 
-      th.join() 
-    }
-    // update urls_config
-    println("now regenerationg url_index...")
-    urls.map { url ->
-      if( FilteringDomains.any { f -> url.contains(f) } && url_details.get(url) == null ) {
-        url_details[url] = "まだ"
-      }
-    }
-  }
-}
 fun batchExecutor(args :Array<String>) {
   val filename = args[1]
   val urls = File(filename).readLines().toList()
   urls.map { url -> 
     val decoded = URLDecoder.decode(url)
     println(decoded)
-    _parser(decoded)
+    _parser(decoded, "out")
   }
 }
 
@@ -268,7 +234,6 @@ fun main(args: Array<String>) {
   }
   when(Mode) { 
     "widthSearch" -> widthSearch(args)
-    "widthSearchRedis" -> widthSearchRedis(args)
     "batch"       -> batchExecutor(args)
     "image"       -> imageSeleniumDriver(args.toList())
     "jedisTest"   -> jedisTest(args)
