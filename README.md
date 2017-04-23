@@ -60,8 +60,8 @@ $ kotlin -cp alice.jar:bob.jar:foo.jar FooKt
 　
 
 ## JavaScriptをつかったサイトはphantomjs, selenium, jsoupの組みあせが楽
-　JavaScriptによる非同期のデータ読み込みがある場合、単純に取得してjsoupなどで解析するだけだと、コンテンツが取れません。    
-　JavaScriptを動作させて人間が見ていると同じような状態を作らないといけないので、selenium経由でphamtomjsを動作させてJavaScriptを動作させます。    
+　JavaScriptによる非同期のデータ読み込みがある場合、単純に取得してjsoupなどで解析するだけだと、コンテンツが取れません   
+　JavaScriptを動作させて人間が見ていると同じような状態を作らないといけないので、selenium経由でphamtomjsを動作させてJavaScriptを動作させます  
 　たとえば、MicrosoftBingの画像検索は、Ajaxで描画されており、JavaScritpが動作しない環境では動作できません。(実験的な目的ですので、実際に画像をスクレイピングする際は、API経由で行ってください)  
 ```kotlin
     val driver = PhantomJSDriver()
@@ -71,8 +71,8 @@ $ kotlin -cp alice.jar:bob.jar:foo.jar FooKt
     Thread.sleep(3001)
     val html = driver.getPageSource() 
 ```
-　htmlという変数に、JavaScriptが動作したあと描画された状態のhtmlが入ります。これをjsoupに入れることで、各種画像のsrcのURLがわかります。  
-　発見した画像のURLを元に、wgetコマンドで任意のディレクトリ以下のフォルダに格納します。  
+　htmlという変数に、JavaScriptが動作したあと描画された状態のhtmlが入ります。これをjsoupに入れることで、各種画像のsrcのURLがわかります  
+　発見した画像のURLを元に、wgetコマンドで任意のディレクトリ以下のフォルダに格納します  
 ```kotlin
     val doc  = Jsoup.parse(html.toString(), "UTF-8")
     println(doc.title())
