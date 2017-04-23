@@ -87,8 +87,8 @@ $ kotlin -cp alice.jar:bob.jar:foo.jar FooKt
 　PhantomJSは[このサイト](http://phantomjs.org/download.html)からコンパイル済みのバイナリをダウンロードして、PATHが通った場所においておく必要があります。
 
 ## Thread
-　いくつか書き方があるようですが、もっとも簡単にできた実装です。  　
-  スクレイピングするロジック全体を{}で囲った部分がthreadのインスタンスになって、そのthreadをstartさせたり,joinしたりして並列に動かすことができます。  　
+　いくつか書き方があるようですが、もっとも簡単にできた実装です。  
+ スクレイピングするロジック全体を{}で囲った部分がthreadのインスタンスになって、そのthreadをstartさせたり,joinしたりして並列に動かすことができます。  　
 ```kotlin
     val threads = url_details.keys.map { url ->
       val th = Thread {
