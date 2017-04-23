@@ -128,7 +128,7 @@ val url_details = mapper.readValue<MutableMap<String, String>>(json)
 $ git clone https://github.com/GINK03/kotlin-phantomjs-selenium-jsoup-parser.git
 ```
 ### 幅優先探索
-　今のところ、二種類のスクレイピングまで実装が完了していて、単純にjaascritpを評価せずに、幅優先探索で、深さ100までスクレイピングをする。    
+　今のところ、二種類のスクレイピングまで実装が完了していて、単純にjavascriptを評価せずに、幅優先探索で、深さ100までスクレイピングをする。    
 （自分のサイトのスクレイピングに使用していたため、特に制限は設けていませんが、50並列以上の並列アクセスで標準でアクセスするので、適宜調整してください。） 
 ```sh
 $ sh run.scraper.sh widthSearch ${yourOwnSite}
