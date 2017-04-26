@@ -60,8 +60,8 @@ $ kotlin -cp alice.jar:bob.jar:foo.jar FooKt
 　
 
 ## JavaScriptをつかったサイトはphantomjs, selenium, jsoupの組みあせが楽
-　JavaScriptによる非同期のデータ読み込みがある場合、単純に取得してjsoupなどで解析するだけだと、コンテンツが取れません。    
-　JavaScriptを動作させて人間が見ていると同じような状態を作らないといけないので、selenium経由でphamtomjsを動作させてJavaScriptを動作させます。    
+　JavaScriptによる非同期のデータ読み込みがある場合、単純に取得してjsoupなどで解析するだけだと、コンテンツが取れません  
+　JavaScriptを動作させて人間が見ていると同じような状態を作らないといけないので、selenium経由でphamtomjsを動作させてJavaScriptを動作させます  
 　たとえば、MicrosoftBingの画像検索は、Ajaxで描画されており、JavaScritpが動作しない環境では動作できません。(実験的な目的ですので、実際に画像をスクレイピングする際は、API経由で行ってください)  
 ```kotlin
     val driver = PhantomJSDriver()
@@ -71,8 +71,8 @@ $ kotlin -cp alice.jar:bob.jar:foo.jar FooKt
     Thread.sleep(3001)
     val html = driver.getPageSource() 
 ```
-　htmlという変数に、JavaScriptが動作したあと描画された状態のhtmlが入ります。これをjsoupに入れることで、各種画像のsrcのURLがわかります。  
-　発見した画像のURLを元に、wgetコマンドで任意のディレクトリ以下のフォルダに格納します。  
+　htmlという変数に、JavaScriptが動作したあと描画された状態のhtmlが入ります。これをjsoupに入れることで、各種画像のsrcのURLがわかります  
+　発見した画像のURLを元に、wgetコマンドで任意のディレクトリ以下のフォルダに格納します  
 ```kotlin
     val doc  = Jsoup.parse(html.toString(), "UTF-8")
     println(doc.title())
@@ -87,8 +87,8 @@ $ kotlin -cp alice.jar:bob.jar:foo.jar FooKt
 　PhantomJSは[このサイト](http://phantomjs.org/download.html)からコンパイル済みのバイナリをダウンロードして、PATHが通った場所においておく必要があります。
 
 ## Thread
-　いくつか書き方があるようですが、もっとも簡単にできた実装です。  　
-  スクレイピングするロジック全体を{}で囲った部分がthreadのインスタンスになって、そのthreadをstartさせたり,joinしたりして並列に動かすことができます。  　
+　いくつか書き方があるようですが、もっとも簡単にできた実装です。  
+ スクレイピングするロジック全体を{}で囲った部分がthreadのインスタンスになって、そのthreadをstartさせたり,joinしたりして並列に動かすことができます。  　
 ```kotlin
     val threads = url_details.keys.map { url ->
       val th = Thread {
@@ -128,7 +128,7 @@ val url_details = mapper.readValue<MutableMap<String, String>>(json)
 $ git clone https://github.com/GINK03/kotlin-phantomjs-selenium-jsoup-parser.git
 ```
 ### 幅優先探索
-　今のところ、二種類のスクレイピングまで実装が完了していて、単純にjaascritpを評価せずに、幅優先探索で、深さ100までスクレイピングをする。    
+　今のところ、二種類のスクレイピングまで実装が完了していて、単純にjavascriptを評価せずに、幅優先探索で、深さ100までスクレイピングをする。    
 （自分のサイトのスクレイピングに使用していたため、特に制限は設けていませんが、50並列以上の並列アクセスで標準でアクセスするので、適宜調整してください。） 
 ```sh
 $ sh run.scraper.sh widthSearch ${yourOwnSite}

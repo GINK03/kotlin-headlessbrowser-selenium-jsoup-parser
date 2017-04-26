@@ -4,6 +4,8 @@ import java.util.logging.Level
 import java.util.logging.Logger
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
+import org.jsoup.*
+import org.jsoup.Connection.Response
 import java.nio.file.Files
 import java.nio.file.Paths
 import java.io.*
@@ -74,8 +76,10 @@ fun _load_conf() {
 
 fun _parser(url:String, outDir:String):Set<String> { 
   var doc:Document
+  var response:Response
   try { 
-    doc = Jsoup.connect(url).timeout(6000).get()
+    doc       = Jsoup.connect(url).timeout(6000).get()
+    response  = Jsoup.connect(url).followRedirects(true).execute()
   } catch( e : org.jsoup.HttpStatusException ) {
     println(e)
     return setOf()
@@ -100,7 +104,8 @@ fun _parser(url:String, outDir:String):Set<String> {
   val urls = doc.select("a[href]").map { link ->
     link.attr("abs:href")
   }
-  _writer(url, title, doc.html(), outDir)
+  val saveUrl = response.url().toString()
+  _writer(saveUrl, title, doc.html(), outDir)
   return  urls.toSet()
 }
 
@@ -121,11 +126,14 @@ fun widthSearch(args:Array<String>) {
       val th = if( FilteringDomains.any { f -> url.contains(f) } ) {
         val th = Thread { 
           if(url_details[url]!!.state == "まだ") {
-            _parser(url, outDir).map { next ->
+            val urlSet = _parser(url, outDir)
+            urlSet.map { next ->
               urls.add(next)
             }
-            println("終わりに更新 : $url")
-            url_details[url]!!.state = "終わり"
+            if( urlSet != setOf<String>() ) { 
+              println("終わりに更新 : $url")
+              url_details[url]!!.state = "終わり"
+            }
           }
         }
         th 
