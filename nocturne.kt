@@ -80,6 +80,8 @@ fun nocturneHunter() {
   cookies.map { x -> 
     println(x)
   }
+  //もう必要ないので、driverをquitする
+  driver.quit()
   //System.exit(0)
   //Thread.sleep(200)
   while( ! nocts.all { x -> x.parsed == 1 }  ) { 
@@ -98,20 +100,21 @@ fun nocturneHunter() {
         PrintWriter("data/nocturne/${saveName}.html").append(html).close()
         x.parsed = 1
       } catch (e : java.io.IOException ) {
+        println(e)
         null
       }
     }
     // 子ノードを更新する
     urls.map { url ->
       println(url)
-      if( url.contains("http://noc.syosetu.com") || url.contains("http://novel18.syosetu.com") ) {
-        if( ! nocts.any { x -> x.url == url } ) {
-          val noct = Noct(url, "", -1 )
-          nocts.add(noct)
+      if( !url.contains("search") ) {
+        if( url.contains("http://noc.syosetu.com") || url.contains("http://novel18.syosetu.com") ) {
+          if( ! nocts.any { x -> x.url == url } ) {
+            val noct = Noct(url, "", -1 )
+            nocts.add(noct)
+          }
         }
       }
     }
   }
-  //もう必要ないので、driverをquitする
-  driver.quit()
 }
