@@ -247,5 +247,6 @@ fun main(args: Array<String>) {
     "jedisTest"   -> jedisTest(args)
     "pawooHunter" -> pawooHunterDriver(args.toList(), 1)
     "mstdnHunter" -> pawooHunterDriver(args.toList(), 2)
+    "nocturne"    -> nocturneHunter()
   }
 }
