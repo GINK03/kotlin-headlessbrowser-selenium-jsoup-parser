@@ -7,6 +7,7 @@ import org.jsoup.nodes.Document
 import java.nio.file.Files
 import java.nio.file.Paths
 import java.io.*
+import java.io.File
 import java.net.URLDecoder
 import java.time.LocalDateTime
 
@@ -89,16 +90,25 @@ fun nocturneHunter() {
     val size = nocts.size
     nocts.mapIndexed { i,x ->
       try {
-        val soup = Jsoup.connect(x.url).cookie("over18", "yes;").get()
-        soup.select("a").map { x ->
-          //println(x.attr("abs:href"))
-          urls.add( x.attr("abs:href") )
-        }
-        println("${i}/${size} ${x.url}")
-        val html = soup.html()
         val saveName = x.url.replace("http://", "").replace("/", "_")
-        PrintWriter("data/nocturne/${saveName}.html").append(html).close()
-        x.parsed = 1
+        when ( File(saveName).exists() ) {
+          false -> {
+            val soup = Jsoup.connect(x.url).cookie("over18", "yes;").get()
+            soup.select("a").map { x ->
+              //println(x.attr("abs:href"))
+              urls.add( x.attr("abs:href") )
+            }
+            println("${i}/${size} ${x.url}")
+            val html = soup.html()
+            PrintWriter("data/nocturne/${saveName}.html").append(html).close()
+            x.parsed = 1
+          }
+          else -> {}
+        }
+      } catch (e : org.jsoup.HttpStatusException) {
+        println(e)
+        Thread.sleep(1000)
+        // 503エラーの場合、スリープしておかないと無駄が多すぎる
       } catch (e : java.io.IOException ) {
         println(e)
         null
