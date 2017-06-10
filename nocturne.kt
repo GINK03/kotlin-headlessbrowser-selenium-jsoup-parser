@@ -49,7 +49,22 @@ fun nocturneLoader(conf:String):Pair<String, String> {
 
 
 fun nocturneHunter() {
-  val nocts:MutableSet<Noct> = mutableSetOf()
+  val type = object : TypeToken<Noct>() {}.type
+  val gson = Gson()
+  val nocts:MutableSet<Noct> = try {
+      File("nocturne.urls.txt")
+        .readText()
+        .split("\n")
+        .filter { x -> x != "" }
+        .map { x ->
+          val n = gson.fromJson<Noct>(x, type)
+          n
+        }.toMutableSet()
+       
+    } catch( e : java.io.IOException ) { 
+      println("初期値を用います")
+      mutableSetOf() 
+    }
   
   println("ノクターンノベルズをスクレイピングします")
   val DesireCaps = DesiredCapabilities()
@@ -129,5 +144,13 @@ fun nocturneHunter() {
         }
       }
     }
+
+    //全URLを保存する
+    val f = PrintWriter("nocturne.urls.txt")
+    nocts.map { x ->
+      val json = gson.toJson(x)
+      f.append( "${json}\n" )
+    }
+    f.close()
   }
 }
