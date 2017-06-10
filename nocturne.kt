@@ -91,19 +91,22 @@ fun nocturneHunter() {
     nocts.mapIndexed { i,x ->
       try {
         val saveName = x.url.replace("http://", "").replace("/", "_")
-        when ( File(saveName).exists() ) {
+        when ( File("data/nocturne/${saveName}.html").exists() ) {
           false -> {
             val soup = Jsoup.connect(x.url).cookie("over18", "yes;").get()
             soup.select("a").map { x ->
               //println(x.attr("abs:href"))
               urls.add( x.attr("abs:href") )
             }
+            x.parsed = 1
             println("${i}/${size} ${x.url}")
             val html = soup.html()
             PrintWriter("data/nocturne/${saveName}.html").append(html).close()
             x.parsed = 1
           }
-          else -> {}
+          else -> {
+            x.parsed = 1
+          }
         }
       } catch (e : org.jsoup.HttpStatusException) {
         println(e)
