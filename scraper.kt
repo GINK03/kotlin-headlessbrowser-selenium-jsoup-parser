@@ -11,9 +11,6 @@ import java.nio.file.Paths
 import java.io.*
 import java.net.URLDecoder
 import java.time.LocalDateTime
-//import com.fasterxml.jackson.core.JsonProcessingException
-//import com.fasterxml.jackson.databind.ObjectMapper
-//import com.fasterxml.jackson.module.kotlin.*
 
 //ここからselenium
 import org.openqa.selenium.By
@@ -70,6 +67,8 @@ fun _load_conf() {
       url_details[url] = data
     }
   } catch( e: java.io.FileNotFoundException ) {
+    println(e)
+  } catch( e: java.lang.IllegalStateException ) {
     println(e)
   }
 }
@@ -148,7 +147,9 @@ fun widthSearch(args:Array<String>) {
         if(Thread.activeCount() > concurrentNum ) {
           println("now sleeping...")
           Thread.sleep(50)
-        }else{ break } 
+        } else { 
+          break 
+        } 
       }
     }
     threads.map { th -> 
