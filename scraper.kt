@@ -17,6 +17,8 @@ import org.openqa.selenium.By
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.firefox.FirefoxDriver
+import org.openqa.selenium.chrome.ChromeDriver
+import org.openqa.selenium.chrome.ChromeOptions
 import org.openqa.selenium.phantomjs.PhantomJSDriver
 import org.openqa.selenium.support.ui.ExpectedCondition
 import org.openqa.selenium.support.ui.WebDriverWait
@@ -26,12 +28,8 @@ import org.openqa.selenium.Dimension
 import java.util.concurrent.TimeUnit
 import java.net.URLEncoder
 
-// jacksonはやめてGsonで行く
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-
-// ここからredis(jedis)
-import redis.clients.jedis.Jedis
 
 val url_details:MutableMap<String, Data> = mutableMapOf()
 
@@ -211,18 +209,47 @@ fun imageSeleniumDriver(args: List<String?>) {
   }
 }
 
-fun jedisTest(args: Array<String>) {
-  val jedis = Jedis("localhost")
-  jedis.keys("*").map { k ->
-    try { 
-      println(k)
-      println(jedis.hgetAll(k)) 
-    } catch ( e: redis.clients.jedis.exceptions.JedisDataException ) {
+fun imageAdSeleniumCollector(args: List<String?>) {
+  val inputFile = args.getOrElse(1) { "bwh.txt" }
+  val outputFile = args.getOrElse(2) { "imgs" } 
+  println("このファイルを用います, ${inputFile}")
+  println("このディレクトリに保存します, ${outputFile}")
+  // ディレクトリを作成
+  Runtime.getRuntime().exec("mkdir -p ${outputFile}").waitFor()
+  //val userAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+  //System.setProperty("phantomjs.page.settings.userAgent", userAgent)
+  //System.setProperty("phantomjs.binary.path", "/usr/bin/phantomjs")
+  val chromeOptions = ChromeOptions()
+  chromeOptions.setBinary("/usr/bin/google-chrome");
+  chromeOptions.addArguments("--headless");
+  System.setProperty("webdriver.chrome.driver","/usr/bin/google-chrome")
+  //val driver = PhantomJSDriver()
+  val driver = ChromeDriver(chromeOptions)
+  driver.manage().window().setSize(Dimension(4096,4160))
+  driver.get("http://jin115.com/archives/52193186.html")
+  //すべての画像が描画されるのを待つ
+  Thread.sleep(1500)
+  val html = driver.getPageSource()
+  val doc  = Jsoup.parse(html.toString(), "UTF-8")
+  println(doc.title())
+  doc.select("iframe").map { iframe ->
+    iframe.select("img").filter { x -> 
+      // this flag mean google adword image cratives, im.c.yimg.jp
+      x.attr("src").contains("googlesyndication.com") || 
+      x.attr("src").contains("im.c.yimg.jp") 
+    }.map { x ->
+      println(x)
+      val src     = x.attr("src")
+      val saveName = src.split("/").last()
+      Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${saveName}.jpg").waitFor()
     }
   }
-  val m = mapOf("a" to "b", "c" to "d")
-  jedis.hmset("key3", m)
+  val data = (driver as TakesScreenshot).getScreenshotAs(OutputType.BYTES)
+  Files.write(Paths.get("${outputFile}.png"), data)
+  //もう必要ないので、driverをquitする
+  driver.quit()
 }
+
 
 fun pawooHunterDriver(args:List<String>, mode:Int ){ 
   val num = args.filter { x -> x.contains("th=") }.map { x -> x.split("=").last() }?.last()?.toInt() ?: 3
@@ -245,9 +272,9 @@ fun main(args: Array<String>) {
     "widthSearch" -> widthSearch(args)
     "batch"       -> batchExecutor(args)
     "image"       -> imageSeleniumDriver(args.toList())
-    "jedisTest"   -> jedisTest(args)
     "pawooHunter" -> pawooHunterDriver(args.toList(), 1)
     "mstdnHunter" -> pawooHunterDriver(args.toList(), 2)
     "nocturne"    -> nocturneHunter()
+    "imageAd" -> imageAdSeleniumCollector(args.toList())
   }
 }
