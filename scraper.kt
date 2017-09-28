@@ -19,6 +19,7 @@ import org.openqa.selenium.WebElement
 import org.openqa.selenium.firefox.FirefoxDriver
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
+import org.openqa.selenium.PageLoadStrategy
 import org.openqa.selenium.phantomjs.PhantomJSDriver
 import org.openqa.selenium.support.ui.ExpectedCondition
 import org.openqa.selenium.support.ui.WebDriverWait
@@ -223,8 +224,10 @@ fun imageAdSeleniumCollector(args: List<String?>) {
   //System.setProperty("phantomjs.page.settings.userAgent", userAgent)
   //System.setProperty("phantomjs.binary.path", "/usr/bin/phantomjs")
   val chromeOptions = ChromeOptions()
-  chromeOptions.setBinary("/usr/bin/google-chrome");
-  chromeOptions.addArguments("--headless");
+  chromeOptions.setBinary("/usr/bin/google-chrome")
+  chromeOptions.addArguments("--headless")
+  chromeOptions.setHeadless(true)
+  chromeOptions.setPageLoadStrategy( PageLoadStrategy.NONE )
   System.setProperty("webdriver.chrome.driver","/usr/local/bin/chromedriver")
   //val driver = PhantomJSDriver()
   val driver = ChromeDriver(chromeOptions)
@@ -240,19 +243,19 @@ fun imageAdSeleniumCollector(args: List<String?>) {
     for( url in urls ) {
       println("now scaning url is ${url}... please wait...")
       driver.get( url )
-      println("BBB")
+      println("finish to load page data ")
 
       //すべての画像が描画されるのを待つ
-      Thread.sleep(1000)
+      Thread.sleep(1500)
       val html = driver.getPageSource()
       val doc  = Jsoup.parse(html.toString(), "UTF-8")
       println(doc.title())
       
-      for( ahref in doc.select("a[href]") ) { 
+      scanURL@for( ahref in doc.select("a[href]") ) { 
         val newURL = ahref.attr("abs:href")
+        if ( !newURL.contains("http://jin115.com") )
+          continue@scanURL
         println(newURL )
-        if ( !!newURL.contains("http://jin115.com") )
-          continue
         if ( URL.get(newURL) == null )  
           URL[newURL] = "noscraped"
       }
