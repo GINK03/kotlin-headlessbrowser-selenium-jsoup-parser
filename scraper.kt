@@ -233,7 +233,7 @@ fun imageAdSeleniumCollector(args: List<String?>) {
   val driver = ChromeDriver(chromeOptions)
   driver.manage().window().setSize(Dimension(4024,4024))
   println("AAAA")
-  val masterUrl = "http://jin115.com/archives/52193186.html"
+  val masterUrl = "http://internet.watch.impress.co.jp/docs/yajiuma/1082946.html"
   URL[masterUrl] = "noscraped"
 
   loop@while(true) {
@@ -246,68 +246,102 @@ fun imageAdSeleniumCollector(args: List<String?>) {
       println("finish to load page data ")
 
       //すべての画像が描画されるのを待つ
-      Thread.sleep(1500)
+      Thread.sleep(500)
       val html = driver.getPageSource()
       val doc  = Jsoup.parse(html.toString(), "UTF-8")
       println(doc.title())
       
       scanURL@for( ahref in doc.select("a[href]") ) { 
         val newURL = ahref.attr("abs:href")
-        if ( !newURL.contains("http://jin115.com") )
+        if ( !newURL.contains("impress.co.jp") )
           continue@scanURL
-        println(newURL )
-        if ( URL.get(newURL) == null )  
+        if ( URL.get(newURL) == null ) {
           URL[newURL] = "noscraped"
+          println(newURL )
+        }
       }
-      for( iframe in driver.findElements(By.tagName("iframe")) ) {
+      for( iframe in (0..driver.findElements(By.xpath("//iframe")).size-1) ) {
         try {
           val iframeD = driver.switchTo().frame( iframe )
-          Thread.sleep(500)
+          println("CCC")
+          Thread.sleep(100)
           val iframeHtml = iframeD.getPageSource()
           val iframeDoc  = Jsoup.parse(iframeHtml.toString(), "UTF-8")
+          
           iframeDoc.select("img").filter { x -> 
             // this flag mean google adword image cratives, im.c.yimg.jp
             x.attr("src").contains("im.c.yimg.jp") 
+            || x.attr("src").contains("i-mobile.co.jp") 
+            || x.attr("src").contains("googlesyndication.com")
+
+            true
           }.map { x ->
             println(x)
             val src = x.attr("src")
             val saveName = src.split("/").last()
-            Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${saveName}").waitFor()
+            val suffix = when {
+              saveName.contains(".png") || saveName.contains(".jpg") -> ""
+              else -> ".jpg"
+            }
+            Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${saveName}${suffix}").waitFor()
           }
           // Google Adwordsのように複数回ネストしてアドが入っている場合
-          iframeDoc.select("iframe").filter {
-            it.attr("id").contains("google")
-          }.map {
+          iframeDoc.select("iframe")
+          .map {
             // ここは入れ子のオペレーション
             for( iframe2 in driver.findElements(By.tagName("iframe")) ) {
+              println("iframe2 ${iframe2}")
               val iframeD2 = driver.switchTo().frame( iframe2 )
+              Thread.sleep(100)
               val iframeHtml2 = iframeD2.getPageSource()
               val iframeDoc2  = Jsoup.parse(iframeHtml2.toString(), "UTF-8")
-              iframeDoc2.select("img").filter { x -> 
-                // this flag mean google adword image cratives, im.c.yimg.jp
-                x.attr("src").contains("googleads") 
-              }.map { x ->
-                println(x)
+              iframeDoc2.select("img").map { x ->
                 val src = x.attr("src")
                 val saveName = src.split("/").last()
-                Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${saveName}").waitFor()
+                println(" $x save name is ${saveName}")
+                val suffix = when {
+                  saveName.contains(".png") || saveName.contains(".jpg") -> ""
+                  else -> ".jpg"
+                }
+                Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${saveName}${suffix}").waitFor()
+              }
+              iframeDoc2.select("iframe").map {
+                for( iframe3 in driver.findElements(By.tagName("iframe")) ) {
+                  println("iframe3 ${iframe3}")
+                  val iframeD3 = driver.switchTo().frame( iframe3 )
+                  Thread.sleep(100)
+                  val iframeHtml3 = iframeD3.getPageSource()
+                  val iframeDoc3  = Jsoup.parse(iframeHtml3.toString(), "UTF-8")
+                  iframeDoc3.select("img").map { x ->
+                    val src = x.attr("src")
+                    val saveName = src.split("/").last()
+                    println(" $x save name is ${saveName}")
+                    val suffix = when {
+                      saveName.contains(".png") || saveName.contains(".jpg") -> ""
+                      else -> ".jpg"
+                    }
+                    Runtime.getRuntime().exec("wget ${src} -O ${outputFile}/${saveName}${suffix}").waitFor()
+                  }
+                  driver.switchTo().defaultContent()
+                }
               }
               driver.switchTo().defaultContent()
             }
+            
           }
           // recover to master page
           driver.switchTo().defaultContent()
         } catch( e : java.lang.Exception ) {
-          //println("Exception as ${e}")
+          println("Exception as ${e}")
           println("Exception occured ${iframe}")
         }
       }
       URL[url] = "finished"
+  val data = (driver as TakesScreenshot).getScreenshotAs(OutputType.BYTES)
+  Files.write(Paths.get("${outputFile}.png"), data)
     }
   }
   // go to loop
-  val data = (driver as TakesScreenshot).getScreenshotAs(OutputType.BYTES)
-  Files.write(Paths.get("${outputFile}.png"), data)
   //もう必要ないので、driverをquitする
   driver.quit()
 }
